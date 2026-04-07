@@ -1,0 +1,1377 @@
+Transcript: Kalesh-Onboarding-20260407_071540UTC-Meeting Recording.mp4
+Generated: 2026-04-07 08:00:21 UTC
+============================================================
+
+kalesh Patil:
+  Hello.
+
+Raj:
+  Hey, my kalesh.
+
+kalesh Patil:
+  Hello, Raj sir.
+
+Raj:
+  Good afternoon, and yes, everyone.
+
+kalesh Patil:
+  Nothing.
+  Yeah.
+
+Raj:
+  No one said.
+
+kalesh Patil:
+  Osayan.
+
+Raj:
+  How are you?
+
+kalesh Patil:
+  I'm fine, how are you?
+
+Raj:
+  I'm good as well. Where are you from?
+
+kalesh Patil:
+  I am from Jayabalan, but currently I am in Pune.
+
+Raj:
+  Oh, cool, cool, cool, cool. Yes.
+
+kalesh Patil:
+  Yeah.
+
+Raj:
+  Uh, any questions? Anything before you before we go ahead? Like, anything?
+
+kalesh Patil:
+  Yes, just a little bit question on which technologies or on which tech stacks we are going to work or what will be the work for me? It will be the individual work or our team work, like having the team.
+  So who will be my teammate on all these stuffs? Can you just little bit explain to me?
+
+Raj:
+  Yeah.
+  Yeah, yeah, sure. So, talking about your, uh, what technologies you are going to work on, I'm ultimately late.
+
+kalesh Patil:
+  Yes, yes, you are already.
+
+Raj:
+  Cool. So.
+  I think you will be going to work on anything, right? Anything is basically an automation tool where we automate the workflows and our day-to-day tasks, right?
+
+kalesh Patil:
+  Lien.
+  Thanks, thanks.
+
+Raj:
+  Then, suppose that you will be working on UIs, right? Developing UIs, testing UIs, right?
+
+kalesh Patil:
+  Okay.
+
+Raj:
+  that's not like you have to dig up and hold yourself on your own right will be will be doing everything using cloud right so what you know about cloud right or no
+
+kalesh Patil:
+  Okay.
+  Okay.
+  Yes, sir.
+
+Raj:
+  You know about Claude.
+
+kalesh Patil:
+  I know that, yes, yes, I use both Lord and and Anshul.
+
+Raj:
+  Okay, cool. That's great. That's great. So, will you basically giving a detailed prompt to cloud, right? It will do everything for me, right? Every single thing. We don't need to look manually for anything. It will do everything. Then we will be, yeah, definitely we'll be testing it.
+
+kalesh Patil:
+  I have used it.
+  Correct.
+  Yes.
+
+Raj:
+  Cause like it's only AI which is doing the stuff for us, right? So we can't rely on that. So we'll be testing, we'll be.
+
+kalesh Patil:
+  Mhm.
+
+Raj:
+  All.
+  Hard, like hard testing or whatever stuffs we are building using cloud, right?
+
+kalesh Patil:
+  Right.
+
+Raj:
+  So, yep, so these are the tools and works that you are going to work on. Any doubts in this, like...
+
+kalesh Patil:
+  No, got that, got everything.
+
+Raj:
+  Okay, on your second questions, who will be your teammates? We all are like, we'll be working in the same team, right? I think we are six, seven members, and Piyush and Navpreet, like everyone is so helpful and cooperative, right? So we'll be working together.
+
+kalesh Patil:
+  Yeah.
+  Good.
+  Okay.
+  Yes, sure, sure.
+
+Raj:
+  Ohh yeah, and what's there? Any other questions? Like, we have three questions, I guess. OK, no, no worries.
+
+kalesh Patil:
+  No.
+  Uh, you know, I got clarification enough.
+
+Raj:
+  No worries, no worries, yeah, that's great.
+  So...
+  Uh, let's log in to your cloud account first. Wait, I'm sharing the creds with you, OK?
+
+kalesh Patil:
+  Yes.
+  Okay.
+
+Raj:
+  Oh.
+  Can you share your screen? Is it possible or?
+
+kalesh Patil:
+  Yes, yes, sure.
+
+Raj:
+  Yeah.
+  Like, don't hesitate to ask anything, right? Uh, we all are learning.
+  Nollie.
+
+kalesh Patil:
+  Ahmed.
+
+Raj:
+  So, yes.
+  I have.
+
+kalesh Patil:
+  Okay.
+  Is it visible?
+
+Raj:
+  Yeah, it is.
+  I'm dropping, open your chat.
+
+kalesh Patil:
+  Okay.
+
+Raj:
+  If you go to chat, yeah, chat, OK, OK, just click on this one.
+  kalesh on boarding.
+  On the left, you can see.
+
+kalesh Patil:
+  OK, all all the teams, OK.
+
+Raj:
+  Yeah, yeah, yeah, yeah, yeah.
+
+kalesh Patil:
+  Yeah.
+
+Raj:
+  So, you can see the count.
+
+kalesh Patil:
+  Okay.
+
+Raj:
+  Go to open, open Chrome.
+  This is the profile that you will be working in, like this is your work profile, right? Or do you want to create a new one?
+
+kalesh Patil:
+  Okay, just okay, I can create a new one profile.
+
+Raj:
+  No worries, you can work here as well, but just I'm asking. Do you want to create a new one or? Just I'm asking because it might confuse you, right? Because I have created a new work profile for.
+
+kalesh Patil:
+  Yes, sir.
+
+Raj:
+  Work stuffs.
+
+kalesh Patil:
+  Yeah.
+  Understand.
+  I should create a new one, I think.
+
+Raj:
+  I don't log into Chrome.
+
+kalesh Patil:
+  OK.
+
+Raj:
+  Oh.
+  Do one thing, go ahead with this profile only. Just open Cloud.
+
+kalesh Patil:
+  Okay.
+
+Raj:
+  You can log out this one.
+  Continue with Google. No, continue. Wait, wait, wait, enter your e-mail.
+  Enter your e-mail me a D.K. Subswallad although.
+
+kalesh Patil:
+  Okay.
+  Okay.
+
+Raj:
+  You are comfortable with Hindi as well, right?
+
+kalesh Patil:
+  Yeah.
+
+Raj:
+  Good.
+  Enter, wait, enter verification code.
+  Piyush will be sending it with. Give me one minute.
+
+kalesh Patil:
+  Yes, yes.
+
+Raj:
+  It's 143.
+
+kalesh Patil:
+  Call Padhi Sanjay.
+  One, 4, three.
+
+Raj:
+  One 48.
+
+kalesh Patil:
+  Thanks for that.
+
+Raj:
+  Yes.
+  He logged in right with Piyush account cool, yes, uh, now.
+
+kalesh Patil:
+  Correct.
+  Yes.
+
+Raj:
+  Do you have VS Code installed?
+
+kalesh Patil:
+  Yeah.
+
+Raj:
+  OK, open that.
+  By the way, this call is recorded, right? So you can refer to it anytime.
+  And also you can ping me anytime, right?
+
+kalesh Patil:
+  Okay.
+  Okay.
+
+Raj:
+  You can ping, ping in the group.
+  and ask for any help, anything. This is your VS Code. Interesting, this is new UI.
+
+kalesh Patil:
+  If...
+
+Raj:
+  DA.
+  Go to extensions.
+  Search for cloud.
+
+kalesh Patil:
+  It's a plot hole.
+
+Raj:
+  So, yeah, second, second one.
+  install it. It's already installed. OK, install it.
+  Meanwhile, I am sending you the zip files. Wait.
+  Yet again, installer timer based at all.
+
+kalesh Patil:
+  Yeah.
+  I thought the world is even.
+
+Raj:
+  Beach may interrupt.
+  So, beach may in Roklamuji.
+  Go to Company.
+
+kalesh Patil:
+  Uh, maybe.
+  S.
+
+Raj:
+  Okay, can you turn Jayabalan?
+
+kalesh Patil:
+  Yes.
+
+Raj:
+  Okay, now a com girl. Is my question. My VS code go low. VS code go low. I think it's my project.
+
+kalesh Patil:
+  DA.
+  Correct.
+
+Raj:
+  You are on call.
+
+kalesh Patil:
+  Yeah.
+
+Raj:
+  Hmm.
+  Yeah, cursor.
+
+kalesh Patil:
+  I said, on a loop.
+
+Raj:
+  VS Code, anyways, they go right, right side, may claude the icon in the top.
+
+kalesh Patil:
+  I mean.
+  DA.
+  Right, sir. Okay, then.
+
+Raj:
+  Vispute click on.
+  krishna.
+
+kalesh Patil:
+  Like the Sara.
+
+Raj:
+  Hey, good, hi.
+  You are welcome, Kano.
+  So, you get started with Claude Cortana.
+
+kalesh Patil:
+  Then, don't click on it.
+  That's the second.
+  Yeah.
+  Okay.
+
+Raj:
+  It's my Claudia subscription to click on now.
+
+kalesh Patil:
+  Singh.
+
+Raj:
+  Summary.
+  Copy, copy.
+  Ohh, it's gonna, yeah, yeah, yeah.
+
+kalesh Patil:
+  Thank you.
+
+Raj:
+  Yeah, it's been second tab, yeah, you see tab, maybe URL copy.
+
+kalesh Patil:
+  Yeah.
+  Later.
+  Yeah.
+
+Raj:
+  Authorized.
+  BS code.
+  Georgina, perfect, yes.
+  Kuch me, you are sorted. OK, many chat me, ABJ, those files, let's go download them now.
+
+kalesh Patil:
+  Play Singh Jayabalan.
+
+Raj:
+  When you name the scholar Sanjay.
+  The basically one of the UI.
+
+kalesh Patil:
+  OK.
+
+Raj:
+  Uh, only, only there's a, could mean.
+
+kalesh Patil:
+  Go to DA.
+  Because we need authorization.
+
+Raj:
+  Hey, Clinic.
+  Yeah, you cannot download mean something.
+  OK, we gonna download one.
+  Cortana, I suppose not. The yeah, Ghana, Hamari, one of EU, ATK just pay. I think used to make LCP.
+
+kalesh Patil:
+  Correct, look at you.
+
+Raj:
+  Huh, so it's been on LCI LGP reports trigger Kartik UI UI or case I didn't input Kartik or generate report or trigger Ojati. Summary backend and internet again only backend and return pair or coach code.
+
+kalesh Patil:
+  Okay.
+  Mhm.
+  Lien.
+
+Raj:
+  Uh, E.C. two.
+
+kalesh Patil:
+  Anshul.
+
+Raj:
+  AWS cool, cool.
+
+kalesh Patil:
+  Navpreet.
+
+Raj:
+  The EE is gonna play local to set up, yeah, UI, you know, AWS infrastructure, local setup, Raj again for this particular code go understand the net totally.
+
+kalesh Patil:
+  Yeah.
+  Correct.
+  Okay.
+  Team.
+
+Raj:
+  So, we can go.
+  one UI a day or I think Doctor UI Beijung Ahmed. I gotta hope I tell but.
+  Sorry, yes.
+  Take folder when I location volume.
+  For us may at the Company key. Sorry. Data I come to be over tomorrow going forward. We may I have volume BMR. Data kernel on say folder.
+
+kalesh Patil:
+  Hey, ceji.
+
+Raj:
+  Hey, Cortana.
+  Can there be a colder banana, Raj?
+  This can that on POC.
+
+kalesh Patil:
+  Of CY.
+
+Raj:
+  Yeah, Ops NAS U.
+
+kalesh Patil:
+  Piyush.
+
+Raj:
+  U.
+
+kalesh Patil:
+  U, OK.
+
+Raj:
+  Yes.
+  How is gonna be sure though?
+  Expert.
+  Ohh.
+  Ha ha ha, sure, sure.
+
+kalesh Patil:
+  Okay, regular time regularly.
+
+Raj:
+  Ohh.
+  It's very flexible, it's very flexible, as he fixed timing, and then my heart gonna take Ahmed and Tiger.
+
+kalesh Patil:
+  Vocals.
+  Okay.
+  Alert.
+
+Raj:
+  Uh, work timing basically stand up, right?
+
+kalesh Patil:
+  Okay.
+  Okay.
+
+Raj:
+  So, yeah, sorry, so welcome, because Navpreet is in foreign right, so.
+
+kalesh Patil:
+  Yes.
+  Correct.
+
+Raj:
+  Uh, timing Kelly Maria early call of the. Can give you a later in a heart and object only. But not. It's not possible for him. But I like you know a beat.
+
+kalesh Patil:
+  Hmm.
+  Mhm.
+
+Raj:
+  Like, go.
+
+kalesh Patil:
+  Okay.
+  Okay, timeline conceal.
+
+Raj:
+  Sorry?
+
+kalesh Patil:
+  The only timeline gonna say what's the...
+
+Raj:
+  I got ESD and get ESD.
+
+kalesh Patil:
+  Okay, EST.
+
+Raj:
+  Yes, DA will Canada.
+
+kalesh Patil:
+  So when I jump on the call, come meet Hana, sorry, does the Indian temple, so around 1:00 AM EST, so Google Kiana, so whoa, sorry, possibly.
+
+Raj:
+  Wow.
+  Ah, exactly.
+  Patil.
+  Gotcha.
+
+kalesh Patil:
+  So, maybe sorry, there's still meeting till late for some.
+
+Raj:
+  Going in, going in, going in, don't get a Rathodi, Mariek meeting with the. Do meetings with the compulsory attend the near Suganya stand up Kartik tasks.
+
+kalesh Patil:
+  Okay.
+  Okay.
+  In.
+  Okay.
+
+Raj:
+  Tiger, or fair, Shyam, I'm updated. Yeah, good blocker. I'm kind of stuck. Tiger, he, he, she's a blocker. This guy said tomorrow, Kamirog, again.
+
+kalesh Patil:
+  Yeah.
+  Yeah.
+  Mhm.
+  Yeah.
+  Mm.
+  Singh.
+
+Raj:
+  I am blog team.
+
+kalesh Patil:
+  Okay.
+
+Raj:
+  Uh, what is our resolution involving it?
+
+kalesh Patil:
+  Thank you.
+  Okay.
+
+Raj:
+  You'll be on zip code.
+  Control Z.
+
+kalesh Patil:
+  Hey, like, delete me for Raman, just open the.
+
+Raj:
+  Nine and a.
+
+kalesh Patil:
+  So.
+  MDB.
+
+Raj:
+  Yeah, sorry, sorry, sorry, sorry.
+
+kalesh Patil:
+  I.
+  Yes.
+
+Raj:
+  Right-clicker or VS Code?
+  No, no, no.
+
+kalesh Patil:
+  Open Kartik.
+
+Raj:
+  Okay, okay, um, they go right, VS Code on a call, yeah, sorry, VS Code, Claude, Claude Code, open right?
+  Right, right, right, right, high school.
+
+kalesh Patil:
+  Ahmed.
+  Correct.
+
+Raj:
+  Yes, very well.
+  Update.
+  Subsequently, to call Suganya.
+
+kalesh Patil:
+  Yeah.
+
+Raj:
+  The code somebody looking at my kitchen. Claude was khana. K yeah yeah Mary project folder ticket. Folder can Ahmed then exactly Joby LE VP SM SMDLC Piano Ops UI Kartik Dev again. This is my folder. Or.
+
+kalesh Patil:
+  Mm.
+  Yeah.
+  Mhm.
+  Okay.
+
+Raj:
+  Mujhe end to end, explain Ghodadra.
+
+kalesh Patil:
+  In.
+
+Raj:
+  So, Sara could explain the document, well-structured document.
+
+kalesh Patil:
+  Yeah.
+
+Raj:
+  So much.
+
+kalesh Patil:
+  Mm-hmm.
+
+Raj:
+  Yes, yes, Kartik.
+
+kalesh Patil:
+  Yeah.
+
+Raj:
+  So, or, uh, yeah, yeah.
+
+kalesh Patil:
+  Mhm.
+
+Raj:
+  Their second gam kya tumi is company local post.
+  Claude Bolna, MD file 8 banagar DA, just my instructions, just minimize, you want to click on the drop down.
+
+kalesh Patil:
+  The.
+  Obviously, OK, it's still close.
+
+Raj:
+  Exactly, exactly, yeah, yeah, if I enjoy.
+
+kalesh Patil:
+  We are not a suction in Ghodadra.
+
+Raj:
+  This code, my Lord, go with me, can I will 90 instructions file a ticket?
+
+kalesh Patil:
+  Mhm.
+
+Raj:
+  This is my instruction file. Follow this and host the host the complete UI on my local system.
+  And give me the link, right?
+
+kalesh Patil:
+  Tech.
+  Correct.
+
+Raj:
+  Eight is down right now, key open it.
+  Lord code Jitana Jitana Jitana detailed Jitna clear from do you know Tanya Chisoka. Garthum as I like Dogaki host this UI. This is your instruction again. But let some looking to me like the way this is my and host this UI. I was.
+
+kalesh Patil:
+  Team.
+  Padhi.
+  Singh.
+
+Raj:
+  Who's this UI? This is your instruction file. Follow this. I want this UI to be hosted on my local system. Tiger. So you to me or a ceji.
+
+kalesh Patil:
+  Yeah.
+  Correct.
+  Detail prompt.
+
+Raj:
+  Yes, engineering.
+
+kalesh Patil:
+  Correct, correct.
+
+Raj:
+  Yes, you don't.
+
+kalesh Patil:
+  Awesome.
+
+Raj:
+  Yes, okay, okay.
+
+kalesh Patil:
+  So, basically, let's go back into into.
+
+Raj:
+  Ahmed.
+
+kalesh Patil:
+  Back end, actually.
+
+Raj:
+  Exactly. Fast API.
+
+kalesh Patil:
+  Correct, OK.
+  Okay, okay.
+
+Raj:
+  Fast API backend.
+
+kalesh Patil:
+  Mm-hmm.
+
+Raj:
+  So.
+
+kalesh Patil:
+  Yeah.
+
+Raj:
+  Hey, girl, Patil.
+
+kalesh Patil:
+  No, no.
+
+Raj:
+  Ohh, make another.
+  Only I meant.
+  Oh, my. Yeah, can you be blocker? I don't think.
+
+kalesh Patil:
+  Ohh.
+  Okay.
+
+Raj:
+  Hey, yeah, yeah, yeah. Sorry, look, so Matt, maybe to my resolution. Doctor UI, the shift, Karen.
+
+kalesh Patil:
+  Mm.
+  Yeah.
+  You're welcome.
+  Okay.
+
+Raj:
+  Take care.
+
+kalesh Patil:
+  Mhm.
+  Okay.
+
+Raj:
+  Of my screen share, I cannot admindataeng.
+
+kalesh Patil:
+  OK, let's talk.
+
+Raj:
+  Hey, Ahmed.
+  Name automatically.
+
+kalesh Patil:
+  Okay, krishna.
+
+Raj:
+  Yes.
+  They could just say.
+  interactive HTML file. DA. TK to go to me web version me as a detailed step by step kalesh and back end front end connected at database connected at TK whose database tables tables.
+
+kalesh Patil:
+  Mm.
+  It.
+
+Raj:
+  Take care, primary key purpose, database, sorry, ceji, ceji, or joki to make krishna read.
+
+kalesh Patil:
+  Mmh.
+
+Raj:
+  So, what do you do?
+
+kalesh Patil:
+  No, something.
+
+Raj:
+  Just a, just a phase three, yeah, not detailed interactive HTML file, HTML file, create Word document use for the bold in a create HTML file.
+
+kalesh Patil:
+  Mmh.
+  Mhm.
+
+Raj:
+  Kitna interactive algorithm, Bhardwaj, just to me, put me Padhi Raj, call to me, refer to me, yes, MSP review, car steps, who have it out, are you?
+
+kalesh Patil:
+  Yeah.
+  Really?
+
+Raj:
+  DA.
+  So, I say the name.
+  Like Word, Word file.
+
+kalesh Patil:
+  Hey there.
+  Alert.
+
+Raj:
+  DA DA.
+
+kalesh Patil:
+  DA.
+
+Raj:
+  GitHub access, but.
+  As I don't niki. Well, OK, OK, is my question here. Yeah, my GitHub. Yeah, some basically a bido repo. On rate the Nagar to make this. Yeah.
+  Hope you AI.
+  OK, just give me maybe download the OK.
+
+kalesh Patil:
+  Okay.
+  Mhm.
+
+Raj:
+  Of this major, Georgina, to Tom use. Kartik.
+
+kalesh Patil:
+  Kartik that.
+
+Raj:
+  Yeah, and krishna.
+  Yeah, you wanna DM on it?
+
+kalesh Patil:
+  OK.
+
+Raj:
+  Back end, front end, fully code, fully code setup.
+
+kalesh Patil:
+  Okay.
+  Okay.
+
+Raj:
+  They get Pakistan, which is ignore Kartik, all those three will be OPSYK here on to step. Some any 10 as a backend use may use AWS Lambda microservices user.
+
+kalesh Patil:
+  Okay.
+  Singh.
+
+Raj:
+  To.
+  A little bit confusion over.
+
+kalesh Patil:
+  Okay, good.
+
+Raj:
+  Ski access.
+
+kalesh Patil:
+  Hmm, are you currently with exactly brief maps and other things?
+
+Raj:
+  Yep.
+
+kalesh Patil:
+  Okay.
+
+Raj:
+  Zip file.
+
+kalesh Patil:
+  Okay.
+  Mhm.
+
+Raj:
+  Document, overview.
+
+kalesh Patil:
+  Thank you.
+
+Raj:
+  Kikya hai.
+
+kalesh Patil:
+  Okay.
+
+Raj:
+  At lab. Pipeline gear. Cassif local right? Cassif local V and using. Again. OC glow. Waiver parlo. My alarms a egg dog until.
+
+kalesh Patil:
+  Okay.
+  Team.
+
+Raj:
+  Tiger, ek do diagan tilaga dekhlo. Or yeju ami host karna do sri ji's tumare is pay local pay.
+
+kalesh Patil:
+  Team.
+  Mmh.
+  Okay.
+
+Raj:
+  Ops UI at my time nilaga Lord Kartik Sara maximum.
+
+kalesh Patil:
+  Okay.
+
+Raj:
+  DA.
+
+kalesh Patil:
+  Okay.
+  Summary, OK.
+
+Raj:
+  Not saying, admindataeng.
+
+kalesh Patil:
+  Take DA.
+
+Raj:
+  Or VS Code extension may use Ghana to get QQ OS folder access. OK.
+
+kalesh Patil:
+  Then.
+  Okay.
+
+Raj:
+  There's a man is go here, there is particular a folder and is in both sorry sub folders and.
+  Okay.
+
+kalesh Patil:
+  Okay, okay.
+
+Raj:
+  What goes down again?
+
+kalesh Patil:
+  No, not enough clear, Kartik.
+
+Raj:
+  Sorry?
+
+kalesh Patil:
+  Mujhe enough clear hai ke mujhe karna kaye.
+
+Raj:
+  Okay.
+
+kalesh Patil:
+  Yes.
+
+Raj:
+  Oh.
+  Yes.
+
+kalesh Patil:
+  Ohh.
+
+Raj:
+  Uh, you can go ahead. Or doubt.
+
+kalesh Patil:
+  Yeah, sure.
+
+Raj:
+  Diego.
+
+Piyush:
+  Ohh, hello, guys. Hey, sorry, go ahead, Raj, go ahead.
+
+kalesh Patil:
+  Hello, krishna.
+
+Raj:
+  Hello, hi Piyush.
+
+Piyush:
+  Okay, Raj, go ahead. You were saying something. After that, I will say, go ahead, please.
+
+kalesh Patil:
+  Hello!
+
+Raj:
+  HTML file understanding interactive type HTML file.
+
+kalesh Patil:
+  Right.
+
+Raj:
+  Do ceji cloud.
+  Sanjay.
+
+kalesh Patil:
+  Okay. Oh, yes, yes.
+
+Raj:
+  Ohh.
+  Or Koshi's gonna get detailed from donor cloud.
+
+kalesh Patil:
+  Correct, yeah.
+
+Raj:
+  Piyush.
+  Yeah, he has Piyush. I'm good.
+
+Piyush:
+  So kalesh.
+
+kalesh Patil:
+  Yes, uh, done with that.
+
+Piyush:
+  Repository, repository set up.
+
+kalesh Patil:
+  Yes, yes.
+
+Piyush:
+  I think Docker container, you know, install to do that, run the system on your laptop, correct?
+
+kalesh Patil:
+  Clinic.
+  Okay.
+  Okay.
+
+Piyush:
+  Claude, I'm very new to this. Can you help me explain, and you will be surprised to see? Kitna, explain kalesh.
+
+kalesh Patil:
+  Mm.
+  Okay.
+
+Raj:
+  Okay.
+
+kalesh Patil:
+  Yeah, yeah, again, yeah, cloud code extension.
+
+Piyush:
+  Ah, but yeah, this will give you literally like superpowers, kalesh, okay? That is what is the power of plot code, okay?
+
+Raj:
+  Yes.
+
+kalesh Patil:
+  Yes, sir.
+  Yeah, yes.
+  Here you go.
+
+Piyush:
+  OK, so kalesh, what is that you have to do? What is the goal?
+
+kalesh Patil:
+  So, today's task as key, so is code, then, uh, code understand, then local host, uh, that's it, and, uh, to learn, yeah, cloud code.
+
+Piyush:
+  Mhm.
+  Mm-hmm.
+  Mm-hmm.
+
+kalesh Patil:
+  I use utilise understand detail from or though files word file and HTML file for my reference.
+
+Piyush:
+  Correct, correct.
+
+Raj:
+  Review, Singh, Telugu.
+
+Piyush:
+  Correct. All questions note, I want questions from you, but I know that you are getting okay, please try to use this opportunity because generally you know, priority access.
+
+kalesh Patil:
+  Yeah, so...
+  Yes.
+
+Piyush:
+  It's super expensive, so just saying, you can create everything, anything, and you can be like 50X faster, and I'm not making it up. When you will use it, you'll understand it. Job was access, whoa, coffee expensive here. Month on month, we pay some 30,000 rupees or whatever to get that access.
+
+kalesh Patil:
+  Correct.
+
+Raj:
+  Mm.
+
+kalesh Patil:
+  Mhm.
+  Yes.
+  Ahmed.
+
+Piyush:
+  Yeah, both expensive in terms of coding, coding.
+
+kalesh Patil:
+  Yes.
+  Yes.
+
+Piyush:
+  I think let's connect after maybe 3 1/2 four hours, correct? So Raj, 4:30 connect Aldo, half an hour, keep me in CC Navpreet as well in CC, and then kalesh, you know, let's try to run the code at least, correct, and maybe...
+
+kalesh Patil:
+  DA.
+
+Raj:
+  Okay.
+  Yes, yes.
+
+Piyush:
+  Build initial understanding of it.
+
+kalesh Patil:
+  Yes, sir.
+  Yes, sir. Got it.
+
+Piyush:
+  Any questions, kalesh?
+
+kalesh Patil:
+  Piyush, I, yes, I just have the little bit of keep, uh, you say token limits.
+
+Piyush:
+  Uh-huh.
+  It's okay, don't worry about it, it's okay. It's fine, that's why, that's why I'm saying you correct, expensive account token literally, but cheaper, maybe 30K, 40K per month, correct per account.
+
+Raj:
+  Lien.
+
+kalesh Patil:
+  Okay.
+  Okay.
+  Okay.
+
+Piyush:
+  So, it's fine, use it. I want you guys to be on the top of, or you know, the like, use the best tech, whatever is available. Okay, build your understanding, get things faster, don't worry about tokens and all for now, but enough tokens.
+
+kalesh Patil:
+  Yes.
+  Yes.
+  Yes.
+
+Piyush:
+  It's connected, integrate as your, so you have enough tokens now, okay? I think Chrome Gmail login correct? Raj, Gmail login embed.
+
+kalesh Patil:
+  Yes, sir.
+  Okay.
+  Clinic.
+
+Raj:
+  Gmail Claude login Google Google login.
+
+Piyush:
+  Gotcha, Gmail Gmail.
+
+Raj:
+  Where?
+
+Piyush:
+  So, think it's fine, let's say I'm in flight and all, but I think sufficient, it's fine, let's not, you know, make things very difficult for him, so it's fine, kalesh, all clear.
+
+Raj:
+  Yeah.
+  Yes, yes, yes.
+  Yeah.
+
+kalesh Patil:
+  Yeah.
+  Yeah, all clear, all clear.
+
+Piyush:
+  Excited when?
+
+kalesh Patil:
+  Yes, damn excited.
+
+Raj:
+  Mhm.
+
+Piyush:
+  Let's set up a call at like maybe 4:30, 4:30. OK, round call set up for Raj, take next call. You know you have to do, and thank you so much Raj for taking out time here from your day-to-day stuff.
+
+Raj:
+  Mm.
+  Yes.
+  And nobody is, nobody is, nobody is.
+
+Piyush:
+  OK, this is super helpful, I think. Think of it like an investment kalesh would be super helpful going forward. OK, so I think you know he...
+
+Raj:
+  Exactly.
+  Exactly, I understood very well, like, after talking to him, like, kick them, kick them smooth, smoothly, like, I don't need to explain much about anything.
+
+kalesh Patil:
+  Yeah.
+
+Piyush:
+  Mm.
+
+Raj:
+  I think he knows everything.
+
+Piyush:
+  Mimi, I think that's, that's, yeah, it's good that coming from you, but I'm looking forward, kalesh, that you understand, get on board very quickly and you know, help the overall team here, correct? But yeah, again, welcome to the team, kalesh, and then let's start, okay? Perfect, man. I'm really excited.
+
+kalesh Patil:
+  Yeah, listen.
+
+Piyush:
+  Hello, thanks, man. Thanks, Raj. Thanks, kalesh. Bye, guys. Raj, I can write down that again.
+
+Raj:
+  Yeah, same. Yeah, thank you, kalesh. Yeah, yeah.
+
+kalesh Patil:
+  Thank you, thank you both. Thank you Raj.
+
+Raj:
+  OK, kalesh, go go ahead with other way round. OK, first host the UI as Piyush shared.
+
+kalesh Patil:
+  Focus.
+
+Piyush:
+  POC.
+
+kalesh Patil:
+  Okay.
+
+Raj:
+  Anshul.
+  Mm.
+
+kalesh Patil:
+  Alert.
+
+Raj:
+  Mm.
+  The.
+
+Piyush:
+  You guys have full autonomy, you guys have full autonomy, Raj, because you are the one who is taking care of kalesh onboarding. Go ahead, man. I believe you, I trust you, and kalesh, this is the way it can be better.
+
+kalesh Patil:
+  Yes.
+
+Raj:
+  Nene will say that, but it will say that.
+  Ahmed.
+  Tech.
+
+Piyush:
+  You recommend, you put your recommendation to Raj, correct? And he will be the one who will be able to recommend you and guide you better. I have full faith, correct? You guys have full autonomy. You guys have full autonomy, correct?
+
+kalesh Patil:
+  Yes.
+
+Piyush:
+  But, but, but goal, take care guys, take care. OK, I'll drop off, I'll let you guys talk as well, so that you can close the call and the closing notes, correct? But yeah, thanks guys. I'll connect at 4:30 or 4:45 maybe. OK, thanks. Bye.
+
+Raj:
+  Yeah, sure.
+  Yep, yep.
+  Thank you.
+  Sure.
+
+kalesh Patil:
+  Okay.
+
+Raj:
+  Bye-bye.
+
+kalesh Patil:
+  OK, Raj, I got enough verification.
+
+Raj:
+  Okay.
+  Ah, okay, yes, yes.
+  Yeah, no worries, no worries. Hello, uh, when I say was I like I can keep bad, bad, some jog in school.
+
+kalesh Patil:
+  Correct.
+  Yes.
+
+Raj:
+  So, when did you go to school? Glad to get Helpdesk.
+
+kalesh Patil:
+  I like that one.
+
+Raj:
+  Set up file.
+
+kalesh Patil:
+  Really?
+  DA.
+  Okay.
+
+Raj:
+  DA.
+
+kalesh Patil:
+  Thank you.
+
+Raj:
+  Be, be for you.
+
+kalesh Patil:
+  Uhh...
+  Nollie.
+  And it break, we maybe make I think cloud code technical things. So my tiger, if could be could be like a map code so inform Ghodadra OK.
+
+Raj:
+  I know it is, Team.
+  Tigger.
+
+kalesh Patil:
+  Sorry to me last time over so quickly after sub Kartik.
+
+Raj:
+  Nowadays.
+  Ohh.
+  OK, bye bye.
+
+kalesh Patil:
+  Okay, okay. Thank you Raj. Thank you so much.
+
+Raj:
+  Nobody is.
+  Hello, bye bye. I'm leaving, OK?
+
+kalesh Patil:
+  Bye.
+  Okay.
