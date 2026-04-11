@@ -1,0 +1,433 @@
+Transcript: Call with Nikhil-20260411_122130-Meeting Recording.mp4
+Generated: 2026-04-11 07:11:56 UTC
+============================================================
+
+ï»¿WEBVTT
+  OK.
+  Hello?
+  That's.
+  Ohh.
+  Cappone.
+  Madhav Sobhen Navpreet Muje Bole Ki Abhi
+  Jo Kam Raj Kar Ray Madhav metumko Gunja
+  Yeah.
+  documents Gunja jispe Muje change request
+  ate to your kamabhi Raj Kar Ray is a key
+  Mm.
+  Mhm.
+  The.
+  get pay pull pull request ko merge karna.
+  Somebody go.
+  Uh, P.R.S. can come in, or or production.
+  On Gmail.
+  Ohh.
+  Production, staging, development,
+  integration testing, unit testing, Raj,
+  Yeah.
+  Yeah.
+  or a browser, UI.
+  One, one, one by one data, take care,
+  not like both ceji, you told me,
+  Gunja.
+  Georgina. Bye.
+  so start Cortana, get ceji,
+  get key access another one first.
+  Raj.
+  Krishna.
+  Oh.
+  Again, OK, they go, yeah, yeah,
+  I get mainly, I mean, do for the focus,
+  can I, yeah?
+  Whatever.
+  So main branch main branch.
+  Georgina.
+  Team again.
+  Yeah, it is. So it's it's. Yeah,
+  they will just say it's my message.
+  Gunja.
+  I think the branch.
+  Ohh.
+  My recording is a car now,
+  but I will note that you Karthik de
+  DA.
+  branch production code here and return
+  only UI.
+  Okay, ceji.
+  Jomali call me and it and value UI.
+  Maripa do you want to get it and it and
+  G.
+  value UI or it Lambda microservices.
+  Lambda microservices only Joe fenil
+  Products.
+  Expert.
+  DA.
+  banana. Take some and it only UI.
+  Great fenil.
+  When I have micro Lambda micro services
+  Team.
+  only thinking.
+  So I think they may anything only you are
+  Two.
+  here ticket.
+  Or Joe mean they have look cable Dev yeah
+  It.
+  Dev. This is May Summary.
+  fenil only you are here.
+  UA Ghodadra.
+  Aug.
+  So, Lien.
+  Gunja.
+  Aye Dev or yeju main?
+  I mean, you know, you know,
+  change in no no me fenil UI codes.
+  Georgina.
+  It or is repo me bus front end keyboard.
+  But.
+  Gunja.
+  Cable for rented.
+  Or, in medical, we call repo L.C.P.
+  pipeline, L.C.P. pipeline.
+  Aug.
+  My document LCP pipeline is my backend
+  key code Lambda microservices.
+  Of.
+  GG.
+  Uh-huh.
+  DA.
+  Front end ka ops UI may or back end ka LC
+  reply pipeline.
+  Mm.
+  Yes.
+  Lambda Microservice.
+  Mm.
+  Team.
+  Clinic in a key note, very confusing,
+  and you can't take the branch in a
+  tomorrow, post me, hamari,
+  and it and Valley front end,
+  Javier.
+  be your back and don't know.
+  Butcher.
+  LCP pipeline is coming back in the new
+  fenil on the Lambda micro services.
+  Team.
+  Take care.
+  All right.
+  Or L.C.P. of C.Y.
+  Doctor Yuen.
+  Oh, fenil was intended.
+  Jake Summary.
+  Doctor U.I.A. Expert Karthika Doctor U.I.
+  A. Take care or or Khushmi.
+  Okay, ceji.
+  Aki main or data so much gonna main your
+  branch. Expert production.
+  Team.
+  Expert at home.
+  Devil Brancher or spam development
+  birthday.
+  Would you be a gonna change game?
+  It was a montage will change game which
+  Gee.
+  Gunja.
+  we are at here.
+  So would dev branch for it.
+  G.
+  Or to me school review gonna.
+  So I got my account just say be fenil.
+  Hey, Javier, Doctor Branch.
+  Review.
+  Uh, I spent up to you, I get back in.
+  Aug.
+  Yeah, there was just a PR ways fenil.
+  Ji Han.
+  Yes, RPR.
+  You will not risk.
+  Up. Uh. Update. Pop. Branch. Branch.
+  Piyush. Stage S2 S4 se fenil dev Piyush.
+  Two.
+  Team.
+  Gunja.
+  ceji.
+  Team.
+  You can PR.
+  Acham.
+  So, to destination error,
+  they given our ticket.
+  A ceji.
+  What is it?
+  Placement, DA automate, yeah,
+  I can change this again, take in.
+  Alert.
+  Yeah, conflict.
+  You got it.
+  Ori, you can pick Singh.
+  Mm.
+  This branch has conflict and that must be
+  resolved again.
+  Ohh.
+  Hi, dominate whole Clinic 6 zone.
+  Yeah.
+  Aarush.
+  Anyway, I conflict. Is go conflict.
+  So he gonna clear Joe. Piyush.
+  Georgina.
+  Ohh.
+  DA.
+  T.K. Yes, man, Jubi, Piyush,
+  may just say on Piyush, my fenil.
+  Do you have a tab?
+  At the rate fenil, take care.
+  Gunja.
+  Please resolve these conflicts,
+  take care as a comment.
+  Gunja.
+  Georgina. Yeah. Basic cheese.
+  PR is.
+  PR is basically JBM could be changed.
+  Gunja.
+  Postcom merge can make it here.
+  The PRM Gunja review or directly merge.
+  Cut away. I want to put UI for the Sunday,
+  Gunja.
+  Raj.
+  put UI girl. Liam review. We will.
+  He can talk about his all.
+  And then they reply.
+  OK, and then look, I can review this ceji.
+  Whoa, come.
+  Present.
+  Tech.
+  Kaman Kani Bhardwaj.
+  Comment, Karvya, take a merger, Karna,
+  to me, I have a job file change, be taken.
+  No.
+  IMS change.
+  A job from coming carrying you
+  automatically will cook up in ceji.
+  Exactly, yes.
+  Thatcha.
+  So file change with Javier merge the
+  Nicole submit review, pay approve,
+  approve can now submit review ticket.
+  Team.
+  Very happy.
+  Yeah,
+  be a disabled okay conflicts as well.
+  Javier.
+  When yeah, yeah, we are guessing or Casey,
+  except for them. Upton they go.
+  Gunja.
+  Thank you.
+  Review is a good time. Review.
+  G.
+  Mm.
+  We are. Can I fix that? Only problem.
+  The errors are there with them. See. Well,
+  which now they are out there. I mean,
+  they will just say how per degree.
+  Review PR.
+  Hash 101.
+  Gunja.
+  So, yeah, hash one-zero-one.
+  No.
+  Yeah, yeah.
+  JJ.
+  Singh.
+  G.
+  PR hash a PR number or in tomorrow.
+  Just make it up some mention.
+  Yes, yes.
+  Thank you so much.
+  G.
+  Review.
+  Dog file, call down.
+  Kya Dikpatha kya Saye ka test case.
+  Eight minute.
+  Mm.
+  Here they go, here test report, Diana,
+  push nice man,
+  you put a test report over there they go,
+  first one is for your partner,
+  ceji ceji ceji.
+  You?
+  Calculate changes when Lambda function
+  affected infrastructure impact impact.
+  Javier changes when he get last mail
+  tomorrow.
+  Board review findings shows found. Yeah,
+  every shows.
+  Come here, Khushni. Yeah, yeah,
+  to comment with the mathematics skill.
+  Gunja. A PR comment with the. Yes, sorry,
+  Puri. I got issues here.
+  Gunja.
+  Ohh.
+  He showed the head.
+  Yeah, pay Javier or comment tag.
+  Well, we have based fenil.
+  Seven.
+  He has a copy and paste again tagged in
+  or favour resolve grind.
+  Thank you. Thank you.
+  Summary automated test.
+  Yeah, yeah, manual testing.
+  You should.
+  The automated testing.
+  You, Ghodadra.
+  Manual testing.
+  Yeah, the one you should document.
+  I know poor they got me.
+  Kahasi kya clicker near kya checker naha
+  or sara to me and they got to get test
+  cases in job.
+  UI Columbia features will be up. Yes,
+  sorry feature test with me.
+  Team.
+  Singh.
+  Lien.
+  PR merge.
+  DA.
+  Ramadiya Bakal.
+  Ohh.
+  Yes,
+  every skill file share with tomorrow
+  Okay.
+  cloud we set up basically.
+  Lien.
+  Organ, org, admindataeng, BMR is given.
+  Ohh.
+  We are merge, Gunja.
+  Uh, playwright testing K. BMR.
+  Playwright testing, Claude,
+  playwright testing,
+  Do you know?
+  sorry testing tomorrow.
+  DA.
+  Or naive vision of the skill file or MD
+  file based on the play right test alarm
+  say Claude Ligdig on.
+  DA.
+  Action.
+  Get and merge and command them after
+  testing.
+  You must understand the different stages
+  like dev and production. Yes,
+  admindataeng and production.
+  Gunja.
+  Dev job changes getting taken.
+  Singh.
+  DA.
+  The production.
+  DA.
+  DA.
+  Yeah, Dev, Dev and production.
+  Abhit Omar Pastina,
+  Dev stage and production.
+  Pellem Dev change.
+  Garinge was about Dev says stage stage
+  beyond stress test fully Dunia Bhardwaj
+  Team.
+  Aug.
+  testing. Singh.
+  Or over on production.
+  Georgina.
+  Lien.
+  G.
+  Yay, Admin production,
+  if you are testing any way, make sure.
+  I can test the UI in the browser using
+  cloud plugins, cloud plugin, metallunga,
+  So.
+  or your integration or unit test, right?
+  You do ceji.
+  Lord plug in like.
+  Log in for now to make Lord extension T.
+  Yeah, it's over call Georgina. So yeah,
+  it may has a problem data T.
+  Is it?
+  Or the UI currently.
+  Claude testing, extension testing, Juna,
+  Preet, Bhardwaj,
+  Team.
+  Claude instruction test everything in my
+  UI.
+  Each and every feature,
+  some automatically.
+  Gunja.
+  Yeah, yeah, we click correct. Yeah,
+  we click correct. Sara Kuch or yeah,
+  Jin Han.
+  last minute report, but yeah,
+  extension testing.
+  Gunja.
+  You talk.
+  Integration or unit testing of.
+  Singh.
+  Hello.
+  Aarush.
+  Integration and unit testing.
+  I love it.
+  So, 8 minute.
+  PR test for Georgina.
+  Oh.
+  See my integration and unit testing with
+  DA.
+  Gunja.
+  Ohh, Claude, but.
+  But, manually,
+  we can manual testing integration or unit
+  testing works.
+  Good.
+  Oh, sorry to integration and unit testing.
+  Uh, we ate on a claude. I have,
+  but to me manually and they go.
+  Unit testing.
+  Suppose Samarth Raj does feature
+  launching it again or dev push for the.
+  Gunja.
+  Ohh.
+  Your unit testing, Michael,
+  you use those features, and...
+  Anshul.
+  Unit testing or integration testing.
+  Admin.
+  G.
+  This particular feature go implement
+  karneke Bhardwaj.
+  We or cheese nahi fat mecha.
+  Math love end to end testing end to end
+  Cappone.
+  Raj.
+  UI testing ceji.
+  Just say a feature I key historical
+  document.
+  What's that?
+  Like a text, extract.
+  Words are. Is going implement here.
+  Is ke chalte hamara Koivi section na
+  Lien.
+  karabu J or could cheese na karabu J is
+  come getting integration testing so much.
+  Thank you.
+  Play simple.
+  Song.
+  Or basically, unit testing,
+  component testing, integration testing,
+  No.
+  No.
+  Thank you.
+  UI test, unit tests.
+  Yeah, Gunja.
+  Integration testing.
+  The year was out of the bush law.
+  Till later.
+  So, you guys are Aarush?
+  You know.
+  Look look good.
+  Tech.
+  I love.
+  Okay.
+  Based on.
+  Test cases.
+  Shah Raj.
