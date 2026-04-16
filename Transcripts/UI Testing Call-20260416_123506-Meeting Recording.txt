@@ -1,0 +1,2664 @@
+Transcript: UI Testing Call-20260416_123506-Meeting Recording.mp4
+Generated: 2026-04-16 08:35:28 UTC
+============================================================
+
+Gagan:
+  Yeah.
+
+Raj:
+  Okay.
+  So you have the number, right, to get them now.
+
+Gagan:
+  Sorry, it was just very, very low.
+
+Raj:
+  You have the login, right?
+  Is it fine? Hello.
+
+Gagan:
+  Still not fine, very feeble.
+  Maybe the mic is far or something like that. When audible, it's very far.
+  Just.
+
+Raj:
+  Uh, no, I'm on my earphones now.
+
+Gagan:
+  Aug.
+  Updiga.
+
+Raj:
+  It's fine now, right?
+
+Gagan:
+  Yeah.
+
+Raj:
+  Okay.
+
+Gagan:
+  Hmm.
+
+Raj:
+  I'm asking, so you have the login right for the GitHub?
+
+Gagan:
+  Madam Kartik.
+
+Raj:
+  So.
+  That is.
+  Not required, I guess, but see if you can open this link. I'm sharing in chat.
+
+Gagan:
+  Ohh, one second, I have to log out from log in.
+  Kartik.
+
+Raj:
+  If it, if it's already logged in, don't log out, like, uh, Navpreet to log in, like, yeah.
+
+Gagan:
+  No, no, it was not, no, no, it was not locked.
+
+Raj:
+  Thank you.
+
+Gagan:
+  Many fails sometimes, something like that.
+  Yeah, I'm just logging into Kartik one.
+  I think, come, ceji.
+  Will you send me the code?
+  See why.
+
+Raj:
+  By the way, I don't recommend to use Kartik accounts to comment on the PR.
+
+Gagan:
+  The.
+
+Raj:
+  Because Kartik is also developing the things, right?
+
+Gagan:
+  You can comment, I'll give you that.
+
+Raj:
+  Okay.
+
+Gagan:
+  till the time we don't have.
+
+Raj:
+  Yes.
+
+Gagan:
+  Jay Kartik a code to you, go to FL, let me message Kartik.
+  Why is my creds que uni banalism? Why is there so much dependency on everybody?
+  Munna mana ke vu rats nahi de nge individual.
+
+Raj:
+  Ignore it.
+  I, I don't know. I have my creds. I have my individual account, but I don't know why.
+
+Gagan:
+  Lien.
+
+Raj:
+  I am asked to use my pizza.
+  So, yes, we need to follow that.
+
+Gagan:
+  Okay.
+  One second.
+  Till the time Kartik will send me, you can continue. I'll just, just one second, I'm sending him a message.
+
+Raj:
+  Yeah, yeah, sure.
+  Yeah.
+  Then I have closed everything. I want to start fresh so that we can be aware of how the things are being done and doing that.
+
+Gagan:
+  Yeah, yeah, that's great actually. So I'll be working on a real case right now, right?
+
+Raj:
+  Yes, yes, yes.
+
+Gagan:
+  Chicken, let's go.
+  Send a message.
+
+Raj:
+  Okay, so suppose I told you yesterday we have two repositories that we need to focus on. So currently everyone is working on these two repositories only. One is LCP pipeline, right? I'll share the link of both. Let me cheque which link I shared.
+
+Gagan:
+  Mm.
+  Play.
+  Mm.
+  Can we get that phantom thing here to get nodes?
+
+Raj:
+  No, I don't, no, I don't have access to that.
+
+Gagan:
+  If I bring Kartik in, he can do that.
+
+Raj:
+  Only.
+  Yes.
+
+Gagan:
+  Padhi, I apologize. I also have to go to the recording all over again to understand something.
+
+Raj:
+  LCP bypassing the rules.
+
+Gagan:
+  Let me see, I can bring Kartik in.
+  Concern.
+
+Raj:
+  I'm not sure if he will be able to join because I think he might be out at this time.
+  Okay.
+
+Gagan:
+  I try, so I can take it out of it. Let's continue.
+
+Raj:
+  Yes, because in our previous call now.
+
+Gagan:
+  Mm-hmm.
+
+Raj:
+  Yeah, that team was out.
+
+Gagan:
+  Sure, take it, take it.
+  Can continue in that case.
+
+Raj:
+  In the Pinker, Diya Naaki.
+  Hey, Bhardwaj, call Padhi.
+
+Gagan:
+  When is my Team to add?
+
+Raj:
+  No.
+  Directly maladpal.
+
+Gagan:
+  Up.
+  Even A Team is invited to the meeting. Are you talking about not doing a normal call?
+
+Raj:
+  I mean, you, you, you, Jasmine, and I get this one.
+  Do you mean that they can answer the call?
+
+Gagan:
+  Uh, if it's possible for him to quickly join the meeting and bring Phantom in.
+  Do we have to be on mobile to bring a, like, on a laptop to bring Phantom, or you can do it on a mobile? Actually, it's correct, yeah.
+
+Raj:
+  Laptop, yes.
+  Yeah.
+  I'm not sure if he has installed that on his phone or not, but...
+
+Gagan:
+  That's not something I was expecting from him. Might not be the message.
+
+Raj:
+  No.
+  I didn't answer, I do my problem transcript on transcript.
+  Yes.
+
+Gagan:
+  Yeah, WhatsApp message. Why would I disturb him then? Sanjay, let's continue.
+
+Raj:
+  I am in.
+  Yes, so uh, these are the two people that we need to focus on right now, right? First, start with the pipeline, the flow just by Fenil, but then we get.
+  So these are the Piyush. I have sent you the link to both.
+
+Gagan:
+  Mm.
+  Take care.
+
+Raj:
+  So.
+  Let's open the PR first. First, we need to cheque the conflicts if there is power conflicts or not. If you can see here, right, there are multiple conflicts.
+  Right, this branch has context that must be.
+
+Gagan:
+  And.
+  Where did you click to cheque the conflicts?
+
+Raj:
+  Nothing like, suppose this is the PR page, right? The office RPR yesterday, open that, open and start from the bottom.
+
+Gagan:
+  Mm.
+  Take care.
+  Mm.
+
+Raj:
+  So, yeah, okay, conflict.
+
+Gagan:
+  Stage a specific branch development stage specification.
+
+Raj:
+  Again, just.
+  Yeah, Fenil, Fenil, Fenil, Fenil.
+
+Gagan:
+  Anil Dev ke Branch Kai.
+
+Raj:
+  Fenil, fenil, get development, and I was developing.
+
+Gagan:
+  Stage Mirza.
+
+Raj:
+  No, Fenil source branch at T.K. feature branch only create. Fenil dev branch development branch. This is destination branch.
+
+Gagan:
+  Mm.
+  Take care.
+  Gagan.
+
+Raj:
+  Sanjay.
+
+Gagan:
+  And after Fenil dev, if it looks fine, we'll put it into dev, right?
+
+Raj:
+  You do not need to not do anything. You just need to review this PR, accept, reject, comment, that's it.
+
+Gagan:
+  Team.
+
+Raj:
+  PR Fenil, yeah, job developer.
+
+Gagan:
+  Anyways, branch other idea later, because I don't have a lot of idea of how branch works now.
+
+Raj:
+  Haha, yes, Fenil Fenil, sorry, sorry, changes, Fenil, everything is working, he might raise a PR to death.
+
+Gagan:
+  Yeah.
+  Gotcha, and we'll just accept it.
+
+Raj:
+  No, we, again, we, we again, we have to review that, sorry, PRV, yes, yes, yes.
+
+Gagan:
+  If it looks fine.
+  Yeah, review and accept, right?
+  Chicken.
+
+Raj:
+  So, simply, we we will write a command.
+
+Gagan:
+  Right.
+
+Raj:
+  So.
+  I'll write a comment. I also write on. I'll write a comment later. He can actually manage already. It's my comment for the fire.
+
+Gagan:
+  Badwoja Pyasi PR Raise Kartik on Ko Diktani conflict harassment.
+
+Raj:
+  Cappone.
+  I, I don't know, I sorry, sorry, I guess.
+
+Gagan:
+  Mm.
+  Oh, Ghodadra, Ghodadra.
+
+Raj:
+  Yes, so we will ignore this PR in case may conflict.
+
+Gagan:
+  Mmh.
+
+Raj:
+  Let's open the second one.
+
+Gagan:
+  Okay.
+  We don't fix the conflicts, right?
+
+Raj:
+  No, no, like that.
+
+Gagan:
+  DA.
+
+Raj:
+  So, it's maybe over, I guess, yes, it's not here, they'll again ignore this as well.
+
+Gagan:
+  Maria.
+
+Raj:
+  Open the last one in this repo.
+  It's not heal.
+  Yeh tokal.
+  Comment, yeah, so we will, we will.
+
+Gagan:
+  Night, so.
+  For example, PR.
+
+Raj:
+  Ah, yes.
+
+Gagan:
+  Auranti namaa conflict at thavas ma krishna karo.
+
+Raj:
+  Lien.
+  So, I am a commenter then in Fenil, please look at the conflicts.
+
+Gagan:
+  Oh.
+
+Raj:
+  Take care.
+
+Gagan:
+  Kartik, take care.
+
+Raj:
+  Let's move to the second one, we can.
+
+Gagan:
+  OK.
+  Chicken.
+
+Raj:
+  I hope so, it's not that we're gonna have the class opening.
+  Fenil, please resolve the conflicts, only resolve the conflicts resolve plus full report.
+
+Gagan:
+  Padhi.
+
+Raj:
+  Yeah, open, yeah, merge got negative, but come in a review team, okay, so let's open.
+
+Gagan:
+  Got it.
+  The feature branch, right?
+
+Raj:
+  Yeah, let me see, yes, feature branch.
+
+Gagan:
+  Tech.
+  Sanjay.
+  Tickets.
+
+Raj:
+  Let me open that.
+
+Gagan:
+  Got me over here.
+
+Raj:
+  You have a beach?
+
+Gagan:
+  Mm.
+
+Raj:
+  I'll see you again.
+  Different folders, a particular.
+  A charm last structure holder going forward may be doctor UI can be PR's review, so they could just say UI test environment folder data UI test environment.
+
+Gagan:
+  Folders.
+  Mm.
+  Mm.
+
+Raj:
+  Yes, man, love, love.
+  Repo and just a lawyer UI guy report. Doctor UI guy record in sorry in sorry man my krishna Kartik folder open Kartik right click Kartik or or score VS code open Kartik folder.
+
+Gagan:
+  Okay.
+  Mm.
+  Chicken.
+
+Raj:
+  Or is me Mirza Claude?
+  Yes, I call you up then, OK.
+
+Gagan:
+  Got it. Got it.
+
+Raj:
+  And last, last set up, okay?
+
+Gagan:
+  Team.
+
+Raj:
+  Baba mein krishna near Bhardwaj, review PR Cash 380.
+
+Gagan:
+  Street.
+
+Raj:
+  You are not creating in Piyush.
+
+Gagan:
+  Cash PR.
+  Naini Review Ke Bhardwaj.
+
+Raj:
+  Mm.
+  Ohh, can we cloud file as a review BMR?
+
+Gagan:
+  Team.
+  Ohh, I chow M.D. files, uh, so I am.
+
+Raj:
+  Yes, Kilpa, Lana.
+
+Gagan:
+  Shatosko Refer Kartik.
+
+Raj:
+  Exactly, okay, they could just say, they say I got my so call him, take care, I got my so call him, yeah, Sara instruction, as a PR is for review, Kartik, so PR reviews, you have all the phases divided.
+
+Gagan:
+  And.
+  Ahmed.
+
+Raj:
+  So, instead of...
+
+Gagan:
+  Mm.
+
+Raj:
+  Again, copying this again, typing in Claude, we can we have a paste connected by Jay Ahmed scale file create Padhi or.
+
+Gagan:
+  Ahmed.
+  Mhm.
+  Got it.
+
+Raj:
+  Firstly, I was can find one menu.
+  call like. Think of it like a function just come call.
+  So, krishna, we will...
+  Hit enter, let Lord review this, we will pull the comment and merge it.
+
+Gagan:
+  And.
+
+Raj:
+  That is it in PR testing.
+  Total time.
+
+Gagan:
+  My dog with a manual from.
+
+Raj:
+  Exactly, yes, Osayan.
+
+Gagan:
+  And.
+  Did you like to krishna?
+
+Raj:
+  I'm sorry.
+  All just when it depend on depends on P.R. Kipney files in this and start files.
+  Java Town.
+  I already reviewed P.R. 380 P.R. 380; just K. helps to manage a comment here from changes.
+
+Gagan:
+  Got it.
+  Papa.
+  Mm.
+
+Raj:
+  Hey, man.
+
+Gagan:
+  Okay.
+  Kartik.
+
+Raj:
+  So, yes, I will see the review for the time, leave office for check.
+
+Gagan:
+  Nice.
+
+Raj:
+  Or, what is here? Review, Kartik. Suppose, Claude, Claude, right? So, yeah, yeah, feature.
+
+Gagan:
+  IMS.
+  Mm.
+
+Raj:
+  Okay, I need to try import that again.
+
+Gagan:
+  To fix Cortana.
+
+Raj:
+  Ah, exactly. We need to review every time before version.
+
+Gagan:
+  So, just fix Kartik and those Alert PR is the same PR me changes.
+
+Raj:
+  I.
+  Same may change, because the other BMR is, but same may.
+
+Gagan:
+  Take it.
+
+Raj:
+  Raise button up.
+
+Gagan:
+  Got.
+
+Raj:
+  So, who I did may approve? I already can just we need to post this.
+  Take care.
+  Ask me, I am probably putting it.
+  I mean, take by the preview, so I just say.
+
+Gagan:
+  And.
+
+Raj:
+  So, pointer speed all that can be ordinarily.
+
+Gagan:
+  8 second vote the con result.
+
+Raj:
+  Reserve, respond.
+
+Gagan:
+  Hmm, no, but uh, somebody said.
+
+Raj:
+  Hmm.
+  Yes, Sanjay.
+
+Gagan:
+  Take a second, take a...
+
+Raj:
+  Can you send me comment?
+  Ahmed.
+
+Gagan:
+  One moment.
+
+Raj:
+  Summary, summary, or AA mandatory AAG Summary of code will be.
+
+Gagan:
+  Chicka, chicken.
+
+Raj:
+  Highlight previous bug was resolved.
+
+Gagan:
+  Mm.
+
+Raj:
+  Preview that.
+  At through Ahmed.
+
+Gagan:
+  I just not approved.
+
+Raj:
+  Yes, over the Osayan.
+
+Gagan:
+  Mm.
+
+Raj:
+  OK, or could be problem me other to me? Wap is clarity, can you cheque or not?
+  Tech this.
+  for our league.
+  It should not.
+  Summary anything else.
+  So, you got there you go. OK, krishna gonna is to scale over.
+
+Gagan:
+  Kartik.
+
+Raj:
+  Ahh, but set up, sorry, repo folder.
+  P.R. number, P.R. Suppose going forward, I'll be currently Fenil going forward again, Samarth, krishna, Kartik, Sabh.
+  Bandra B's PR signing again, but not scope approve.
+
+Gagan:
+  Yeah.
+
+Raj:
+  In concept, I may change, I think.
+
+Gagan:
+  Sorry, sorry, I lost you for a second.
+
+Raj:
+  Going forward, take care.
+
+Gagan:
+  Sanjay.
+
+Raj:
+  Yeh possible nihogi hamisha har Bhardwaj, Harik PR ko examandar jakar deke naha pehambas comment padhenge right politics approve.
+
+Gagan:
+  AI.
+  Team.
+  And.
+
+Raj:
+  It should not break anything else. Yes, if it's not breaking anything else, then we will copy this comment, paste it there, and that's it.
+
+Gagan:
+  Thanks.
+  Yeah.
+  Mm.
+  Yeah.
+
+Raj:
+  I think minimum 30 minutes.
+
+Gagan:
+  Uh, to say what they get Kartik.
+
+Raj:
+  Exactly.
+
+Gagan:
+  I don't make sense.
+
+Raj:
+  No, but who recommended me? Like, how many?
+
+Gagan:
+  I need commentary, but cloud command check.
+
+Raj:
+  10.
+  This actually many Kiyani Kavito, Ojito Sahini like Kavi Kavi Claude, sorry, sorry, is for commit for exact Bhardwaj Kartik or sub may approve, but are they like Sanjay?
+
+Gagan:
+  And.
+  Mm.
+  Mm.
+  Raj, there is somebody on the I just have to open the door.
+
+Raj:
+  Ha ha, that that that be a review, Javier.
+  Done.
+
+Gagan:
+  Sanjay Raj.
+
+Raj:
+  Yes.
+  Let me see.
+
+Gagan:
+  The.
+
+Raj:
+  Yeah, take care, so we attach them.
+
+Gagan:
+  Yeah, review for doc.
+
+Raj:
+  As many, I will see you later.
+
+Gagan:
+  Bujra Osayan.
+
+Raj:
+  Yeah, to.
+  Ahmed.
+
+Gagan:
+  UI feature, right?
+
+Raj:
+  UI has, but ye fenil de we push current job dev push current and a job job be dev push I get.
+
+Gagan:
+  Chum.
+  Mm.
+  Yes.
+  In.
+
+Raj:
+  Yeh Fenil de Piyush Kar Raina Destination Joe Branch.
+  Dev Ratan.
+  OK, so how many manual testing that we want? Sounds good.
+
+Gagan:
+  Stage.
+
+Raj:
+  Stage the auto deployer time.
+  Stage.
+  But love cops UI here, but Fenil cops UI.
+
+Gagan:
+  overview there. UI branch.
+
+Raj:
+  Eight minute.
+  They call, yeah, Johanna, yeah, yeah, Fenil, I mean, yeah, lambda or micro services per user, I think is for back end, Johanna, lambda, micro services.
+
+Gagan:
+  Confusion, Georgina.
+  So, mm.
+
+Raj:
+  Joh ham jis pekandar ve and look who and it and I also backing.
+
+Gagan:
+  Yeah.
+  Take care.
+
+Raj:
+  Yeah, yeah, here, or they Joe Fenil Javier P.R. ways, yeah, Lambda Micro Services.
+
+Gagan:
+  Chicken.
+
+Raj:
+  UI have a manual testing for job yet. Dev pay push over a top. Destination.
+
+Gagan:
+  Chicken.
+  So, Dev ogatu tohos me stage kyatha per?
+
+Raj:
+  Gagan.
+  Yes.
+  Stage and return backend, and return all the backend.
+
+Gagan:
+  There's a team LinkedIn on the document.
+
+Raj:
+  Aauspe maatein woh hamara niten wala backing.
+
+Gagan:
+  Tech David.
+  Tech.
+
+Raj:
+  So, many attached for the asko.
+
+Gagan:
+  Team.
+
+Raj:
+  Wow, this find a bug.
+
+Gagan:
+  Georgina.
+
+Raj:
+  Yes, I thought about that.
+
+Gagan:
+  Chicken.
+  Mm.
+  It's OK.
+  Alert.
+  Mm.
+
+Raj:
+  So, when I put you in it?
+
+Gagan:
+  Right.
+
+Raj:
+  Yeh Pura comment Padhi Kartik.
+  I will play is the existing one. Fenil be bowling.
+
+Gagan:
+  Mm.
+
+Raj:
+  Scope format for game HSA pointers, DA.
+  New point.
+
+Gagan:
+  Mm.
+
+Raj:
+  Or, we have to come down in Berkeley, do you call in Osayan?
+
+Gagan:
+  Mm.
+
+Raj:
+  Link we attach only a report key.
+  I do a comment, may attacker the number.
+  There you go.
+
+Gagan:
+  Singh.
+
+Raj:
+  That's coming.
+  Hub we need to wait for is reply.
+
+Gagan:
+  Chicken.
+
+Raj:
+  Okay, we are.
+  We have to be those done.
+  Your team, but here, try, but none.
+
+Gagan:
+  Pierta.
+
+Raj:
+  Like or something.
+
+Gagan:
+  No, no, come on.
+
+Raj:
+  Not right, so.
+
+Gagan:
+  Training.
+  Three, 84 conflict.
+
+Raj:
+  I think all tomorrow, tomorrow's get by.
+  Where is skill file? I don't think so. My name is May. I had to give the Vahi PR review. There's no conflicts on me or I got conflicts.
+
+Gagan:
+  When is my love?
+
+Raj:
+  Gotcha.
+  Review PR Phase one, cheque for the conflict conflict.
+
+Gagan:
+  Company.
+  Review PRMD file override.
+
+Raj:
+  Okay.
+  Lord Samarth, but exactly what I can use best best practise to your review dash PR dash PR number.
+
+Gagan:
+  Chicken.
+
+Raj:
+  OK, confused now, Vispute.
+
+Gagan:
+  Alert.
+  Confuse yourself to confuse Cortana.
+
+Raj:
+  Mm.
+  Maggie does the song come on.
+
+Gagan:
+  No.
+  Mira admindataeng.
+
+Raj:
+  Admin.
+
+Gagan:
+  We are review no coffee time in Ghodadra.
+
+Raj:
+  SPR.
+  Negative session, no BMR, has three to four does not break anything. We can save to merge.
+
+Gagan:
+  Expert.
+  Sure.
+  The first step we run.
+
+Raj:
+  Okay.
+  Save to merge.
+
+Gagan:
+  Step.
+
+Raj:
+  On to his name.
+  Why internally?
+
+Gagan:
+  Sure.
+
+Raj:
+  On my cloud, my name is so it's number run, yeah, yeah, so much we get out because Gagan, give me a daily.
+
+Gagan:
+  Alert.
+  Right.
+  Mm.
+  Got it.
+  S.
+
+Raj:
+  Starting with the.
+
+Gagan:
+  Yeah.
+
+Raj:
+  On phase one, phase two.
+
+Gagan:
+  Ha ha, I love the car I can be generate Kartik.
+
+Raj:
+  I was starting then.
+  Training.
+
+Gagan:
+  The weather's coma is called approved.
+
+Raj:
+  Yes, Kartik.
+
+Gagan:
+  Do very fair.
+
+Raj:
+  Ohh, children.
+
+Gagan:
+  Same result time.
+
+Raj:
+  Mm.
+  They could just say, merge, merge card, directly option, alright, again.
+  Hello!
+
+Gagan:
+  Yes, it is.
+
+Raj:
+  Yeah, pull request option.
+
+Gagan:
+  Mm.
+  Chicken.
+
+Raj:
+  So, I mean, it's my journey, but you know, file change, Jana Padhi Gagan.
+
+Gagan:
+  No, want to accept the, um, Summary to you.
+
+Raj:
+  File changes, okay, submit review, okay.
+
+Gagan:
+  Of.
+
+Raj:
+  Approve. Summary.
+
+Gagan:
+  Will you, and believe we will put the same comment here as well, right, or no?
+
+Raj:
+  Nine AI.
+
+Gagan:
+  Team.
+
+Raj:
+  The bottom of that.
+
+Gagan:
+  Chicken.
+
+Raj:
+  Yeah, fair again.
+  So, we're gonna cheque this.
+  Okay.
+
+Gagan:
+  Hmm.
+  Yes.
+
+Raj:
+  Admin.
+
+Gagan:
+  They are submit the review, right?
+
+Raj:
+  Yes, Miss.
+
+Gagan:
+  I lost you for a second.
+
+Raj:
+  Any automation?
+
+Gagan:
+  Mmh.
+
+Raj:
+  Yeah, project, project record, which down it shows me.
+
+Gagan:
+  Yeah, we smell the preny.
+  Mm.
+  Mm.
+
+Raj:
+  This way, the skill file created, I have based on my, but also skill file go start of the day, end of the day, run Kartik.
+  Status done, or is not automatically added.
+
+Gagan:
+  So, yeah, I love you, sweet me Gagan.
+
+Raj:
+  This sheet may basically to go project tracker me just issues the app a link comment here and it yes, I will close.
+  Jatin office.
+  Your resume here.
+  How is 384 now?
+
+Gagan:
+  To Mars.
+
+Raj:
+  IMS.
+  Yeah, but it is in only comment to make any baby issue up my link. Okay, I mean, issue link, project board, we automatically update status done.
+
+Gagan:
+  The.
+  No.
+  Hmm.
+  Noted.
+
+Raj:
+  issue issue number one thirty-one.
+
+Gagan:
+  Mm.
+
+Raj:
+  Fixes hash 131 comment here. Please attach the issue link to this.
+
+Gagan:
+  Mm.
+  Team.
+
+Raj:
+  Cappone.
+
+Gagan:
+  Team.
+
+Raj:
+  Again, so very happy, Raj, we automatically update.
+  Okay, done.
+
+Gagan:
+  No, I mean, specific, krishna.
+
+Raj:
+  Amit krishna. Please attach the issue link to the. They could just say krishna.
+
+Gagan:
+  ****.
+
+Raj:
+  They could just say, no need, it cannot, it can SRA shows resolved here, they take care.
+
+Gagan:
+  Mm.
+
+Raj:
+  Look how it says is the keyword that we we have to use mandate when we can.
+  Fix it on the end, all the fixes, yeah, resolved, yeah, closes, S.F.
+
+Gagan:
+  Ahmed.
+  Nine to a.
+
+Raj:
+  Okay, sorry, I just very.
+  With an SR, I should.
+
+Gagan:
+  For sure, so how much specific?
+
+Raj:
+  You know, in your car, on the.
+  PR review.
+
+Gagan:
+  Yeah.
+  Mm mm.
+  And.
+
+Raj:
+  No, no, no, resolve.
+  My name is Javier.
+
+Gagan:
+  Mm.
+
+Raj:
+  Project tracker, pay end of the day, so skill file run, yes, sorry, particular file.
+
+Gagan:
+  And.
+
+Raj:
+  So much good.
+
+Gagan:
+  Scale file Karegao.
+
+Raj:
+  Javier part.
+  Hi, exactly.
+
+Gagan:
+  Padhi Jasab Koi Bi PR Review: Gartyo Se Close Kartyo, Taafir Claude Ke Waz Bhardwaj Ki Bolte Ki.
+
+Raj:
+  Madi Kartik.
+  Yeah.
+  At the end of the day, if you are supposed to review from Bhardwaj.
+
+Gagan:
+  Mhm.
+  Okay.
+  By the end of the day, command.
+
+Raj:
+  Company.
+  Project, going.
+  A particular folder, Joy, a project mode.
+  BS code.
+
+Gagan:
+  Team.
+
+Raj:
+  You can.
+  Update code, so bots are the tabs for weekend.
+  But look, depending on your requirement from tabs.
+  Yeah, I can tell you.
+  Gagan.
+
+Gagan:
+  DA.
+
+Raj:
+  So, project board project project board key skill file.
+  Thing bus ticket.
+
+Gagan:
+  Mm.
+
+Raj:
+  Yeah, yeah, yeah, they can.
+
+Gagan:
+  Mm.
+
+Raj:
+  Yeh, critical ceji, Kumara project is C page, confirmation to cheque up, and they have to make confirmation to cheque up, proposed columns, yeah, yeah, yeah.
+
+Gagan:
+  Team.
+  Team.
+  Tech.
+  Mm.
+
+Raj:
+  Want me to proceed with creating the column, updating the symbol? Yes, yes, like that.
+  Take care, there's a many do option the other person.
+
+Gagan:
+  Yes.
+
+Raj:
+  Nothing option, yeah, sorry, console options in Java game, option one, two, three, so it's a part of the enough, or yeah, I believe they now go with this option one.
+  Yeah, let's put her up for now.
+
+Gagan:
+  Okay.
+
+Raj:
+  No.
+
+Gagan:
+  Play Kedar hai Avali Command Mari folder of Navpreet.
+
+Raj:
+  Yeah, command man.
+
+Gagan:
+  Okay.
+
+Raj:
+  Yeah, love it.
+
+Gagan:
+  Got it.
+  Book.
+
+Raj:
+  A question is in.
+
+Gagan:
+  Mhm.
+
+Raj:
+  Yeah, yeah, particularly yeah, Cortana, yeah, Ops automation, repository, OK, just me sorry meetings key recording notes, action items, Sara.
+
+Gagan:
+  Kiss me.
+
+Raj:
+  You can just see a repo repo and a ops automation.
+  OK, I got a weak image algorithm.
+  Sorry, sorry, your meetings, you can automated that.
+  Play krishna.
+  Hello!
+
+Gagan:
+  What's up?
+
+Raj:
+  IMS.
+  So, whenever Koi be meeting, I will call over to Fathom Ki Jobi notes, Jobi action items, so Sara automatically have to save with that.
+  Okay, hold recording, transcript, video, okay.
+
+Gagan:
+  Just take same, Kartik code. I am just logging in, so not on the screen.
+
+Raj:
+  Gagan part.
+  Okay.
+
+Gagan:
+  Recovery, call Besta.
+
+Raj:
+  Text, ceji code on to.
+
+Gagan:
+  And let's visit my favourite recovery food.
+
+Raj:
+  NFL.
+
+Gagan:
+  I don't know.
+  You will see.
+  See proper results.
+  No, it's not working.
+  Meeting.
+
+Raj:
+  Yeah, yeah, yeah, repository for the important days for.
+  Hmm, save Karlena Ki respect job meetings of BMR.
+
+Gagan:
+  The.
+  And.
+
+Raj:
+  We can, this case of R.E. uh, record uh, notes, this particular report.
+
+Gagan:
+  The.
+  Ahmed.
+
+Raj:
+  Data, data wise, they work automatically. OK, yeah, automated. Sanjay Kartik meeting with you in from meeting weekly.
+
+Gagan:
+  Mm.
+  Mm.
+
+Raj:
+  Action items.
+  Gagan.
+
+Gagan:
+  Yeah.
+
+Raj:
+  So, a particular.
+  Can file Kartik, the repo, get up with most particular repo.
+  Yeah, the krishna.
+
+Gagan:
+  Mm.
+  Mm.
+
+Raj:
+  Yeah.
+  Or Jamara project board, they say, yeah, okay, match, we duplicate, so many other new issues here, duplicates, okay.
+
+Gagan:
+  No.
+  Okay, got it.
+
+Raj:
+  Yeh pehla part hai is skill file ga nusra part hai agar suppose Koibi issue merge hobe.
+  Take a merge matter in the sense more complete away.
+
+Gagan:
+  Singh.
+  Done.
+
+Raj:
+  status done for DA.
+
+Gagan:
+  Mm.
+
+Raj:
+  Is key a condition and issue link only?
+
+Gagan:
+  Got it.
+
+Raj:
+  Yeah.
+  Maybe the call it down here, he is put an on in a product time that I can see manage my bots are validations that I can see.
+  Yeah, project board eventually.
+
+Gagan:
+  Home.
+  Yeah.
+
+Raj:
+  Play Bhardwaj.
+
+Gagan:
+  POC.
+  Singh boat, this will sync.
+  The latest things on the board, right?
+
+Raj:
+  Yes, it may call scale file when I have to manage or.
+
+Gagan:
+  Cool.
+
+Raj:
+  e-mail e-mail issues, particular scale file, e-mail fetch, daily, or issue is my project.
+
+Gagan:
+  Mm.
+  Oh.
+
+Raj:
+  meetings or repositories, maybe issues are there.
+
+Gagan:
+  Yeah.
+
+Raj:
+  Okay, Sanjay, automate call me, discuss only automatically her repository issues.
+
+Gagan:
+  We should create from the meeting if you're discussing a new issue.
+
+Raj:
+  Yes, yes, just say it's it's many kind of many M.T.M. Ops automation we choose.
+
+Gagan:
+  Right.
+
+Raj:
+  My eyes made it account POC.
+
+Gagan:
+  Mujhe Babuda is a transcript.
+
+Raj:
+  Wow.
+
+Gagan:
+  A Hindi condition translate Caribbean.
+
+Raj:
+  Of them.
+
+Gagan:
+  When talking in Hindi, will it translate in English and transcript?
+
+Raj:
+  But, Tom, when Tom, basically, you will see DA, but they go.
+
+Gagan:
+  Then I think let's switch to back to English, though. We are working on a transcript now. It won't, it's not recording whatever we are saying.
+
+Raj:
+  Anyways, what about Kartik?
+
+Gagan:
+  It's house.
+
+Raj:
+  Yeah.
+  I'll share.
+
+Gagan:
+  No, I was checking the transcript. I'm doing, yeah, it's alright.
+
+Raj:
+  DA.
+  Gotcha.
+  OK, Gagan, no worries, no reason.
+
+Gagan:
+  And...
+
+Raj:
+  Also, this stuff.
+  Just wait for this.
+  Ahmed.
+  Anytime, if you want to know that what the skin file is doing right, so just write in Claude what the skin file is doing.
+
+Gagan:
+  Mhm.
+  Got it.
+
+Raj:
+  then it will give you all the steps, all the phases that it's going.
+
+Gagan:
+  Right, actually is already giving me all the steps when I'm running, is running step by step, yeah.
+
+Raj:
+  Yep, yeah, I'm just saying, if you want more details, you want to understand anything.
+
+Gagan:
+  Right, right.
+  To understand it deeply, right?
+
+Raj:
+  Yes, thanks somebody. Take care.
+  Would we need all these before submitting, yes?
+
+Gagan:
+  Mm.
+
+Raj:
+  Same thing as normal.
+  I see here, it's updating, done to 133 issues.
+  Backlog, all these get.
+
+Gagan:
+  133 done Matlab, you have reviewed 133 issues.
+
+Raj:
+  Yes.
+
+Gagan:
+  1.33 P.m.
+
+Raj:
+  133 issues. So in one PR there might be 100 issues.
+
+Gagan:
+  OK, so one, ohh, got it. I was thinking about that only that one thirty-three. OK, OK.
+
+Raj:
+  No, no, 132 P.m.
+
+Gagan:
+  Give me a shout for a second.
+
+Raj:
+  I think I didn't review the 133 P.R. still.
+
+Gagan:
+  Mhm.
+
+Raj:
+  So, yes.
+
+Gagan:
+  What else? Release notes.
+
+Raj:
+  What are the reviews modes?
+
+Gagan:
+  They had a chat with you in the morning, right? That they want to release notes when something is removed.
+
+Raj:
+  Sorry, these notes.
+  We, yes, we'll come to that next.
+
+Gagan:
+  OK, OK.
+
+Raj:
+  Let's update this first.
+
+Gagan:
+  Also, Navpreet was talking to me about a feature documentation that right now features are all over the place.
+
+Raj:
+  Yes, I have already created it.
+  Yes, I Anshul you.
+
+Gagan:
+  Okay.
+  Well, yeah, we'll talk about that as well. Whatever we have, whatever you are doing, let's talk about everything.
+
+Raj:
+  I will not show the new boat.
+  The progression.
+  Yes.
+
+Gagan:
+  Then, once I start working, I'll come up with doubts.
+  But are they putting in a different project or what?
+  Because they are putting me in for that, right? Or are there two people going to be working on the same thing?
+
+Raj:
+  Um, come again. Sorry, I was, uh, reading this.
+
+Gagan:
+  Like, are they putting you on a different task or something? That's why they're bringing me in, or are we working together on this? Or it's OK, OK.
+
+Raj:
+  No, no, no, no, the same thing because like we have a lot of PRs, we have a lot of testing on UI. I was not able to do everything in a single day.
+
+Gagan:
+  Right, got you.
+  No, no, that totally makes sense. I was just trying to understand.
+
+Raj:
+  IMS.
+  Yeah.
+
+Gagan:
+  Yeah, this is a critical step.
+
+Raj:
+  Yeah.
+
+Gagan:
+  Testing is the most critical thing.
+
+Raj:
+  So, uh, I, I, I, I have given the comment, it will import and update everything, OK?
+
+Gagan:
+  What?
+
+Raj:
+  I'm saying I have given the final prompt. It will update everything.
+
+Gagan:
+  Okay.
+  OK, so I didn't update it, gave you a text first that I'll be doing this, OK?
+
+Raj:
+  Yes, yes, yes, it needs confirmation first, every time.
+
+Gagan:
+  Got, so automatically it asks for the confirmation. Do I have to tell, ask first, and then change?
+
+Raj:
+  Nine, 9, 9, 8, and can file its return key first ask for confirmation.
+
+Gagan:
+  Ghodadra.
+
+Raj:
+  Let's move to.
+  What was that feature list? OK, so this is a feature list, so what this is having?
+  This, this particular feature list is having all the features that we are having on our POC. OK.
+
+Gagan:
+  Is a feature list of POC OK?
+
+Raj:
+  Yes, all.
+  All the functionalities that we are having currently on our Aug CY that is being recommended by client. This is a list of all those, and if you see these columns on there, on stage, on broad.
+
+Gagan:
+  Me.
+  Mm.
+  Okay, so this is on dev, that is not on prod.
+
+Raj:
+  So, we, yeah, this is present on dev, this is present on stage, but this is not present on probably.
+
+Gagan:
+  Mm.
+
+Raj:
+  So, I think this is a simple one that all the features with their statuses on each environment, like...
+  There is a feature is that Rutwik was talking about.
+
+Gagan:
+  But what he was saying that it was all over the place. We have to make an order of it. What was the order? Like what it was?
+
+Raj:
+  All over the place.
+
+Gagan:
+  We have to make sure it's at in order or at one place, something like that. I didn't get it.
+
+Raj:
+  Not sure, but I think this is in this is in order only right now. I have added able features in this particular document.
+
+Gagan:
+  Okay.
+  Hope.
+  Okay.
+
+Raj:
+  By the way, I have feared this.
+
+Gagan:
+  Like all over the place, was it talking about the document piece? All over the place means feature is all over the place on Ghodadra.
+
+Raj:
+  I think he was talking about the features only.
+
+Gagan:
+  No, but when we talk about when he was talking about all over the place before the document that was created before this, was it a...
+  The.
+  Due to the document he was saying, or due to the feature being in GitHub in every place?
+
+Raj:
+  I think he, I think he.
+  Part of that, this particular document doesn't have all the features, so he mentioned.
+
+Gagan:
+  Okay.
+
+Raj:
+  So he mentioned the all the features might be at might be scattered in the GitHub in issue list in project record.
+
+Gagan:
+  Okay.
+  Lien.
+
+Raj:
+  But I think I brought all the features in this list.
+
+Gagan:
+  Yeah.
+  Okay.
+
+Raj:
+  The harsh truth is, no one is ready to review this, right? I tagged Samarth krishna Kartik today in the group as well.
+
+Gagan:
+  Okay.
+
+Raj:
+  We review this and this is right around, then I'll proceed with the what what to say release notes.
+
+Gagan:
+  No.
+  Mhm.
+  Okay.
+
+Raj:
+  I am not sure if they reviewed it, but they gave thumbs up, so I will prepare the release on based on this one.
+
+Gagan:
+  Fenil.
+  So now just like we have merged one PR, right?
+
+Raj:
+  Yes.
+
+Gagan:
+  So for that PR will be creating release notes.
+  Or release not has to be created for a feature.
+
+Raj:
+  Release.
+  I also learned about release note today only. So what release note is, like basically all the features, right? We have to prepare release note for stage only, not for neverthrod.
+
+Gagan:
+  Hmm.
+  Okay.
+
+Raj:
+  That is the first thing, right? So what release note is all the features which are working, which are not working.
+  That particular document should have all the details around that.
+  Okay.
+
+Gagan:
+  But you told me it has to be done after the merge. Is it like for every single feature or single PR lease node should be there or for all of the features lease node should be there?
+  Like release notes he was talking about that what test cases has been run.
+
+Raj:
+  The.
+
+Gagan:
+  And everything right, and release notes.
+
+Raj:
+  To be honest, I'm not sure about that, but according to his thinking.
+
+Gagan:
+  As far.
+  No, but you were there in the meeting, right? We had a discussion with you that please note should mention that for this BMR when you merged it, what was the test you run? And...
+
+Raj:
+  Yes.
+  We do not need to mention that. We do not need to mention the PRs.
+  What he what what he is referring?
+
+Gagan:
+  Then for what we need to mention.
+  Mm.
+
+Raj:
+  Suppose whenever we merge a PR, right, that particular feature is live.
+
+Gagan:
+  Singh.
+  Mm.
+
+Raj:
+  So we need to take those features in that release mode, whether it's working or not. Just we need to mention that.
+  Kartik.
+
+Gagan:
+  There's some mismatch here; we had a conversation in the morning that I should have everything, but that's what he told me about chat.
+
+Raj:
+  What everything like what?
+
+Gagan:
+  Like everything, like what test we run so that he can show it to Sanjay is the name of the guy, right?
+
+Raj:
+  Yes.
+
+Gagan:
+  that he can show it to Sanjay and what test we have run and on what basis we have passed it.
+
+Raj:
+  OK, I'm yet to receive the release note sample from Satish, right? I'll share it with you. You can also.
+
+Gagan:
+  Okay.
+  But don't you remember he was talking in the morning about this, right?
+
+Raj:
+  I will, I am not sure when he was talking with you. I he was not on the call.
+
+Gagan:
+  Okay.
+
+Raj:
+  When, when, when he was talking with you, like in the last?
+
+Gagan:
+  Actually, I was talking to you only. We have to work on release notes as well. And it should have mentioned everything that what test we did to make it pass. So that we can show it to Sanjay. Okay, we have done our work and there was nothing wrong on our side. So he can show it to Sanjay.
+
+Raj:
+  Mm.
+  We need to figure out that, like, what to mention in that document, because, like...
+
+Gagan:
+  Ahmed.
+  Mm.
+
+Raj:
+  I am also preparing this for the person.
+
+Gagan:
+  Right, right, yeah, he told me that this is something new, so maybe had a chat with Raj. OK.
+
+Raj:
+  Yeah.
+  I'm waiting for Satish to send that with reason.
+
+Gagan:
+  Again, I don't know in detail, whatever he said, I'm just saying the same statement to you as well. In detail, I don't also don't know. Yeah.
+
+Raj:
+  We.
+  Okay.
+  So, release note.
+  I'm waiting on Satyush, right? Let me send them.
+
+Gagan:
+  Team.
+
+Raj:
+  By the way, we have to complete this release note by today.
+  P.R. Sanjay are the important to the release not here.
+
+Gagan:
+  Change A Friday.
+
+Raj:
+  Friday. It has to be shared to Sanjay on Friday, but we have to complete it today so that we can review, make changes, whatever they want.
+
+Gagan:
+  Okay.
+  So, what we have to do right now, then, releasements?
+
+Raj:
+  I am asking Satish to share a sample.
+
+Gagan:
+  Yeah.
+  Cool.
+  Okay, for the PR384.
+
+Raj:
+  In.
+
+Gagan:
+  Can I share my screen?
+
+Raj:
+  Yes, Miss.
+
+Gagan:
+  Is that visible?
+
+Raj:
+  If.
+
+Gagan:
+  It says two items block merge.
+
+Raj:
+  Adam block merge format editor dot Piyush must be this.
+  Anshul.
+  Or let it was challenges open the.
+  Gagan starting.
+  Scroll down.
+  Um, severity, highly, we can ignore it, but...
+  I'm not sure if we have to ignore this.
+  Indian.
+
+Gagan:
+  Yeah, because something is there, right?
+  Two items block March.
+
+Raj:
+  Copy this and send it to me. Copy this and send it to me. Let me ask for this.
+
+Gagan:
+  What should we do in this case?
+  Sure.
+  Should I send you everything?
+
+Raj:
+  No, no.
+
+Gagan:
+  Just the request changes, no?
+
+Raj:
+  Yes.
+
+Gagan:
+  Show the song.
+  Do you have any KT today?
+
+Raj:
+  What you do?
+
+Gagan:
+  Good.
+  Mm.
+
+Raj:
+  I have big task on release notably, but I'm new.
+
+Gagan:
+  Mm.
+  Release notes.
+
+Raj:
+  Yes.
+
+Gagan:
+  We just have to get a document, right? That plot will do.
+
+Raj:
+  I don't think so.
+
+Gagan:
+  Matcha.
+  Okay.
+  Well, like when they'll share it, they share in the evening, we'll work in the evening.
+
+Raj:
+  Yeah.
+
+Gagan:
+  Like when he will share, did he give any timelines? We have to give it today, then we have to start working now, right on them.
+
+Raj:
+  They are only bola.
+  He told that I'll be sharing after the call.
+
+Gagan:
+  Okay.
+
+Raj:
+  A gentleman.
+
+Gagan:
+  Ohh.
+
+Raj:
+  By the way, there is one thing.
+  Four 100 percent no bombing.
+
+Gagan:
+  Okay.
+  But still better to mention instead of.
+
+Raj:
+  I am admindataeng.
+
+Gagan:
+  Having somebody saying it later on.
+
+Raj:
+  Sir, Mira, Mira Claude, Formatted.py must be in this is an invalid concern.
+
+Gagan:
+  Ohh.
+  Alert.
+  Well, did you face this earlier, this specific error? Do you think it's a big error or smaller error?
+
+Raj:
+  Uh, there's an auto thing error, like Igbar clouds, I got push, I got they go just say you are the only one who who uh will be reviewing this PRTK, so you got the comment in your cloud, you shouldn't mention that.
+
+Gagan:
+  Mm.
+  Mm.
+
+Raj:
+  We both are like matching each other command, so difference the whole way.
+
+Gagan:
+  Hmm.
+  Right.
+
+Raj:
+  OK, OK. Suppose this may or yes, Sara, other high severe, you saw that right? Key, the severity was medium and low, no high severity was there.
+
+Gagan:
+  Let me check.
+
+Raj:
+  Or you can ignore for.
+  First, please.
+
+Gagan:
+  But medium severity concerning to hugi.
+
+Raj:
+  I don't think so, I suppose if this is not working.
+
+Gagan:
+  Mm.
+  Yeah.
+
+Raj:
+  So highlight Kartik.
+
+Gagan:
+  Okay.
+
+Raj:
+  in the first prompt only.
+  Yep, uh, when you are.
+
+Gagan:
+  Mm.
+
+Raj:
+  The telling it to review BMR.
+
+Gagan:
+  And.
+
+Raj:
+  Those issue may require valid, but not a code issue.
+
+Gagan:
+  Mm.
+
+Raj:
+  So, this can be corrected later as well, if anything breaks, right? So, Fenil raises the PR again.
+
+Gagan:
+  And.
+
+Raj:
+  Then we are reviewing the PR again. Our cloud cheques everything. If anything is breaking, it will highlight at that time.
+
+Gagan:
+  Yeah.
+
+Raj:
+  But yes, in your first attempt, you got this comment, you should mention it.
+
+Gagan:
+  Play.
+
+Raj:
+  Yes.
+  Yes, irrespective of low, medium, or high severity, right? A very low severity, or highlight, this is a bug, just mentioned that.
+
+Gagan:
+  Bye.
+  Right.
+
+Raj:
+  Uh, because it it doesn't take more than one to two minutes to fix this particular issue. This particular comment will copy cloud automatically fix, not more than five.
+
+Gagan:
+  Okay.
+  Team.
+  Yeah.
+  Dot.
+  Yeah, that's what our concern was, if it's giving better to mention, right?
+
+Raj:
+  Yes.
+  Yep.
+  You can try with the top two peers, and let me know if, like...
+
+Gagan:
+  Team.
+
+Raj:
+  It works for you.
+
+Gagan:
+  Okay.
+  So, first time Lien.
+  386, right?
+
+Raj:
+  Yes, do you want me to send you the updated scale file?
+
+Gagan:
+  DA.
+
+Raj:
+  He got more skill fine for now, or he searched for nana control after Kartik. Doctor UI can file, you know, he got searched.
+
+Gagan:
+  As my examples, Doctor.
+  Yes, I need.
+
+Raj:
+  Let me share you in file based on or docker folder.
+
+Gagan:
+  Javier.
+  ceji.
+
+Raj:
+  Yeah, particulars can file delete for me.
+
+Gagan:
+  Copy paste.
+
+Raj:
+  Delete screen screen share.
+
+Gagan:
+  DA.
+  Hmm, Ghodadra.
+
+Raj:
+  This one a folder, uh, folder Company.
+
+Gagan:
+  Team.
+  Thank you.
+  Mm.
+  Yes.
+  New folder.
+
+Raj:
+  Zero one data Gagan, right?
+
+Gagan:
+  The.
+
+Raj:
+  Doctor, you are.
+
+Gagan:
+  Doctor Javier.
+
+Raj:
+  POC way.
+
+Gagan:
+  Gorbanalu.
+
+Raj:
+  Ops UI, yes, RA Carbanalo project.
+
+Gagan:
+  So, we know about it today.
+
+Raj:
+  What's the folder name?
+
+Gagan:
+  Mm.
+  Score, Ghodadra.
+
+Raj:
+  Project Ghodadra.
+
+Gagan:
+  Project.
+
+Raj:
+  You get the thing one way of POC.
+  Chinese, I'm asking Piyush now.
+
+Gagan:
+  Take that.
+  Tech.
+  Up with the coming in.
+
+Raj:
+  Mm.
+
+Gagan:
+  DA.
+
+Raj:
+  My lovely ages.
+
+Gagan:
+  Is there a lot of noise coming from my background?
+
+Raj:
+  No, nothing.
+
+Gagan:
+  Team.
+
+Raj:
+  I was saying, you can update the these kill files according to your needs, because I updated.
+  What to say, weekly, weekly?
+
+Gagan:
+  Right.
+  Mm.
+
+Raj:
+  Yeah.
+
+Gagan:
+  Which one is Doctor One? BMR One is Doctor One.
+
+Raj:
+  So many updates happen, no, no, both are Ops UI and just paste and Ops UI only.
+
+Gagan:
+  Both of them.
+
+Raj:
+  Yes.
+
+Gagan:
+  Chicken.
+  Yes.
+
+Raj:
+  One was review PR of CY, but will be paste like that.
+
+Gagan:
+  Which one will be using from this one? Review dash BMR one, right?
+
+Raj:
+  Review BMR.
+  Yes, one automatically came because I think you already have one big UPR in your downloads.
+
+Gagan:
+  Fenil.
+  Not about it.
+  Then I can remove the one I already have, right?
+
+Raj:
+  What are those for? I say, wait, let me.
+
+Gagan:
+  Now, there may not be a hold on.
+
+Raj:
+  Doctor UI can be patient.
+
+Gagan:
+  Hey, Cortana.
+  Uh, but it's just a review dash P.R.A.
+
+Raj:
+  Don't, don't.
+
+Gagan:
+  Yes.
+  Mm.
+
+Raj:
+  Not about only.
+
+Gagan:
+  Servers folder.
+
+Raj:
+  Householding.
+
+Gagan:
+  Got it.
+  Pitch a picture.
+
+Raj:
+  How do you use my best?
+
+Gagan:
+  You don't know?
+
+Raj:
+  When I Third Walla Third Walla Doctor you Gagan.
+  Yeah.
+
+Gagan:
+  Two.
+
+Raj:
+  On last all the project board.
+
+Gagan:
+  Mm.
+  I hope.
+  Singh word, no?
+  DA.
+  I'll just open a new folder from VS Code and select the button.
+
+Raj:
+  So close, but directly close.
+
+Gagan:
+  And.
+  Chicken.
+
+Raj:
+  Amisha na vojo Claude vallajo tab kulavan.
+  Is for, is for, is for me close, Melanie.
+
+Gagan:
+  Chicken.
+  But VS code closed.
+  Ahmed.
+
+Raj:
+  Hello, call this from this particular folder that belong up.
+
+Gagan:
+  Tech.
+  Mucho.
+
+Raj:
+  Habis me right clicker ke open with VS code.
+
+Gagan:
+  Semi to baata vaan se pi koltalum.
+  Nice one.
+
+Raj:
+  Padhi.
+  At that, I agree to officially, you know, right-click on that.
+  Make me open with Lien.
+
+Gagan:
+  No, my personal.
+  It is out of the folder open, yeah.
+
+Raj:
+  Single right click.
+
+Gagan:
+  Any same option will go extend more options.
+
+Raj:
+  But just show more options.
+
+Gagan:
+  But, up your carrier.
+
+Raj:
+  Yeah, so maybe a call now.
+
+Gagan:
+  Thank you.
+  Eric Rahul Balan.
+  Open Fenil.
+  Give access me, send to.
+  And to me, yes, call me.
+
+Raj:
+  Yes, hold on.
+  When I go, I got folder.
+
+Gagan:
+  That's it.
+  I'm gonna, I'm gonna make it.
+  Mm.
+
+Raj:
+  UK.
+
+Gagan:
+  Where is my Karan Ghodadra?
+
+Raj:
+  Wait, hold up, give me a search on your, I can do, you can call me a bit.
+
+Gagan:
+  Exactly, what's happening?
+  OK, there a folder, right? Explorer, Nicolana.
+
+Raj:
+  Yes.
+  Or, is my type Kartik, if you clear 3 to 4?
+  They can set up.
+
+Gagan:
+  All set up, we might have lost the context.
+  Ohh, if I may go login ke mange Gagan.
+  I was up, call Gagan.
+
+Raj:
+  Or, after you ask me for it, it automatically.
+
+Gagan:
+  Ask before I did cooling.
+  And it automatically, yeah.
+
+Raj:
+  Ahmed.
+  Yes.
+
+Gagan:
+  Nice.
+
+Raj:
+  Yeah, just an idea.
+
+Gagan:
+  Georgina.
+
+Raj:
+  Lien.
+
+Gagan:
+  Casa Magnia.
+
+Raj:
+  A release and what, yeah?
+
+Gagan:
+  Release notes. PR merge release notes saying this proof test. That's what he told. Release notes sample. I just read it on the Google and that's what I read.
+
+Raj:
+  Yeah.
+  Sure.
+
+Gagan:
+  Yeah.
+  Well, yeah, if if we have to work according to a format that will give Sanjay Padhi.
+
+Raj:
+  Piyush.
+
+Gagan:
+  First, tell me.
+  Ohh, where is Sanjay from, and where is Satish from?
+
+Raj:
+  Sanjay.
+  I think in franco lead and.
+
+Gagan:
+  Okay.
+
+Raj:
+  I think he is our client.
+
+Gagan:
+  Sanjay said, OK.
+
+Raj:
+  U.S. Mail, Shahid, Fenil, and Satish is assisting us with.
+
+Gagan:
+  Satish, okay.
+  Tech, so he works with us.
+
+Raj:
+  Like, yes, he works with us. He knows a lot of things, like not a lot of things, everything.
+
+Gagan:
+  And he's a working professional, right? He works part-time, whatever, I guess.
+
+Raj:
+  On it.
+  Yeah, exactly. I think he has more than 10 years of experience in DevOps.
+
+Gagan:
+  Whoa.
+
+Raj:
+  I think so.
+
+Gagan:
+  Tiny labs.
+
+Raj:
+  And.
+  Yeah.
+  I'll tag you.
+
+Gagan:
+  Chika.
+  Yeah, we have a UI to quit testing.
+
+Raj:
+  But now, that stage you even delete this thing that we need to find.
+
+Gagan:
+  First stage UI calling krishna.
+
+Raj:
+  Yes, yes, login credits that.
+
+Gagan:
+  Or same prompt, download, up to the other.
+
+Raj:
+  As a cloud extension, same prompt or manual testing method, I know testing, we can see.
+  But look, feature list will come.
+
+Gagan:
+  Name some Danny Kos mein kya Karna was kabhi batao kya mein baad.
+
+Raj:
+  They go priority, or release mode.
+
+Gagan:
+  Gagan.
+
+Raj:
+  If time we love testing, UI testing.
+
+Gagan:
+  Yeah.
+  We can, you are testing up the manual, but you are testing them.
+
+Raj:
+  Manual testing.
+
+Gagan:
+  Mm.
+
+Raj:
+  Yes, I open.
+  I see a feature list start again.
+
+Gagan:
+  Mm.
+
+Raj:
+  A particular feature in dashboard, dashboard, node, node over.
+
+Gagan:
+  Mm.
+  Mm.
+
+Raj:
+  We get on case, on case page in just a UI only, yes, it's loading.
+
+Gagan:
+  Yeah.
+
+Raj:
+  All case page, all case page video.
+
+Gagan:
+  Chum.
+
+Raj:
+  Yes, actually, we can.
+  Gagan.
+
+Gagan:
+  And this is for the stage.
+
+Raj:
+  Off stage, we do.
+  My other team will be open currently on a stage.
+
+Gagan:
+  So, do you give this thing we have to do? We were connected at Lingus time.
+
+Raj:
+  No. See you.
+
+Gagan:
+  I know, doctor, you can, I'll just come complete this one and map output data on Javier.
+
+Raj:
+  Lien.
+  Oh yeah, the OPR, but you know, but you so maybe you will be coming for him.
+
+Gagan:
+  Chicken.
+
+Raj:
+  Yes.
+
+Gagan:
+  You'll do the command, right?
+
+Raj:
+  Ahh, baby, never mind.
+
+Gagan:
+  All right, I'll cheque and send you.
+
+Raj:
+  Yeah, Matlab, of course, I say.
+
+Gagan:
+  It won't break anything, so yeah.
+
+Raj:
+  No.
+  Yes, yes, yes.
+  Yes.
+
+Gagan:
+  Cool. OK, OK. I may be is PR manual testing.
+
+Raj:
+  Like, dev page of the merge of Admin, obviously a destination branch.
+
+Gagan:
+  Team.
+  All right.
+
+Raj:
+  Yes.
+
+Gagan:
+  Okay, I'll let you know when I'll get the result of this.
+
+Raj:
+  Thank you, Gagan.
+
+Gagan:
+  Okay, bye-bye. Thank you.
+
+Raj:
+  Bye.
+  Anyways, thank you. Bye-bye.
+
+Gagan:
+  Admin.
