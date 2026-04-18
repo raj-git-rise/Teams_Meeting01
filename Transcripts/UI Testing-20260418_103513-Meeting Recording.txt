@@ -1,0 +1,3011 @@
+Transcript: UI Testing-20260418_103513-Meeting Recording.mp4
+Generated: 2026-04-18 07:24:14 UTC
+============================================================
+
+ï»¿WEBVTT
+  Okay.
+  Deepali, sorry,
+  but many phones is on here, unfortunately,
+  right?
+  And Raj has Fatimni and like a nice
+  Thanks.
+  transcript,
+  don't worry of meeting key transcripts.
+  Take U.
+  These are my recordings, Sanjay.
+  Okay.
+  Team.
+  Raj is offline to cheque to see this end.
+  Thank you.
+  I've called him in the mail.
+  We can wait.
+  Hello!
+  Hello, Raj.
+  Yeah, I'm just joining from my laptop.
+  I picked the call from my phone.
+  Yes, yes.
+  I'm just calling back.
+  Hello!
+  I know with my.
+  I Raj.
+  We are waiting for Gagan.
+  Or is it okay?
+  I have the document that you shared.
+  Such other case, that's right.
+  Ohh.
+  Oh, heaven.
+  Oh, okay, okay.
+  Yeah, yeah,
+  we need to consolidate all the things
+  because yesterday, like,
+  are you updating the sheet like whatever
+  Mm.
+  cases has been done?
+  Sent, yeah, correct. I did,
+  I mark it as status completed.
+  The other is like only 11 have been
+  generated so far in that list.
+  Okay.
+  Out of the total, 34.
+  Let me see, not total thirty-four total.
+  40 something, 49.
+  They have actually already now generated.
+  But I think, uh, wait a second,
+  it's loading.
+  They have generated for 14 of them.
+  Oh, one is settled.
+  Completed ceji in the status folder,
+  right?
+  So.
+  Uh-huh.
+  I cannot see done.
+  That's what I was figuring out in
+  yesterday's call.
+  Why is it put? I put it as OK, sheet one,
+  yeah, sheet two, sheet one.
+  Um, comments file to see.
+  Good job.
+  Okay.
+  With my status, you can see completed.
+  So completed is really.
+  This is the only sheet that you are
+  looking, right?
+  Yep,
+  the same one overall case tracker
+  internal.
+  I'm done.
+  Yeah, completed are actually 11.
+  Including yesterday's too one that Nollie
+  had triggered,
+  Okay.
+  it failed pipeline timed out.
+  Yeah.
+  I mentioned that, yeah.
+  So you want me to see this sheet,
+  Nollie updates?
+  Nay, nay, nay, sheet two, Nollie,
+  we look up killer data sheet 2 window,
+  Lien.
+  Sheeto.
+  I don't think.
+  You look up Canada.
+  sheet 2 please.
+  It has only three rows.
+  They will, and I correct,
+  clear the philtres and all that.
+  On ID.
+  Mm.
+  Play.
+  Actually, 1000 plus I saw.
+  Nine, nine, nine.
+  Okay.
+  We take that 1000 plus,
+  which actually completed successfully.
+  Yes, for financial.
+  We are testing on that right now,
+  like I have to test with some cases to do.
+  Okay.
+  I'll share you more case IDs, right,
+  that we have uploaded.
+  Mhm.
+  Yep.
+  Can you talk to me about file share?
+  Can you add Sridevi to this, please?
+  Bucky ceji go see a meal that day.
+  Yeah.
+  By the way,
+  both the case IDs are above 1000.
+  We can get started with UI testing.
+  Team.
+  Okay.
+  What if you're gonna be jealous?
+  Yeah, this.
+  So what we need to do, right?
+  We will open the UI, the stage UI, right?
+  Raj, before you start, right,
+  I just want to give like 1 brief,
+  Yeah.
+  you know, one small thing to the team.
+  Team,
+  so whatever we are looking at right now,
+  these are individual features, right?
+  A feature? What,
+  what exactly is a feature here within a
+  dashboard? Dashboard is a module.
+  Mod is a feature.
+  Clicking a button is a feature.
+  Feature doesn't have to be fancy.
+  Anything that is, you know,
+  actionable is a feature. OK,
+  clicking a button, going, I have,
+  you know.
+  searching on a page, opening a PDF,
+  all of these are features.
+  When you are testing these features,
+  right,
+  like I would expect at least Gagan and
+  ceji to, you know, do manual tests, right?
+  You guys don't only think of, you know,
+  the, what do we say, the happy path,
+  right? You don't think of, okay.
+  This is, they'll click this,
+  this will happen. Also,
+  think of all the crazy things that might
+  happen. For example, I don't know,
+  instead of uploading a PDF,
+  somebody who uploads a video,
+  then what happens? Instead of, you know,
+  doing this, someone does that, instead of,
+  you know, searching for a word.
+  Someone, I don't know,
+  searches for something very different.
+  Try and break the system.
+  That is what I'm saying.
+  Whatever you are doing,
+  clean documentation of those things,
+  right? In this feature number one,
+  I did these four, five tests. Pass, pass,
+  fail, fail, pass.
+  That's what we need to do. Okay,
+  so not only the happy part, but...
+  Every exceptional thing that can happen
+  there, try and document.
+  And from Dipali, Dipali,
+  what I expect is since you have some
+  background, you know, in coding,
+  you know how things function.
+  I would expect you to write test cases,
+  right? Unit test cases, like code.
+  Tomorrow,
+  someone can come and change a feature a
+  bit.
+  I don't expect everyone to, you know,
+  go and again run those tests.
+  I expect from you to write test cases for
+  each one of these features that, you know,
+  isolates the code piece and runs the test
+  on it.
+  So Team, now when Raj is showing right,
+  your question should be more around what
+  are the functionalities of those things.
+  Okay, if you put this feature down,
+  what does this even mean, right?
+  Raj might have answer to most of these.
+  If there are not any answers,
+  Piyush can answer or Kartik or I can
+  answer.
+  Take a ceji Raj, all yours, go ahead.
+  Thanks.
+  Before that, I have shared this sheet,
+  which you can copy, create a copy of.
+  I'll be updating in this sheet only.
+  This basically,
+  this contains all the features,
+  its description.
+  Or whether it passes or fails tested by
+  you,
+  you can use the sheet like just create a
+  copy and use the sheet as your
+  documentation.
+  Moving on to feature list, right?
+  This has all the features that we need to
+  test on our UI.
+  Suppose if I see the first feature, right?
+  Dashboard, dashboard is working or not.
+  We finished it yesterday, it should work.
+  Right, so we can say it here.
+  So just write, pause there, right?
+  All case pages we have disabled it
+  because.
+  Yeah, not sure, uh,
+  but how to what why it like to QEC to
+  Zoho.
+  Right, so for now we have disabled it.
+  So, like, uh, Navpreet,
+  should I walk through all the details or?
+  Page by page, sorry,
+  feature paper walk through the page by
+  Import.
+  Mm.
+  page, report page by page, Raj Suganya,
+  page by page walk through the, please.
+  Right, Kartik, something if Piyush,
+  of course, you will know that. OK,
+  I missed this many documenting here,
+  right?
+  Okay.
+  1.
+  Yes, so.
+  Coming to the third one,
+  case details page.
+  Right, this is disabled as well.
+  This, this is in all cases page only,
+  where we can see the detail of each and
+  every case.
+  Right,
+  you can just write in progress or
+  something like that.
+  We can review that later.
+  LCP processing page,
+  this is the most important page.
+  Like this has,
+  this is the page where we generate the
+  reports, see everything.
+  Right, so let's go to this.
+  What's the first test case?
+  Displays OCR process report or a selected
+  case with option to generate review edit
+  report. So what this mean?
+  Just we need to search any particular
+  case ID.
+  Right,
+  it it will make make it like ensure
+  everything is correct here, right?
+  The patient name should come up here.
+  Earlier we were seeing unknown here,
+  right? The report type live care plan.
+  We can verify this from Jayabalan.
+  Total pages, how you will verify?
+  I'll verify, I'll verify at my end,
+  like we can verify this from S3.
+  Right, like.
+  Name base, access, test, check, access, C.
+  G. Gagan keep us access here,
+  Good shot.
+  I would confirm, C.G.
+  Gagan can reach out to you by test case
+  numbers.
+  But, going forward, Raj,
+  yenna raise krishna Mande ko ki in sub
+  Good.
+  quest 3 axes.
+  Okay.
+  Med Expert, OK,
+  like they should have a account on Med
+  Of.
+  Expert.
+  Okay.
+  Yeah, Piyush can give them, actually,
+  Piyush can pass, uh, analyst account,
+  Yeah.
+  just may read only access.
+  It's fine, I think he...
+  Yeah, Kartik, exactly.
+  Let, let, let, let.
+  You should be read-only access to here is
+  3 account.
+  I have to cheque here. Give me like 10,
+  15 minutes. I'll cheque that in.
+  Ohh, Aarush, take your time,
+  take your time.
+  Sorry, Raj continue.
+  This existing report count as always is
+  also coming from this three, right?
+  If you go to, let me show you.
+  So, if sorry, let's go back here,
+  you can search for any particular case ID,
+  right? It will open up a folder.
+  If you go inside this folder,
+  inside outputs, right,
+  we can see the number of generated
+  reports.
+  Yeah, right, so this should match on EU.
+  Got it.
+  Can you just repeat that the folder I
+  didn't see?
+  Lisa.
+  OK, if you go on S3, right,
+  I'll share this particular link where all
+  Okay.
+  the cases are created.
+  Just in the search bar,
+  you need to create that particular case
+  ID for which you are looking.
+  You need to open this particular folder.
+  And inside output folder, right? Like.
+  Okay.
+  Okay.
+  The output is basically whatever we
+  generate using UI that is saved in output
+  Lien.
+  folder.
+  So in this particular folder you see the
+  number of reports.
+  OK, this should match with.
+  Right.
+  Yep, yep,
+  you need you might need to know you
+  should philtre it with PDFs, right?
+  Because these these two documents are
+  same only and generated at the same time.
+  We need to look at the PDF only,
+  Okay.
+  Okay, take care.
+  not at the work.
+  So initially I think there should be 17.
+  reports for this particular piece ID.
+  You can.
+  So, Raj, in a case that, like,
+  let's say I'm not able,
+  sorry to interrupt you,
+  in a case that if I'm not able to find
+  that account,
+  please discuss that approach as well,
+  okay? Just in case.
+  How do the team go ahead?
+  Hope.
+  No, no,
+  I didn't get you like in particular case.
+  No, no,
+  I'm saying that let's say this is as per
+  the assumption that I'll have the Amazon
+  cut view view only account, correct?
+  Yeah.
+  But what if there is like,
+  I'm not able to get the access to that,
+  like then how do we proceed ahead?
+  Is there any way?
+  Ohh.
+  To cheque these two things? No,
+  I'll cheque myself. I'll cheque myself.
+  You have your, you, you have the,
+  you have, you have the account as well,
+  if you can also help them to log in,
+  is that possible?
+  Right.
+  I can share my account then.
+  Yeah, yeah, I think just,
+  just wanted to make sure that you know we
+  are not blocked, man.
+  That's the reason I'm requesting. OK,
+  thank you.
+  Yeah, yeah, I'll share my.
+  Okay, okay.
+  Moving on to another card,
+  this is also important because this shows
+  all the case details of a particular
+  patient. This should match from our room.
+  We corrected it yesterday.
+  Right,
+  so everything here should match from Zone.
+  Right, I think it's fine, like, uh,
+  I don't need to explain the terms here,
+  right?
+  Hello!
+  Sorry, yeah, you want, yep, yep.
+  Guys, some thumbs up, something, please.
+  Yeah, please, Gagan Dipali, like Gagan is,
+  Raj is taking his time out, guys.
+  Dipali.
+  Dipali is having access on, or she,
+  she will be testing.
+  Nick.
+  No, sir, not it.
+  Like automated test or like manual test?
+  Both, both manual and automated. See,
+  the idea is he should be aware of the
+  Sure.
+  system, right?
+  Hmm.
+  So.
+  Well, AI testing, yeah.
+  Can I?
+  AI testing one is a home.
+  But, Zoho Gagan.
+  Yeah.
+  I can give my testing account.
+  That's AI testing, right?
+  AI underscore testing. Okay, yeah, yeah,
+  Yes, BI underscore developer owner.
+  take care. Well, read only, I mean,
+  the case info panel, take care.
+  Yes, yes, yes, yes.
+  OK, moving ahead,
+  let's go to feature list only.
+  LCB processing page is done, edit section,
+  page, data predator.
+  This is the most important part.
+  So, TikTap Editor is basically,
+  if you try to edit anything right,
+  this particular button will open.
+  Navpreet, is this correct, like?
+  From Kartik, I got this information only.
+  If I edit anything,
+  this particular editor will come up.
+  Yeah, this is right, yep.
+  Okay. So yeah, stick.
+  What else was the expectation here?
+  No, no, I I am asking. I am just asking.
+  I was not aware of that.
+  No, no, this is right. This is right.
+  This is right.
+  Okay.
+  So, this is a tip that, if you click on,
+  click, click anywhere, this should open,
+  right? And if I make any changes.
+  We will get a save button and in after 2
+  seconds it would it would automatically
+  save.
+  I don't know how this like if it's
+  correct or not because suppose if I am
+  changing something big.
+  Right, right,
+  it would take more than two seconds.
+  What your take in this Navpreet?
+  Let's put that as an observation, man.
+  Two seconds is not the best thing, right?
+  I mean, if it takes time,
+  this is not a good thing.
+  Put that as an observation.
+  Don't put it as pass.
+  Your idea should be that it should
+  immediately happen, right?
+  The change should immediately happen.
+  Okay.
+  Switch to observation,
+  and let let Kartik fix it.
+  Singh.
+  This was about tech top editor.
+  We will go in depth later. No, no,
+  Is that is that about it?
+  we will. We will go in depth.
+  We have a separate.
+  Feature like a detailed section for whole
+  edit sections.
+  Okay,
+  these are basically core pages working of
+  core pages. If it's working fine or not.
+  We'll move to history page.
+  In history page we need to look at
+  everything like whether we are able to
+  philtre right.
+  If you see if I click on completed every.
+  Completed cases come up here, right?
+  Running cases, field cases.
+  Cancel, cancel is not working, I guess.
+  It shows only all,
+  like whatever we see in all filters,
+  this is coming in cancelled.
+  We can philtre it by number of days as
+  well, 7 days, 30 days, 90 days.
+  This is not useful for now, because, like,
+  this UI is being used from the past month,
+  I guess, not 90 days, so, but, but yes,
+  you can put your observations there.
+  This is about history page.
+  Admin over dashboard,
+  this can be accessed using Kartik account.
+  He can see everyone who has who has
+  triggered what on my account and on your
+  account,
+  he can see whatever you have driven.
+  Right.
+  So, this you can skip,
+  I will test with Kartik.
+  Activity logs, AI analytics page.
+  This is your activity logs via analytics
+  page. Currently,
+  I don't know why it's showing total terms
+  are zero.
+  This has been highlighted in the rules
+  note by this, but yes.
+  This can be skipped NoReply, right?
+  I would recommend even though Admin can
+  let everyone look at it, you know.
+  It can be made better, of course, right?
+  Ohh, the thing is, like,
+  there is no number here, right?
+  What I need to shoot is.
+  If it's not clickable, yes.
+  So, you can skip, it's OK, skip.
+  S.O.P. Guide or Baki, or you know,
+  going through the end-to-end report
+  generation.
+  Okay.
+  Let's move to settings page.
+  This is not basic page.
+  Oh.
+  Where is that?
+  Give me one minute, I'm kind of this.
+  Complete settings page is not here,
+  it works.
+  Feedback.
+  Like, basically, in in settings,
+  we don't have much things like...
+  Why do you want that?
+  Dude, Raj.
+  Mm.
+  Okay.
+  Left line, centre line to issue here,
+  right? You do not have to justify key.
+  Ahmed.
+  Okay.
+  Last 3 features are related to your
+  logins, right? For the first time,
+  whenever you log in,
+  you need permission to be approved by
+  Admin. Currently, Kartik,
+  Kartik approves it.
+  Without that, you cannot access the UI.
+  Like the login page,
+  it will require your credentials.
+  Dev access page,
+  you will get a page where you will be
+  asked if you want to log into Doctor UI,
+  POC UI, lawyer UI.
+  So that's an interface that you are going
+  to see whenever you log in for the first
+  time.
+  Moving on to OCR reports listing page.
+  Case search dropdown we already saw.
+  Just write case ID.
+  It should show the correct patient name
+  and the plan type.
+  He is auto select by a URL, OK?
+  You can try this.
+  I think you should try it.
+  There might be some test cases which are
+  not so straightforward,
+  but we need to move some time there if
+  you see this guide.
+  I open that particular URL and we are on
+  that page. The case ID is 5 by 8.
+  Right.
+  Are we good with this test case?
+  Okay.
+  Reporting listing with file name, size,
+  date, you can cheque here.
+  When we generate a report,
+  if I scroll down,
+  I can see all the details of that
+  particular file. Right,
+  the name of the file,
+  the size of the file,
+  the date when it is generated.
+  Moving on.
+  Sort toggle, newest first,
+  this is sort toggle,
+  we can sort all the reports,
+  like if you want to see the latest
+  generated cases or the oldest one,
+  but this should work.
+  on type philtre chips.
+  What are these?
+  That's very bad.
+  Currently,
+  we don't have the adapted report for this
+  case. Let me show you that.
+  Piyush.
+  If I search for 3424, we got two filters,
+  two philtres basically, right?
+  It should it should work well.
+  If I click on the doctor report,
+  all the redacted report should come up
+  here.
+  PI generated that is generated using
+  Vivek.
+  You.
+  Sorry, good question: What is redacted?
+  I'm not sure, but please,
+  can you come home?
+  Okay, sure.
+  No worries if it's not scope of this.
+  No, no, we can.
+  Ohh.
+  What exactly is the feature that you're
+  talking about, ceji?
+  What is a redacted report?
+  Can you give some detail?
+  Um, you know Kartik say.
+  A childhood.
+  I'm not too sure.
+  Okay.
+  Generate report button with spinner.
+  Will they generate cases?
+  Update, yeah, you can, you, you can try,
+  you can try like generate report button
+  Cool.
+  Sorry, I was speaking on mute.
+  Did you not hear?
+  should work.
+  I was saying like Kartik.
+  I'm saying when they generate cases.
+  Mm.
+  Mm.
+  Like, no, I'm asking.
+  Shall 3424 generate for everyone?
+  Let let them generate 3424 so that they
+  see see that let them generate any random
+  keys here. It's OK, it's fine.
+  Okay.
+  We are OK taking that at it.
+  Let them not think.
+  Wow.
+  OK, OK,
+  so that that that particular test case
+  was about generating the report.
+  We will click on generate and if you
+  Scroll down right here you can see the
+  polling happening. Let me generate.
+  I'll cancel.
+  If you see here, right?
+  If you see here,
+  the report generation has been started,
+  right? This polling should complete.
+  Like none of the steps should be blank
+  like this.
+  We are not.
+  You know right,
+  none of the steps should be saved.
+  Alert.
+  So, the polling,
+  the green tick button should present in
+  all the steps, right, and this.
+  Cancel button is not here.
+  Here, here, cancel button should be there,
+  but it's not here.
+  We need to write this in bug bug sheet,
+  right?
+  Because we we want to cancel the reports
+  as well.
+  If you see this right,
+  I generated it yesterday and cancelled it.
+  But I don't know why it's not here.
+  I'll write in bugsheet.
+  So this was about the spinner and
+  generating the report,
+  batching and urgent toggle.
+  I'm not super sure how this works,
+  but you can try with both the options if
+  the reports are generating successfully
+  or not.
+  Like this is the batching and urgent
+  toggle.
+  Right.
+  Navpreet,
+  do you know what's the functionality of
+  this?
+  Yeh bajing sena hum cost ko half kar
+  detiyam.
+  Hum Jayabalan.
+  Achayik Bhardwaj.
+  Anyone living with this?
+  Pages, total pages, existing report,
+  give them a definition of this, right?
+  You need Padhi already.
+  I mean, all cool, cool, cool, cool.
+  With Padhi Ahmed.
+  Mm.
+  And, overhead.
+  missing data validation, date of birth,
+  date of injury.
+  So this was about if any particular case,
+  in any particular case in Zoho,
+  Okay.
+  if we don't have date of birth and date
+  of injury, the report cannot be generated.
+  You can try what you need to search in
+  Zero for the patient.
+  that doesn't have date of birth and date
+  of injury,
+  a pop-up will appear on the right,
+  top right screen that this particular,
+  this is missing for this case and we
+  cannot generate the report.
+  So this was about that.
+  Listen, data variation case details panel.
+  We talked about this, right?
+  This is case details panel.
+  This should match from Ghodadra.
+  All the details here should be correct.
+  Right,
+  so we need to go to Zoho and verify this.
+  page limit warning. Currently we have,
+  I think,
+  after testing the large larger report,
+  we need to remove that.
+  If I search for any large rules,
+  let me get that.
+  5633.
+  5, 6, 5, take your search for this case,
+  you can see the page limit warning right
+  in red. So this case was about that.
+  Large report generation, this I will, yes,
+  Gagan.
+  Hi Raj, just one question.
+  Is there any place we get to know the
+  estimation time of any report if it's
+  running?
+  Our average estimation time is around 45
+  to one hour, 45 minutes to one hour,
+  Uh-huh.
+  but yeah,
+  you can you can see here right in
+  progress, but wait, let me show you.
+  This processing where it is happening in
+  the backend and it end.
+  Yes, and you can.
+  Okay.
+  You can see here, right? The total time,
+  3 minutes, 45 seconds.
+  This report is running.
+  This is the time it is passed by, right?
+  It's not estimation time of the whole
+  Yes, that, that.
+  report, right?
+  By installation time, what do you mean?
+  Hello, estimation time.
+  I'm just trying to understand.
+  He report.
+  Like Kartik.
+  But we have estimated an average time of
+  45 minutes, depending on number of pages,
+  And for how many pages?
+  45 minutes carry on.
+  right?
+  It depends on number of pages that is for
+  800 to 900 pages.
+  Gagan.
+  For more number of pages,
+  it will take more.
+  So, thousands of Hum Kartik,
+  he is over the limit.
+  Like,
+  we are not able to generate the report
+  properly. Section 2, my krishna, right?
+  Gunja.
+  Okay.
+  Visits, so we are fixing it.
+  I think it has been fixed.
+  One PR has been raised by Samarth.
+  Okay.
+  I have reviewed it.
+  But right now, as of now,
+  we don't generate where it's over 1000,
+  No, no, no, no.
+  right? Got it. Yeah,
+  so I wanted to understand. OK.
+  Okay.
+  This report has been completed like much
+  faster because OCR for this report has
+  already been done.
+  We just picked it from our database.
+  Right,
+  so was job time like the OCR processing
+  most of the time, but we ran this case.
+  Like,
+  and we implemented a feature that we do
+  not end up running the OCR process again,
+  and we do not.
+  Uh, end up spending on OCR right,
+  and because it costs uh for vertex A.
+  So, yes.
+  I hope this is clear, Vivek.
+  Please, if you don't mind.
+  Oh.
+  Can you repeat the last name again?
+  Yeah, sorry, did I say anything wrong?
+  That's what I'm saying.
+  Can you repeat the line again, please?
+  Or did I say I am saying we are generate
+  we are storing suppose particular report
+  OCR we are storing in our database right
+  and post that if I again run this
+  particular case the OCR will be picked
+  from.
+  that database table.
+  We do not end up running the OCR process
+  again, which will take time,
+  which will cost us.
+  So we implemented this feature.
+  Yes, Gagan.
+  Uh,
+  Osayan is the like extracting the data,
+  right?
+  From S3 files.
+  That was the end process.
+  Yeah.
+  It's basically suppose we have a medical
+  document, right?
+  Mhm.
+  We need to extract each and every text
+  from there. For that, we need to do OCF,
+  From S3, right?
+  Yeah.
+  not from S3 for from PDF pages, right?
+  We will extract each and every text.
+  What?
+  Hmm.
+  And we will store in our database.
+  How we we will we we are storing those in
+  S3 we will pick O.C.R. can O.C.R. is.
+  TV.
+  And.
+  We like suppose a particular page, right?
+  Mhm.
+  We need to extract this to give it to
+  anytime.
+  Got it.
+  Right, so if you go directly,
+  pages read Nahik Kartik.
+  So you're saying once it is saved,
+  we pick it from that database so we don't
+  Raj.
+  have to run the OCR again to save the
+  time, right?
+  Yes, exactly.
+  Raj,
+  do you do you think you need me on this
+  Anshul.
+  call now, or you will take it from here?
+  I can take it from here.
+  If I have any doubt,
+  Which be first question when a group made
+  although gaga nagar which Raj ni some
+  I'll pin Kartik or yes.
+  Javier up group pick Kartik, but guys,
+  let's break the system down. OK, Dipali,
+  Mm.
+  Chicken.
+  Chicken.
+  try and write automated test, Claude.
+  Sir.
+  Raj Bhai, Raj Bhai.
+  Yeah.
+  Sup, hello, sir, automated tested, right?
+  Hello.
+  Yeah.
+  Haha Raj Dikhangi is called admindataeng.
+  How am I going to do one?
+  Yes, sir.
+  Okay, ceji, thank you.
+  Raj features features.
+  We are covering that only.
+  We have just started.
+  It will take a lot of time.
+  Gagan.
+  Features list, overview, UI, clear IMS.
+  We are going through the sheet, right?
+  The Word file.
+  But who features he listing?
+  Many change got the same ceji.
+  Achatoy Sare feature AK Kartik Desk.
+  Yes, exactly. He's on everything.
+  Action.
+  Two, one.
+  We will all test everything, right?
+  Not that we'll split it all.
+  They will everyone will just test the
+  same.
+  Everyone will test everything,
+  why we won't skirt?
+  That that would be a good idea,
+  but not free forms that only.
+  Mm.
+  Suppose if I.
+  Mm.
+  Is sub sub test correct?
+  Yes.
+  Yeah.
+  What's the point of it?
+  Agar kuch plate hoga to dance or hum
+  mosko breaker satyana,
+  Okay.
+  but if we are spending whole time
+  everything doing everybody the guide.
+  It won't take, it won't take much time,
+  like 2 hours, 2 1/2 hours.
+  You could have asked, yeah, Dipali.
+  OK.
+  Sir, actually testing.
+  Catch up.
+  All the test, Gagan, right?
+  Woman with anything.
+  Mhm.
+  Exactly, yeah.
+  Mainly features UI overview more rather
+  than what we have to test.
+  Okay.
+  Like a UI overview,
+  some Joe Joe is my yesterday, right?
+  On my desktop.
+  Mm.
+  Yeah.
+  That's it, you like overview your BMR.
+  But test cases we are relying on specific
+  UI and clicking on everything.
+  Like,
+  what's the test case according to you
+  Test cases like for example,
+  you have made some test cases where
+  this?
+  something has break down.
+  So, right, so for example.
+  Hope.
+  You, you,
+  you only have listed in bug sheet, right?
+  So you can test them,
+  but you can test them as well.
+  The Osayan.
+  The band highlight.
+  And this time everything has to be done
+  manually, right?
+  It was for you, me, and ceji planning.
+  How else do you do it, Gagan,
+  if not manually? Sorry.
+  Got.
+  Claude.
+  La Hard Clinic.
+  I said, OK.
+  Yeah, yeah.
+  Well, Daniel Expert,
+  he will sit in front of in front of his
+  I need that.
+  laptop for half an hour,
+  and he will generate all the report.
+  Is Sanjay the testing?
+  Wow, I need to learn that from you, Gagan.
+  whether this particular test case pass.
+  Yeah.
+  And.
+  What's up?
+  Okay.
+  You.
+  Testing.
+  Yeah.
+  Mm.
+  I need to learn this from you, Gagan.
+  Yeah.
+  Yeah.
+  Okay.
+  And we move ahead,
+  this is a very large sheet.
+  We continue Raj.
+  Yeah, I know, but I think, more than the..
+  .
+  Shah Jayabalan.
+  DA.
+  I may report generated with a near.
+  We, we, we.
+  Mhm.
+  Hey, Cortana.
+  Secret.
+  Our timeline tracker and pipeline,
+  basically.
+  Hmm, calling.
+  Those case ID.
+  Hello, this is complete and.
+  Team.
+  Mm.
+  Hey, Clinic.
+  But then Navpreet said, like, was it only?
+  Oh, nice.
+  Padhi Valley, I'll try like,
+  but that's not on stage.
+  You are talking about more than 1000
+  pages, is it?
+  K.
+  Yeah, he said like 7000 something.
+  I think he talked,
+  Navpreet was telling you to test.
+  OK, that, yeah, that that I need to test,
+  like, because that is not implemented,
+  large cases value.
+  Ha ha ha.
+  So I need to test that and that is not on
+  stage right now. That is on Dev UI.
+  Yeah.
+  Dipali, just speak up.
+  No need to raise your hand enough.
+  Yes, ma'am. Sir,
+  a case ID A1167 a post report.
+  Yes.
+  1167 is not a case ID. 1167.
+  Let me check.
+  Not an end demand.
+  843 pages.
+  But have pages, pages have,
+  but not identified, so.
+  DA.
+  Dummy,
+  like I think it's a test test case only
+  that we have.
+  Put in the documents to test the system.
+  Like, what do you want?
+  What do you want for this?
+  Sir, M.C.P.K. time, data fetch,
+  date of injury, date of birth,
+  data bhuti uske usme matlab Summary a
+  section 8 per patient ka name,
+  Because.
+  Let me check.
+  Yeah.
+  regular to basic details, ceji checks, K.
+  H.I.A.T.O.
+  All 9 sections are there,
+  but basic information.
+  Ohh.
+  The only 1167.
+  Ah,
+  they they go 116 and open a your dummy
+  case idea sections Dipali, okay,
+  medical documents present.
+  We don't know that is LCP or MCP because
+  that case never exists in zone.
+  Right, I'll.
+  MCP test.
+  Jesus.
+  Case ID.
+  Yes, sir. Jason, please.
+  Okay.
+  Yeah, Gagan.
+  Singh.
+  May I go is a new one, like I'm not Gagan.
+  CG.
+  Ohh.
+  Okay.
+  Hi, Dipali.
+  I'm not saying anything, ceji.
+  You are young, Sanjay.
+  Remember, I'm not getting into that.
+  I'm not getting into that.
+  Yeah.
+  Yeah.
+  Acha Gagan, Ek Bhardwaj, Mera,
+  Mera Ju Avaze. Oh,
+  Uhh.
+  mad love mature type like that.
+  I think he, I, uh, me, are you married?
+  Ha.
+  Mm.
+  Yeah.
+  Ha ha ha ha ha ha ha ha.
+  Bye.
+  No.
+  Ohh, yeah.
+  No wonder the question is for you Gagan,
+  you please answer.
+  Hope.
+  He's not asking me a Dipali.
+  Yeh Merko Kya Mera Raj Ko Jaan Tong.
+  I said.
+  So, uh, my outside work,
+  we don't talk through to my image me
+  Yes.
+  Okay.
+  great.
+  You do sound ********.
+  Very crazy.
+  Yeah.
+  Ah, kidding.
+  But.
+  So, I think this is coffee.
+  Yes, yes, yes, please do.
+  Yes.
+  Edit sections, we already looked at,
+  right? This is the edit section,
+  you can't see.
+  Can we actually do the editing on a live
+  case? This is on which, this is on STG,
+  Yeah, yeah, Vivek.
+  so it's okay, right? Staging, Vala.
+  We can definitely do that. Suppose if I...
+  Vivek.
+  Would you access me,
+  but you can't say I should have to cheque
+  that uh,
+  sorry document subject and I don't know
+  where to find that.
+  Um...
+  Access to...
+  This document,
+  I remember one document with the link and
+  the ID password.
+  I have to find where it is.
+  I tell you, stage, stage key access,
+  oh ****.
+  Yeah, CSK access correct. I have provided.
+  I'll share in the chat only.
+  I'm sorry.
+  I'll share in this chat only.
+  Yeah, cool, that'll be good.
+  Okay.
+  Guys, sorry Raj. Actually,
+  in the initial meeting,
+  Mm.
+  I wasn't paying a lot of attention
+  meeting, but...
+  A bit of starting overview.
+  Basic, so basic Gagan, yeah, basically.
+  Yes.
+  Okay, now I'm here.
+  Right,
+  so we have covered that only till now.
+  Ahh.
+  Somebody go.
+  Great, we were able to take it, OK.
+  We need to focus on this particular page
+  because the ops team will be using this
+  page only.
+  We cannot afford to break anything in
+  this page.
+  Like suppose if I search for case ID,
+  right? You need to match everything.
+  Every particular information has been
+  correctly coming from Zoho.
+  If you see this right, pending CLCP,
+  this is wrong. This is very old page.
+  This should be closed, I guess.
+  But Zoho means from Sage's account, right?
+  So, you?
+  Hey, anything like case info modules,
+  you can cheque from case info.
+  Tig.
+  Yeah, you can use mine, Gagan.
+  Got it, got it. Now,
+  I've been always using your, yeah.
+  And the number of pages,
+  I think you just need to tell that, Raj,
+  No.
+  one number of...
+  I'll give you my account or you can
+  verify from me if you don't want.
+  I have the access, I guess.
+  SP.
+  What? S3 Sena?
+  Ahh, it's three.
+  I will give you my account,
+  like through Silvina Dipali.
+  Aug.
+  Haha.
+  Will be I need all the.
+  Let me still check.
+  Okay.
+  If it is OK.
+  Sir, Amazon,
+  Amazon user and underscore account.
+  Right.
+  Yes, it is. Do you have the access?
+  Piyush, yes, I have.
+  Cool, I'll share it with Sanjay.
+  Yeah, please.
+  Can you just share the folder location
+  just so that I can confirm if I have the
+  Source.
+  Oh.
+  access?
+  Hey, come call Raj,
+  you have to think about.
+  No.
+  Ha, talking resources are a chat me.
+  Mm.
+  You can just put it there;
+  I only need to think about it and put it
+  S location.
+  later.
+  Yeah.
+  Yeah, LCP, so if it is an MCP,
+  you have to go to final MCP reports.
+  Hey, N.A. Find out that some reports, yes.
+  Sub easy man taken.
+  Take it.
+  I have that.
+  Uh, Sir, uh, uh, uh, report input output.
+  Okay.
+  But sure, import, yes, yes, yes,
+  import me, agar app, Koi Vi case, colon,
+  import me, Jobi medical documents, right?
+  So sorry.
+  In US, OK.
+  We will be more.
+  Yes, may or in holder. Input folder,
+  Jobi medical documents upload, right?
+  This particular case schedule,
+  this basis LCP reports, MCP reports,
+  right?
+  So, input folders,
+  medical documents presented,
+  and we see in the pages folder, so,
+  back end, suppose medical documents, PDFs,
+  right?
+  Particular PDF code number of pages each
+  break.
+  I spell Vivek, yes, yes.
+  Yes,
+  or usko PNG format mein uh ya petaliga,
+  you can OCR Kaliye format zaruriye OCR
+  PDF mein nahi ho Padhi.
+  Rami PNG's me chiya per page a ya pe
+  divide ghar ke pages wale folder me dal
+  de yo. This was about input folder.
+  About DA.
+  Yeah, right.
+  Yeah.
+  OK, output folder may be in K generate,
+  right? Jo BMR output.
+  Suppose LCP report generate here,
+  no further reference the KCB UI from this
+  particular folder, particular folder.
+  Again, this is basically our output,
+  whatever reports we have generated.
+  Okay.
+  Yep.
+  We have to only look at the PDF, right?
+  Yes, yes, PDF.
+  Director.
+  Because the word is like, what to say,
+  replica of that particular PDF just
+  converted to one.
+  That is generated at the same time only.
+  Ground truth, ground truth,
+  basically Dipali, you know, right?
+  Ground truth, Joe ops,
+  original document sort of thing, yes,
+  Take original documents, Dr. Sridevi.
+  Joe ops, ops team, Joe ops team, right?
+  AI generated report compare Kartik to
+  like to measure how correct our
+  generation is, right?
+  So ground truth here.
+  One question.
+  Sir, Matlab Ground Truth,
+  Doctor Nejor Bataya Padhi Patient,
+  Expert.
+  Alright.
+  so Doctor is Matlab real data.
+  Think of it like, yeah, Ops Team,
+  this is like ground truth,
+  like report what to say report correct,
+  accordingly,
+  AI generated report cheque correct.
+  Right.
+  Okay, right?
+  Yes, for newer cases, we stop doing that.
+  Mm-hmm.
+  Almost, we manually put it here.
+  Suppose franco, yeah, case close, right?
+  Pension.
+  LCP report share,
+  so SharePoint final shared LCP report.
+  Mhm.
+  Mhm.
+  This particular holder.
+  Yeah.
+  Okay.
+  Yes.
+  We have Maripa's tool compare Kartik.
+  Yeah, this is manually compared.
+  Yes, Doctor, Doctor, I think Dipali.
+  Okay.
+  So,
+  we compare both the documents and score
+  our generation, AI generated report,
+  the model.
+  Lien.
+  That, anyway, is not in the scope of this,
+  right, so...
+  So, yeah.
+  Yes, I mean.
+  Take a call.
+  Expert or deleted the file to folder.
+  KK.
+  You do not need to know about this
+  exports and deleted.
+  Thanks.
+  Only output, yeah.
+  Yes, input, output, ground truth.
+  Next moment.
+  What?
+  Source record button.
+  This is also an important thing.
+  If...
+  If you open this particular button,
+  if you click on this particular button,
+  source records,
+  the source record can just be just be
+  source, just just be source file,
+  say Amara LCP report generated by right.
+  In short,
+  UI input folder pages only folder page.
+  Okay.
+  But yeah, yeah.
+  It is from some county checker, yeah,
+  it a file name be checker.
+  Um, is here?
+  Sound is always correct.
+  You do not need to cheque anything here.
+  S.
+  Okay.
+  You will be checking one very important
+  feature, suppose if I open any other.
+  Mm.
+  Page right, if you want to search for.
+  Which word should I search?
+  I'll search Oregon OBA right in search
+  bar.
+  I will search Oregon.
+  Raj Jayabalan.
+  Haha.
+  Oregon deko ya pay aagyana ye agaram
+  redirect kare.
+  So no bounding box one akar farekh page
+  men Kartik.
+  Oh.
+  This is.
+  First dock search.
+  Ahh.
+  That, that is, uh, that is.
+  Text like they claim or value page search.
+  Suppose right source document source
+  Got it.
+  Yeah.
+  Team.
+  Alert.
+  record. So we need to test that.
+  Text text track, Gagan page.
+  Hmm.
+  Search for later,
+  but for each is preny page for or to that
+  Right.
+  page.
+  Your page, page search specific page.
+  I think.
+  Mm.
+  Sorry, sorry, sorry, yes, yes,
+  navigation bar,
+  Hope.
+  Well...
+  so navigate bounding box particular, okay.
+  Cool.
+  This is important.
+  Right,
+  I think you can so try this for two,
+  three different cases.
+  You get can be supposed to work right?
+  To the cut of Gagan.
+  Sir, this is a ID.
+  Okay, I will share.
+  You can pick from this list.
+  Just please do not delete in the career.
+  or what I will do.
+  Yeah, yeah.
+  Okay.
+  Preview and feedback pattern.
+  This is our preview and feedback button.
+  Suppose this particular report may be the
+  cops team report issue.
+  Right, screenshot.
+  Allow or we have attached for there. OK,
+  we have comment description and we will
+  submit the feedback. OK,
+  this is about preview and feedback option.
+  Vispute your day.
+  Currently, preview and feedback,
+  we need to correct this, yes.
+  Thank you.
+  Okay.
+  Rate section, Kartik section,
+  we can rate how that section is.
+  You can download is not very useful
+  because pops Team always uses the word
+  Mhm.
+  export button,
+  this button and edit it there and save it.
+  But we can,
+  we can definitely try this PDF,
+  click PDF open, we can.
+  And.
+  For Wordpick, click download, sorry,
+  Wordpick, click download, I gonna edit.
+  Source record button and edit word.
+  Word, yeah, word, word open, right?
+  They will edit in this particular word
+  only. I think this,
+  this has to be removed because Ahmed pass
+  I think, but...
+  predict sections have, so we can,
+  we can directly edit it there and save,
+  Correct.
+  Yeah.
+  you know, right? Yeah,
+  Ahmed pass should say before implementing
+  Yeah.
+  this.
+  Okay, take care, Kartik.
+  So, we can discard this or this.
+  Nick.
+  Yeah.
+  And PDF will be for them to actually
+  download the final report.
+  Yes, PDF.
+  Yes.
+  Um, but you know, say hey,
+  won't use PDF button,
+  but they will always download the word
+  and convert it to PDF and sign there.
+  Why?
+  Honey.
+  I don't know why. I don't know why, but.
+  They do. They do like this only.
+  No, they look.
+  But that's something that we developed
+  for them now, but I use Word to PDF,
+  but anyway, again, let's go back.
+  I told, yes.
+  Yeah.
+  Let's move on, preview feedback,
+  PDF download, word export,
+  sandbox word export.
+  This button has been disabled and merged
+  here. If you open edit, edit sections.
+  Me disable Keelan.
+  We need to write this in bug sheet that
+  sandbox button is not enabled. OK,
+  this is this is your sandbox button.
+  Mhm.
+  Sara was great weekend.
+  What about the sandbox, girl?
+  Yeah.
+  Sandbox key when you click on this right,
+  so yeah, Jobi Namara report here,
+  Tell me that.
+  Hmm.
+  Ohh.
+  go AI through check,
+  go properly format with that ticket.
+  Ohh.
+  Yeah, right?
+  Ohh.
+  So, in this page,
+  this should come in next page, right?
+  Mmh.
+  Because this is not correct, so sandbox,
+  Amara, Kartik, Pura, Pura, Jobi,
+  Yeah.
+  Word and Jobi document John generate here.
+  Sorry, view, Karega, yeah, through, uh,
+  Ohh.
+  format, or generate career.
+  Thank you.
+  The reason is.
+  Because.
+  Suppose.
+  We need written a certain format, right?
+  We need to not follow a golden report
+  that the team has shared.
+  Suppose Avaram Navpreet,
+  Mhm, mhm.
+  which we edit here, right?
+  Mm.
+  And.
+  We can edit it, like,
+  could we edit Kartik, you know?
+  Oh.
+  Uh, we do not follow any,
+  we do not follow any particular structure,
+  Acha to added Karne ke Bhardwaj ho
+  structure T Karega.
+  Ohh, ohh.
+  right? We need, we'll catch, I think,
+  automation.
+  Oh.
+  So,
+  the sandbox will create after the edits,
+  Aid.
+  right? If I will do new edits, so...
+  It, it, this, this should be,
+  this should be enabled when I click on
+  edit sections, I will, but you see here,
+  right, the one.
+  Anyway, what I'm saying is just sandbox,
+  so sandbox edit, it will be helpful,
+  Mm.
+  it will restructure the report.
+  Ha ha ha, yes, yes, I got, I got, I got,
+  I mean, I did key word generate connector,
+  this button, word button.
+  Got.
+  Tech.
+  Takar mahed me kuch bhi change karo.
+  Mm.
+  The sandbox up now was gonna restructure,
+  right?
+  We need to click on this button right now,
+  then it will generate your report.
+  Later, wait.
+  Chick.
+  Basically, it will compare.
+  On the left side, you can see your report,
+  right? On the right side,
+  you can see the correct report.
+  Got it.
+  Okay.
+  And, Niche Vape both of my banner, Vivek.
+  Wait, let me cheque it.
+  I think they should be on pod.
+  I can cheque that first.
+  Yes, and wait and validate;
+  it will take around.
+  15 seconds, 20 seconds.
+  So they go, yeah, before AI fix,
+  take care.
+  But this is the fix that we have done.
+  A few scrolls.
+  Punch issues.
+  The fix, I mean, I don't know,
+  I don't understand the fix meaning, yeah,
+  What?
+  AI, we we use AI, yeah,
+  but the AI is configured in back end.
+  yes.
+  Gagan.
+  We use.
+  Claude,
+  I think Haiku Haiku model from Claude.
+  Do you get?
+  To the the one in the right,
+  we all formatted and all, basically,
+  Yes, yes, exactly.
+  This should be our final report. Just,
+  you know, take.
+  we will see final version. OK.
+  Ohh, OK.
+  Yes.
+  So, where are the sandbox, report feed,
+  report feedback to that,
+  but I will see it exposing.
+  On this, we are working on right now.
+  Save fixed version here. Javier,
+  edit Karina, which we added.
+  Suppose in our first session I'll remove
+  export from here. And we save,
+  save a version, right? So, I mean, yeah.
+  You want to know?
+  Yeah, yeah, yeah, with name coming,
+  who has a little date, the time ticket,
+  but we are we are working on this right
+  now. This is not live save version.
+  But it's it's going to highlight.
+  Pipeline monitoring, I think.
+  Do I need to cover this? Like, in short,
+  that pipeline monitoring is basically
+  Okay.
+  when we generate a case, right? So,
+  this one, this is pipeline monitoring.
+  Okay.
+  You can read active workflow banner
+  pipeline progress bar with nine steps,
+  right?
+  Every everything it will be filled up.
+  Mmhmm.
+  Cancel pipeline button.
+  I don't know why this is not here.
+  User Dashboard Banner.
+  It should show what cases you have
+  triggered, yeah, status.
+  Mmh.
+  Ohh.
+  My recent reports, the same thing,
+  my recent reports,
+  if we go to LCD processing,
+  my recent reports, top,
+  this will always show you top 20 reports,
+  right? This is the...
+  Mhm.
+  Yes, Dipali.
+  Search case trigger.
+  Gotcha.
+  Suppose if I want to generate any
+  particular report, LCP report, MCP report,
+  currently you are working on MCP report,
+  right?
+  So, suppose I make Koi B.
+  case Matlabho report generate Karna,
+  that is that is basically triggering the
+  report.
+  Okay, sir.
+  Report generate triggered now, right?
+  Mm.
+  You have to click on that button,
+  now generate case.
+  That's what probably she's asking.
+  Then did report.
+  Vivek.
+  I think she was. Anyways, this is clear,
+  right?
+  Maybe, Vivek.
+  Report care.
+  Yes.
+  OK.
+  Cancel pipeline user does what my recent
+  report we looked at triggered by.
+  Triggered by.
+  What?
+  Sorry, sorry, yes, I really.
+  Yeah.
+  Yoga.
+  But triggered by the.
+  Ohh.
+  Guys, tomorrow we can play Grand Dutta.
+  Mm.
+  But funny, yeah.
+  Ohh.
+  Aaasto koi available in India.
+  Kamal Jyoti Padhi. Kartik.
+  Okay.
+  Con, sorry.
+  Ohh, sure. Say, I will be like.
+  Map has a lab.
+  Plunder, plunder, plunder.
+  On behalf of somebody.
+  Uh, plan day.
+  Okay.
+  Singh.
+  Anyway, I know about the BMR.
+  I do like those for HR.
+  You know,
+  test case parallelly because features
+  with Jayabalan every time, but...
+  Correct, actually.
+  Bhoye Sappata Lag Jaaga Main Eke Kartik
+  Sanjay Sacha.
+  In a way, you know.
+  OK.
+  Same player generation.
+  Mm.
+  That's okay.
+  Are doing it again?
+  Anyways, yes.
+  Edit, no, edit is the biggest one, right?
+  Yeah, yeah, yeah.
+  But definition.
+  Ha ha ha, I say a Vivek.
+  But I could put so much the pipeline. OK,
+  pipeline. I was trying to read,
+  Acha.
+  Yes.
+  I didn't understand some, yeah,
+  like the pipeline, observability,
+  active jobs, and all that.
+  SSMA sounds don't know how to check.
+  Ohh, you wanna?
+  Ohh.
+  Like, this is about that only pipeline,
+  observe it, will be a, the ATS.
+  Ohh.
+  You can have steps, say.
+  This is important sections test.
+  Okay.
+  Wait.
+  So that we can give the team also time to
+  fix it and we can test it.
+  Mm.
+  I don't think I don't have definitely.
+  Yes, exactly.
+  Where do you,
+  where you know that there are some
+  sections most important problems we have
+  to, so as a priority set.
+  Correct.
+  Mm.
+  Yeah, yeah, yeah.
+  Lien.
+  Mmhm.
+  Yeah.
+  Mum.
+  Yeah, important, yeah.
+  Singh.
+  This is the physical inside and edit
+  sections.
+  Play.
+  Section tab bar, right?
+  This is your section tab bar,
+  Oh.
+  where I'm section 2, click on it,
+  we should be redirected to that
+  Hmm.
+  Click sometime, OK.
+  particular section. Section 10,
+  click on it to CV, Dr. Vivek.
+  Alert.
+  And.
+  Mhm.
+  Yeah. Tab click, scroll into section.
+  Active tab or Blupe highlighted Rahigi.
+  Yeah.
+  Okay, working.
+  Save version button not working, right?
+  Okay.
+  Document font, Times New Roman.
+  You can export the word and check, uh,
+  sorry, yeah,
+  font Times New Roman on the ceji.
+  Mm-hmm. Thank you.
+  Who?
+  Table styling, blue header,
+  bordered cells, ticket table,
+  we styling blue, blue header on each,
+  by the way, yeah, yeah, that, yeah,
+  Well, actually, CLCP,
+  it's based on the CLCP, yeah.
+  exactly, that, that depends on CLDP, Dr.
+  Derek D, green on each,
+  Paul Raj has the orange.
+  Mhm, mhm.
+  Is it Bing K? I know you said that's OK.
+  So that the...
+  OKOK.
+  So this is about that test.
+  Table styling page.
+  Yeah, page break markers, particular page.
+  Okay.
+  Marker mandatory.
+  Wait a minute.
+  Yes.
+  Gagan.
+  Mhm.
+  Undo button,
+  suppose if you make any change.
+  Chase them out there.
+  Basic change, Kartik.
+  But save, change the URI you said, right?
+  Save is working,
+  save version is not working. Suppose if I,
+  Yeah.
+  you know, uh, right?
+  Mhm.
+  Had I removed it, it it it is working,
+  but save wasn't make.
+  POC.
+  Suppose Haj may I ask is K.
+  Mujilaki Galatas me and it's gonna remove
+  Yeah.
+  Kardia.
+  Michael Vapis review Kia before sending
+  Yeah.
+  it to a client.
+  Mujilaki naivo Sahita or add on a cheetah
+  Mmh.
+  take care.
+  Mm.
+  So,
+  ye dono version save on a ceji my back in
+  there.
+  Mmh.
+  Take care.
+  Definitely OK.
+  So, but save feature is working, yeah,
+  but suppose Gregorian.
+  Sko save karoon.
+  Open the AI.
+  Got it.
+  This may implement suppose someone
+  accidentally clicked on word export,
+  right?
+  We do not have anything to cancel this
+  Mm.
+  particular generation;
+  we have to wait for 15 to 20 seconds.
+  Yeah.
+  Ohh, the update call.
+  Krikorian Hai Tikran Hadiya - how so?
+  You.
+  Nope. Anyways, you can test it, right?
+  If this is a bug, you can highlight it.
+  That edit section is not working properly.
+  OK.
+  Okay.
+  Where is that one?
+  I used to do one page break, undo button,
+  undo button, change, can I?
+  Old.
+  Bug again.
+  Yes.
+  OK, no problem.
+  By the way,
+  I was testing everything on Dev.
+  Continue.
+  What? Okay.
+  Okay.
+  I open that to show you sandbox sample.
+  It should work on stage. Rebecca is given,
+  and should work. Yes, it's working right.
+  Mmh.
+  I removed border and after clicking on
+  undo.
+  that like it reverted back so you can
+  tell the edit edit here as well.
+  You can change anything and export it
+  should replicate there.
+  Gagan.
+  Yes, patient info panel.
+  This is about that card only, right?
+  John is a match for me.
+  Patient.
+  Info pen, patient fields, case fields,
+  yeah, I think more in depth, no?
+  Wait.
+  Edit field plus save changes.
+  Doctor fields, edit fields, save changes,
+  button inline editing with save.
+  Unsaved changes.
+  Oh.
+  Yeah, age or to calculate HR, correct?
+  Named.
+  Age auto calculation from date of birth.
+  Mhm.
+  Info right, date of birth change,
+  auto calculate age.
+  Oh.
+  Yeah.
+  Okay, take care.
+  Yeah.
+  He can test this.
+  Or, ha, yeah, yeah, global variables,
+  right? Agarham name could be changed.
+  Suppose Rebecca Raj like to put a report
+  make Jahan baby name in a sorry, Raj.
+  And.
+  Oh, okay. Interesting.
+  But, but if if I am editing in this,
+  going to this particular section and
+  editing this, yeah, change over.
+  The global parameter,
+  it's on the and it's next, OK.
+  Yes, my info, info, info.
+  Okay, I detection.
+  Mm.
+  Age, auto calculation, name change,
+  trigger,
+  find and replace across all section,
+  global variables.
+  Yeah.
+  Template variables, auto refresh on save.
+  Mm.
+  Template.
+  Mhm.
+  Right.
+  So, name again.
+  Right, by the way,
+  I am editing in newer cases.
+  Okay.
+  I need to revert all.
+  Yeah, but staging it, so it's OK,
+  broad meaning, you know.
+  Currently we have only one database.
+  Anyways, no, not an issue.
+  We will generate the case again.
+  Thank you.
+  Include variable on your cover page
+  section 0 up, up, up, yeah.
+  Or, yes,
+  are a particular is ka pages ka test case
+  at again yeh cover page ka is our test
+  case doctor logo should come up,
+  Mhm.
+  logo shown even when cover content is
+  empty.
+  Mmh.
+  Everything in edit section or exported
+  doc.
+  Yes, yes.
+  ExpertReporting document will cheque that,
+  no.
+  Ha, export doc me, why he checked Karna,
+  so export document.
+  Maybe it doesn't make a connect edit or
+  say, for example, not edit, yeah,
+  Yeah.
+  that export matches what is there in the.
+  Definitely, like, other other edit, right?
+  And did such.
+  Edit Kartik Vivek.
+  Yeah.
+  But have I added Kartik with the values?
+  Yeah.
+  Yes, yes.
+  With the test case, use Gagan.
+  Sorry.
+  There is no good test case use, krishna.
+  I, what is this is actually?
+  Padhi,
+  do we edit something on a real case?
+  At test case, yeah, three, 4, two, 4, go,
+  no,
+  Harts.
+  or we put on another chart part case ID.
+  Gagan.
+  No, but Abid, although if you have them,
+  if you can remember all this.
+  Nick Dana.
+  I need to search from.
+  Zoho.
+  Right, I'll share, I'll share.
+  Mhm.
+  Here you go.
+  Let me have a lot.
+  I'll put things that you have to send us.
+  Please provide.
+  Mm.
+  Test cases, then.
+  Dipali to me MCP.
+  Bing for CG.
+  Yes, please.
+  MCP case ID take a cover page.
+  Goodbye.
+  This is self-explanable actually.
+  Can we skip it?
+  MCPK Total Kidney Reports.
+  Um, I don't have the exact number.
+  Per bodh ko mehna Sir LCPK comparison.
+  Yes, yes, yes.
+  Exactly.
+  By the way, I am.
+  NCB test.
+  By my M.C.P.
+  Samarth carrying a test implement now,
+  Cheap.
+  or we.
+  Okay.
+  We have to implement it.
+  Section one, Rich Text, Tip Tap Editor,
+  Open Section One.
+  Gagan.
+  Dollar amount, click jumps to section 9,
+  dollar amount, yeah, you amount,
+  and now I gotta miss click, correct,
+  please, section 9, directory, yeah, OK.
+  Mhm.
+  Hope.
+  Auto save with last edit by time stamp.
+  Go up a section 1P by A.
+  OK, exactly, or to say,
+  bye last and bye time stamp.
+  This is not working.
+  Ohh, um, the BM could change it,
+  auto save,
+  or save version to click correct version
+  save with time stamp,
+  and who has edited it? We can,
+  we can highlight it.
+  Medical timeline, Kartik.
+  This is important one.
+  If I click on any of the visit.
+  Ye open on a ceji taken ye sources ye
+  particular visit kaha se re.
+  Okay.
+  If I click on view button.
+  So source open on a ceji or to be date
+  and highlight for 28th Jan highlight.
+  Gagan.
+  If I click on Vispute type.
+  So,
+  visit type highlight on HR emergency
+  visit.
+  Gagan.
+  So,
+  facility name to everything that is on
+  top, right?
+  That should be highlighted up here.
+  Yeah, so we need to test, I think, with...
+  Team.
+  Two, two to three different cases,
+  the same thing, so...
+  Raj, sorry,
+  where did you click for this one?
+  If you click on any of the recording
+  visit type, right,
+  any of the date and visit type,
+  you can pop up a pop up call Javier.
+  OK, and second section only though.
+  Chicken.
+  But hi, uh, earlier.
+  Ohh, ohh.
+  Hey, if I, if I click on,
+  they going up to page one, page one,
+  they cannot say, yes, man.
+  Ohh.
+  Take that.
+  Right, page 6 by click on the page 6.
+  Suppose any of the visit page 27 page.
+  Page 27 and document page 27.
+  If you open show full PDF,
+  have a 27th page, page Jana or verify.
+  Yeah, another.
+  Yeah.
+  Yeah, very, very good.
+  Cool.
+  This is, by the way,
+  this is very important section. Now,
+  we need to test it, like, yes.
+  Section 2.
+  Section 2 and part.
+  Text text search.
+  The.
+  Ohh.
+  Movie like BMR.
+  Hmm, entry, navigation, arrow.
+  This should work. Yeah,
+  I may directly redirect that particular
+  Mm.
+  music where this particular table will be
+  jackery after clicking up on NoReply.
+  Or editable, date field, date we can edit,
+  or want to change those on a table one.
+  Say editable, visit type,
+  visit type editor, chronological synopsis,
+  risk node.
+  Gagan, yeah.
+  It's very same thing you open with that
+  verify cause of closed skip skip but
+  verify.
+  This is the same thing: you get sources
+  open on a highlight only time.
+  Diagnostic subsection.
+  Mute either.
+  You know, this cannot be edited, but yeah,
+  2.15 the Kartik.
+  Again, yeah, this is based on the visits,
+  they automatically populate with that.
+  Audible.
+  Yeah, yeah.
+  Yeah, auto work, will it be auto?
+  Diagnostics right procedures performed.
+  Mm.
+  Mhm.
+  Okay, what?
+  Nick.
+  OK, but this should come up here, yeah,
+  pay skip me one for you.
+  Bot side report, 2.1.3, 1.4, 1.5,
+  skip due to some formatting error.
+  In.
+  And.
+  Okay.
+  A present on J.S.R. rewards, man.
+  On 2.5, 1.5,
+  delete entry with confirmation.
+  Let me try.
+  If I delete this entry,
+  a confirmation on that, right?
+  You directly delete my URL,
+  so this is 1 test case.
+  Save changes, we build small table.
+  Let me try.
+  test basically go to go.
+  Testing edit changes.
+  Sorry.
+  You happy I did?
+  And the operating, yeah, OK.
+  Yeah.
+  Ohh, and should come.
+  No, no.
+  He.
+  Okay.
+  You get they have a test study target.
+  This was about that.
+  Editing timeline table and edit section,
+  full inline editing of medical timeline.
+  Edit Rose.
+  I am self-contained.
+  Yes, we can edit anything there.
+  Source document panel, right side,
+  shows document found in it.
+  Yes, yes.
+  Page navigation in source viewer arrows
+  go to page. This should work now.
+  We have been set yesterday.
+  Suppose, if I went to Page Six, yeah,
+  if every page says we like that, right?
+  Is it working?
+  Do.
+  No.
+  No.
+  I am.
+  Did not open.
+  I like it.
+  Jojo, be the girls.
+  I see where it well then.
+  Okay.
+  Ahmed love.
+  Please do.
+  Date, highlight.
+  Which one?
+  Play Suganya.
+  Video.
+  Wait.
+  But, you know,
+  you might have to retry because I mean a
+  Yeah.
+  more app, open Ghodadra, share more.
+  But, at the BMR, the note token, actually,
+  you know, there were inconsistency, right?
+  Yes.
+  Yes.
+  Show full PDF. Padhi PDF,
+  date highlighting, date highlight,
+  click free label to highlight the text on
+  page. Yes, particular cheese by date,
+  date highlight.
+  I can.
+  Multi-keyword fallback.
+  Fallback highlighting using multi-keyword
+  when exact match is not found.
+  This is weird, you know.
+  It should not happen because, suppose.
+  Twenty twenty-one, right? And then,
+  when my page may call your data suppose.
+  7th of June 2021.
+  You call back 2021 to highlight.
+  Seven June to ignore Kartik.
+  I don't know your kick.
+  What?
+  Yeah, fall back,
+  because suppose exact match my e-mail.
+  Mm.
+  Suppose a particular word, a providence.
+  Mm.
+  Sedar's Jo B.A.
+  Mm.
+  Yeah.
+  And.
+  Yehta mein Mirza Raj.
+  Emergency department.
+  Mm.
+  Mhm.
+  Mm.
+  If not, yes, word,
+  word coin is this is this is our fallback.
+  So, another sub-string is also.
+  Okay.
+  Sanjay.
+  Yeah.
+  Yeah.
+  Okay.
+  Padhi, you distracting me?
+  Exactly.
+  Uh, as I go sports, for example,
+  Char Panch, word of sorry word, I let go.
+  It's actually nice backend implemented
+  over through judge is this a is this an
+  exact thing based on this particular set
+  of words right? Raj. Raj present.
+  Team.
+  Boy.
+  That's how you were.
+  Ohh.
+  Emergency departments are related.
+  OK.
+  Sanjay.
+  Yeah.
+  Multiple keyword highlight Raj found not
+  found. This is working great.
+  Found not found other not found over the
+  app highlight.
+  Reset to date highlight on view click.
+  With me to say it.
+  Mhm.
+  But sure,
+  suppose if you open any particular visit,
+  right? I will view the clicker,
+  so you by default date highlight for you.
+  He cannot other things.
+  Bhardwaj.
+  Okay.
+  Searching word of source records,
+  keyword search within source record PDFs,
+  type a word or phrase to highlight
+  matching text for quick verification.
+  Previous meeting.
+  Yay, ohh, allah source record.
+  Cappone.
+  Ahmed.
+  Yeah, yeah, yeah, functionality,
+  so highlight on.
+  Okay.
+  Yeah, already mentioned.
+  Okay, got it.
+  Mm.
+  Patient interview is my question.
+  You tip top editor, you know, work editor,
+  open on HR, patient demographic,
+  patient demographic information displayed
+  within the section.
+  This language class.
+  Section Three.
+  Yeah,
+  this you can match with golden report
+  sections are in.
+  Or krishna.
+  Yeah, I think.
+  Again,
+  about just cross-reference with any
+  Alert.
+  ground truth or golden report,
+  the sorry sections are 3.1.1 to 2.1 again.
+  Yeah, yeah, M.C.P. Kartik Ram, no,
+  so well.
+  Nine A.L.G.P. and C.P.M. generating.
+  Not that bad.
+  Gagan.
+  Beep.
+  This is right for me.
+  diagnosis and disabilities.
+  Nick.
+  I think that Admin.
+  Section 4.
+  Yeah, yeah, number diagnosis list,
+  you just added diagnosis number list.
+  Yeah, list one, yeah, ordered list here,
+  on ordered list, yeah, I say.
+  Okay.
+  Select condition, highlight blue,
+  show details.
+  If I click on any particular condition,
+  right? No particular condition,
+  highlight for DA.
+  How many intention, but suppose already?
+  Suggested AI suggested diagnostic
+  condition.
+  But, currently.
+  But our intention is to implement suppose
+  diagnostic condition,
+  this particular patient, yeah,
+  already released, but it may highlight.
+  Monday.
+  It kind of makes sense, right?
+  Diagnosis count batch.
+  Joby added diagnostic condition.
+  Earlier it was two automatically add up.
+  Delete condition, delete a condition,
+  and just automatically remember,
+  delete a condition.
+  And then I'm happy to get there.
+  The big one,
+  I will automatically change your way,
+  right? This is tool one.
+  Disabilities tab.
+  Because.
+  Just a man blame Padhi.
+  This, this should say.
+  Test this ability is.
+  Count should increase automatically.
+  See again,
+  this all about this disabilities tab.
+  Inline edit, whenever Padhi edit,
+  add new Padhi, delete, we can delete,
+  delete with this code.
+  Just describe describe zero.
+  Sword.
+  Sorry?
+  Aapka bot time Gagan at the accept test.
+  Yeah, take it.
+  And, like, Section Five,
+  my quick walk break data.
+  And.
+  Ohh.
+  Cancel without saving.
+  If I cancel, directly cancel,
+  you have unsaved changes.
+  People.
+  Unsave, change, confirm,
+  changes confirmation here, Vivek.
+  Section 5 to 8 templatized section I
+  think is from just ground truth say match
+  carrying a sorry sorry sections present
+  only ceji.
+  Section 5, 6, 7, 8, yeah,
+  templatize section, in short, yeah,
+  basically PSRA reports are same only,
+  just name change over details.
+  Gagan Baki EA Section 7, 6, 7, and 8, 8,
+  tomorrow year post tables.
+  Five, 6, 7, yeah, templatized.
+  Okay.
+  I think, sorry.
+  For intake, intake report,
+  Kabata Section 3, America, Georgina,
+  your patient intake.
+  And take that report.
+  In reporters for section 3 head.
+  Take a no, don't go, don't go here,
+  it's okay, just got it there.
+  Like, it's me.
+  This changes, we can edit it.
+  Major changes,
+  Mhm.
+  and now for section 2 sources for sure,
+  section 4 diagnostic condition we can add,
+  remove sources.
+  HR.
+  I got my view current to your particular
+  source code Gagan.
+  So, yeah, what do your sources,
+  sources change on HR source?
+  Yeah.
+  We can verify this as well.
+  Six and five to 8 templatized,
+  though I I can think this is
+  self-explanable.
+  We can which we can now may control S is
+  Yeah.
+  our keyboard keyboard shortcut to save
+  the things.
+  Take it, save on blur, basically, yeah,
+  blur out, other massive, right?
+  Section 7,
+  they are then my SQL removed here,
+  we automatically blur after saving.
+  Yeah, you always use it.
+  Can I skip this?
+  Yeah, yeah, please. Okay.
+  What was the?
+  Okay.
+  Shortcut.
+  Control S, same control S.
+  If.
+  and edit.
+  Edit controllers, basically, and right.
+  Save Gagan.
+  Hey, Cortana, controllers.
+  I did connect about now, which is...
+  I definitely.
+  For you, OK, take it to you, yeah,
+  you can switch.
+  Mm.
+  Edit is shortcut, name only. Suppose,
+  right? We need to click here.
+  Right.
+  Haha, yes, yes, control,
+  control as pop-age.
+  Well, that's what I was.
+  Yeah.
+  Section 9, Kartik,
+  you know I didn't test in this section,
+  just test test case anymore.
+  Section 9, just my OR table.
+  Yes, yes, yes, Jayabalan.
+  Oh, no, what did they cut out?
+  Zip code.
+  The Pale OTD Jamme Test Kartik.
+  This may basically push my test open
+  calculator by clicking on section 9
+  The.
+  You are talking about zip code and
+  procedure codes.
+  document.
+  Procedure code is different thing.
+  CPT code, procedure codes,
+  and this particular procedure code, right?
+  What is zip code? Zip code, you know,
+  Anshul.
+  Mhm.
+  Ghodadra.
+  right?
+  On basis of this,
+  this particular zip code cost different
+  only, right?
+  Suppose my Raj may call the treatment,
+  Ohh.
+  Ohh.
+  right?
+  What is the code?
+  Zip.
+  Ohh, Joseph. OK,
+  this is somewhere mentioned in the report
+  as well, right? You see paragraph better.
+  Yes, yes, yes, Mark the zip code there.
+  Take it out.
+  Zip code change or download to
+  recalculate cost,
+  particular zip code accordingly.
+  I mean, A.B.
+  test connect he was it for the cause.
+  Play me, Sanjay.
+  The context had health,
+  which should we be?
+  Best, definitely, it should change. Yeah,
+  it's a C. Forest table.
+  U.
+  Alright.
+  Mm.
+  You can, you, you change the zip code,
+  or after the change only ceji.
+  The calculation.
+  My calculations, yes.
+  Cool.
+  Open a specific table,
+  click on Table 3 row.
+  Again, therapeutic modality is valuable.
+  Yeah, they call table three,
+  you get this test case passed,
+  you can skip this without test.
+  Open from section $1.00, right?
+  Section one pay cost mentioned section 9.
+  Nine table tab,
+  table 1 to table 9 with subtotals.
+  Where is it?
+  This one right, 9 table tabs,
+  or this particular tables case, subtotal,
+  say OK.
+  Grand total auto calculation.
+  This is grand total other macro we change.
+  Grand total should be automatically
+  changed.
+  Inline, edit item, service name.
+  Can I edit a child or service name?
+  Yes, we can. We can edit it.
+  We can maybe test it as possible.
+  Inline edit, CPT codes, CPT codes,
+  copy edit, again,
+  edit is enabled here as well.
+  Code type drop down, yeah,
+  code type scope and change concept there.
+  Anastasia Fields.
+  And we will get drop down here, right?
+  Even the piece itself.
+  And I need it last item only.
+  Inline any cost item, currency input,
+  edit cost per item with formatted
+  currency input.
+  OK, this is cost per item, right?
+  We can edit it or you have a change
+  automatically.
+  Joby cost, final cost, pipeline cost,
+  these are only.
+  Interval drop down yearly, monthly,
+  weekly, we can edit this as well.
+  Gagan.
+  Quality input - what is this?
+  Quantity input,
+  they are quality input menu.
+  I got a Mac.
+  You can take a break.
+  Done, 10.
+  Two.
+  And...
+  It should automatically be changed here
+  10 times per year.
+  Ticket.
+  Mhm.
+  Please change your guide.
+  But, in short, I got up could be change,
+  so, Ahmed, change,
+  Will be changed, yeah?
+  other cost change total cost.
+  Yeah.
+  Ten, 10 times a month, yeah, it was.
+  Yeah, pay come amount, right?
+  Gagan.
+  Auto calculated.
+  Sorry, sorry.
+  I, I have to go past this minute.
+  Doctor Sridevi.
+  Yeah, he can.
+  That's the parameters,
+  no global parameters. Yeah, take care.
+  Yes, that is an info tab, right?
+  No, yeah, yeah, indented sections, yeah.
+  Word, word export and sandbox.
+  Sandbox is not working right now on stage,
+  right? Just highlight it.
+  Okay.
+  Okay, Osayan tutorials.
+  Stage your death.
+  Maybe stage,
+  then like large cases conveyors, paid M.C.
+  At the bus stage.
+  P. for me.
+  So, V3 will focus on stage only, right?
+  Yes, it's the stage.
+  I can cheque now.
+  They go, yes, O.P. and the my S.O.P.
+  only the demo video that again,
+  this is basically a guide for Osayan.
+  Did you take a note?
+  Nick.
+  Ohh, what is my?
+  Nick.
+  Nick text, you mean this one?
+  Matlab see the full a so ha the coffee
+  traps miss any R.I.
+  I like it, we need to highlight.
+  This is a problem, right?
+  That's what I'm asking. So,
+  Yes, exactly.
+  what we can do now, Dipali ceji,
+  maybe we won't repeat it right,
+  or else we'll be...
+  Hmm, getting.
+  writing down same bug multiple times.
+  So maybe keep reading the sheet before
+  Yeah, true.
+  Ha ha, you.
+  putting it.
+  Yes, use that sheet only.
+  I we would.
+  Picture.
+  Right, right,
+  the value you have the access to that
+  Mm.
+  sheet, right? Bug report only bug tracker.
+  No, I don't big part of skill links there,
+  Mirza.
+  My, my base, my baseball.
+  Lady Pedaldo Gagan.
+  Ohh, my big circle.
+  Yes, Dipali, you had your age now.
+  Sir, no,
+  please turn the meeting to automate
+  Yes.
+  testing.
+  Ohh.
+  Yes, yes, yes, wait a minute.
+  By the way, ceji can drop off if...
+  Yeah, was it corrected then, huh? The...
+  Creds, creds, by the way, also present.
+  Let me share here.
+  Sit, sit.
+  She made good, yeah.
+  Mmh.
+  Backtracker because night tabs even AI
+  come.
+  But I, yeah, I think I don't think so,
+  but rather, why is it?
+  Athani movie, Summary Mere sheet.
+  Ask me Doar Bhardwaj.
+  Tabs.
+  And.
+  Nicer, Company.
+  Just some lunch.
+  No, yeah, but tracker.
+  So, um.
+  My, my link share the song.
+  Organization,
+  don't share with the one which has like
+  public access.
+  People in quality guard use UCMS or no
+  public without them.
+  Okay, okay.
+  Yeah, yeah, no.
+  The people in public,
+  people in quality card.
+  Share copying many settings settings
+  people in quality quality card.
+  Yeah.
+  Okay, let me take up automated test now.
+  So Dipali Kuch Bhagar Aapko problem
+  Dikhagina Tab Ekbar Pale sheet Pallena ya
+  aapne jo problem dhundiya wo hai kini
+  sheet me or nahi hai to offer abdal ke na
+  sheet Yeh Kafi self express me was.
+  Sir, I...
+  All of them?
+  Sir, features features cheque properly,
+  highlight feature cheque right?
+  Oh.
+  Right.
+  Ohh.
+  Exactly.
+  Mm.
+  Sir, work tracker me.
+  Ahh, but tracker.
+  Okay, I'm gonna go up.
+  Oh.
+  Dogar repeat na ho bug jo humne pelli dal.
+  Uh, Jesus.
+  Hmm.
+  Mm.
+  Haha, I got a reply in the Chrome.
+  Uh-huh, sure, sure,
+  but the we see group me anytime you can,
+  uh, OK.
+  Haavai Gagan me thoda push Piyush ke
+  karugi to chalega ke Sir.
+  Mm.
+  Exactly, yeah, sandbox.
+  No.
+  Edit sections.
+  Kuch be hesitate.
+  Yes.
+  Ha vai agar me kuch kar yuru ha vai
+  Piyush nahi better.
+  Tigger.
+  Why, that's the good.
+  Yes, sir.
+  Okay.
+  Orservo Automate Tasting Kefir.
+  Map.
+  UI test.
+  Yes, Sir.
+  Map for the breakfast.
+  My name is Ghodadra Vivek.
+  Okay, okay, no worries.
+  Melanie be.
+  Sorry, buddy, whenever you're free,
+  just come back and play.
+  I didn't know what is yet.
+  A Dipali,
+  a Gante mapping Kartik tomorrow pass
+  DA Sir.
+  G, sir, cloud login. G, sir.
+  Claude login, manual testing.
+  Google Chrome extension article,
+  extension article not to see the.
+  Hello, Edgar.
+  Okay.
+  If you want, my bad, Raj.
+  Screen share.
+  Melanie, it's okay.
+  I can stay on the call.
+  I know.
+  Dipali, you got screen share?
+  Yes, Sir.
+  Chrome to login at tomorrow, Claude.
+  Sir,
+  mere pas eki chrome madlab jo Piyush sir
+  ne diyatavo omara session tana super.
+  I got a call to Company.
+  Uh, the case of your Chrome profile.
+  Ahh, exactly,
+  what's the HR extensions without AI mode,
+  exactly,
+  I have to enable tomorrow already.
+  Hey, hey.
+  UI call link person as you get to the
+  upper okay I guess my third message.
+  Nick.
+  Map Navpreet prompt ve Gunja Raj.
+  Ha ha ha.
+  Wait, my base, many modify,
+  you keep at the major error to open the
+  Word document, you know.
+  Mmhmm.
+  Manage change.
+  Mm.
+  The.
+  Feature list attached in the file.
+  Cochini.
+  Kuch need need file to attach to me look
+  it up.
+  directly want a copy copy key or you want
+  to paste key.
+  GPT features DSRA,
+  many features we test original prompters
+  Yeah.
+  could be intact.
+  I have already is from there. OK, can you?
+  Features are.
+  Ah, features add written.
+  Okay.
+  So,
+  they come in additional feature section
+  in the prompt.
+  If you want to look into it, your user.
+  Ha ha, this is the fenil.
+  Obviously.
+  Dipali link, chat, UI link chat.
+  Yes, sir, just me.
+  Mm.
+  Yeah.
+  Sir, app Easlink.
+  Yes, yes, yes.
+  How many age? No age? Okay, sir.
+  It is at my cons.
+  Ohh, in Georgina.
+  Decision.
+  Here they go, chat.
+  Recent.
+  Table.
+  Yewala? Yeah, yes, yes.
+  Mm.
+  Inverted password.
+  Wait, space copy over there. Hey, member,
+  take a type in a as capital.
+  Eight minutes, a minute.
+  Gunja.
+  Yes, Sir.
+  Lien, skip for now.
+  Seo Karlu ya fenil.
+  Ahh, thank you, generally, yeah.
+  How is my extension, Georgina or Claude?
+  Exchange for Jow, Lord Kolhu, yes.
+  Or,
+  and they go right side may open organise
+  Gagan image as I had prompt,
+  you put a prompt like Gagan name copy
+  Ghodadra.
+  Yes, sir.
+  Chat, chat, chat.
+  Yes,
+  Chat Pe Gaye Mein Aur Gagan Sanjay Padhi.
+  Line delete, paste Kartik.
+  Sorry,
+  Pura Eki Chate Kya Matlab Eki message Ek.
+  Ah, yes.
+  What are you, Gunja Gunja Gunja?
+  Yes.
+  Mm.
+  Sorry, this.
+  You are ExpertReporting, third line.
+  Oh.
+  Yeah,
+  just remember the Raj Dev link has many
+  stage.
+  Sure.
+  Serve in a copy, Karliya.
+  I understand.
+  Admin, I understand.
+  Karu, may I understand quickly, Karu?
+  Anshul, Anshul.
+  Next.
+  Yeah, now you can copy, paste it,
+  paste it even now.
+  Yes.
+  Melanie.
+  I think selected.
+  Padhi.
+  Token ceji.
+  Oh.
+  Now,
+  we paste Gunja Gunja or enter Ghodadra.
+  Set me up.
+  Key.
+  Better result.
+  Ahmed, I think we use, but not though.
+  It's so much back and forth.
+  Yes.
+  I was using high approve.
+  Sorry, DA.
+  Approve plan.
+  So, basically, you know,
+  you have to approval hierarchy up the UI
+  access or a screenshot or test.
+  Solution.
+  Left screen, scroll clicks.
+  And.
+  One of the automated we had test.
+  Or automatically document we download.
+  So said.
+  Ji, sir,
+  tofir admindataeng meera task ke hai ismi.
+  Mm.
+  Minimize.
+  Kiss.
+  A screen, okay, sir.
+  Minimise or.
+  Ji sir,
+  para meerat matlab ye meerat ask ke
+  matlabis me maisa puch rayo.
+  It's me, right? Yeah,
+  automated test UI manual test, right?
+  Mm.
+  Two.
+  Or a feature manually test.
+  G Sir.
+  We can connect here only.
+  Dipali,
+  you can do the manual test as well with
+  Manual minimize.
+  that.
+  Sir,
+  Muji is minimise or manual test with
+  exact you per document generated.
+  U.
+  Cappone.
+  Ha, Math of Joe box, Nick,
+  may I have to say, contact her,
+  Thanks.
+  Ahmed.
+  Anshul.
+  so it may work, highlight.
+  Right.
+  Mm.
+  Sorry, sir.
+  Sorry, sir.
+  No worries in that.
+  Okay.
+  You don't have to be sorry for this.
+  Ayar Gagan Pata starting with my Samarth
+  Kartik.
+  Mhm.
+  The.
+  Ah.
+  Merko, Kodani, I'm at the Mushkil,
+  say I can ignore Sanjay, Ja, Katie, Eric,
+  Mm.
+  Exactly.
+  okay, Dashboard Suganya,
+  but I'm literally telling you export
+  Mm.
+  dashboard.
+  Dough team dashboard and tabs
+  announcement literally body dashboard and
+  The economy.
+  Mm.
+  more rows used Kartik and client Samarth
+  was so busy with data source with all the
+  Mm.
+  Mm.
+  measures in Power BI and a sorry
+  dashboard.
+  I was working on this AI thing.
+  Yes.
+  Okay.
+  Abhi, Abhi, there's Dipali, Kalish,
+  they look, they just look, Katie Miller,
+  Mm.
+  Uhh...
+  yeah.
+  Uh, good.
+  Mhm.
+  Mojet, Mojet.
+  Uhh...
+  Hey, Clock.
+  And.
+  Ohh.
+  Create another replicate another fully
+  functional.
+  Mm-hmm.
+  Nick.
+  Ohh.
+  Play, play.
+  Okay.
+  Easy as here,
+  but our overview is always K.T.
+  Manet.
+  Okay.
+  overview business overview technical side
+  to Sanjay business business logic so
+  Yes.
+  Mm mm.
+  technical side but business point right.
+  Yes.
+  The verb was.
+  Gagan.
+  Sir.
+  Ohh.
+  Uh-huh.
+  Uh.
+  Hey.
+  Automate.
+  I will.
+  I did.
+  Haha, would you plot some, right?
+  Jesus, please.
+  Basically, code, code, code, code review,
+  or test case in recurring it again.
+  Take this.
+  To fill my screen.
+  Raj, your manual testing? Sorry, sorry,
+  yes, please.
+  That the manual testing are then have.
+  The Tap Tak Sun Main Yeh Screen Chalu
+  Rakuna Chop Takor Pura result.
+  Let's go.
+  Minimise Ghodadra.
+  G.
+  Or manual testing your tomorrow or HR to
+  stage.
+  Mm.
+  Jason.
+  Mm.
+  Raj man, features early list,
+  one by one manually.
+  Mm.
+  Yes, yes, Excel sheet, right? Copy.
+  Kid.
+  A MSP pipeline manual, manual entry.
+  999 hopes you starting with a third
+  message.
+  Alert.
+  Yeah, it was gonna work, but I, um,
+  Ben Ghodadra, I,
+  Twilight.
+  I thought was a POC test sheet.
+  Yes.
+  Okay.
+  Mhm.
+  So, as an as a great text link,
+  guys created a copy of the sheet and put
+  There you go.
+  your name on the tab, otherwise I put it.
+  Okay.
+  Basically.
+  UI feature list doc.
+  Yes.
+  By the way, sorry, ceji is my excel,
+  same cheese.
+  Acha.
+  Mm.
+  Consider it, accept.
+  Excel, but anyways, sorry.
+  The.
+  How about Kunsi Axon de Bhardwaj?
+  Gagan.
+  We.
+  This one.
+  Excellent, just for the resources, uh,
+  also it as sheet.
+  This method featured test sheet has been
+  linked to.
+  Link, console link.
+  Oh, sorry, line by line.
+  Ah, exactly, geometers and me.
+  Take it, take it, basically duplicate.
+  Yes.
+  And I got Gagan Dipali, and so...
+  On Dev on stage, Hata Hata De Rao man,
+  take care.
+  Ohh, take care. Good.
+  On on devala call admindataeng.
+  Okay.
+  Can't save your changes.
+  Acha, ha, predict Karleo.
+  That would be, I mean,
+  my message download,
+  I created everybody's tab,
+  please test it here.
+  But why another one?
+  Mm.
+  Hey, Cortana.
+  Girl is a bar.
+  Yeah, yeah, yeah, yeah.
+  Wrong.
+  Is it?
+  Mm.
+  Mm.
+  He will bug report work,
+  cancel all the button in the way same
+  Okay.
+  ceji, generate or cancel all the button.
+  Singh.
+  Yes, I do.
+  Mm.
+  No.
+  Stage Kizari changes and probably.
+  Hey Cortana,
+  can call Sara Kartik all cases implement
+  Yeah.
+  Yeah.
+  here?
+  Hmm.
+  Raj.
+  Yeah.
+  There does, by the way, the call.
+  Right, so I have a low breakfast,
+  already delayed.
+  Shh.
+  Okay.
+  Sir, timing ticket.
+  But...
+  Mm.
+  I am his e-mail.
+  Thank you, Sir. Thank you, Sir. Okay.
+  Okay.
+  For sure.
+  Yes, sir.
+  Bye, guys, take care.
+  See you again. Bye bye. Nobody is bye bye.
+  Bye bye. Thank you. Thank you.
+  I wanna thank you, bye.
