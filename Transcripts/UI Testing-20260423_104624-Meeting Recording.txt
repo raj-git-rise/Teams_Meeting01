@@ -1,0 +1,741 @@
+Transcript: UI Testing-20260423_104624-Meeting Recording.mp4
+Generated: 2026-04-23 06:15:47 UTC
+============================================================
+
+Raj:
+  Ignore my screen share.
+  So, it should out of another proposal.
+  Staindically, you know.
+
+Tejas:
+  Yes.
+
+Raj:
+  Yeah.
+  Suppose you have any feature list, OK?
+  Almost all.
+  But only you can add, like, in the bottom right, just add a row, and you have to add.
+  Gagan.
+  Yes, I think many which the call will be explained, so yeah, tomorrow broader feature use the description.
+  We call say, he says description.
+
+Tejas:
+  Summary.
+
+Raj:
+  Acha, okay, I got both of my steps with Aldo, document my hide.
+
+Tejas:
+  Sure, Suganya.
+
+Raj:
+  Feature in there, stage better community.
+  Page in English.
+  On again, Cortana.
+
+Nikhil:
+  Uh, manually test extension user UI as a script.
+
+Raj:
+  The file script need also, uh, the model in our key is your file is so Claudia GPT, Claudia, or Bolo Kimoji Chrome extension for.
+
+Nikhil:
+  DA.
+  G.
+
+Raj:
+  UI.
+  App in a file uploaded option in A.Q. images uploaded option.
+  Is he?
+
+Nikhil:
+  Jihad, you see?
+
+Raj:
+  File upload option. So test test file.
+  Yeah, to me, Lord, for the near you, say from click on, I need to give it to my.
+  Cloud extension, cloud extension in Chrome to test my UI. Give me a detailed prompt covering all these features, but auto generate to Kartik, but sorry features such as testing, so to document.
+  Important features manually test automated test automated test.
+  Bubika.
+  Helpful name, but let me, Mary is absolutely helpful.
+  Suppose, Jessica, they go, they say, I mean, call, text search, right? Oh, search Bhardwaj, the second, Charlie, second, right? The cloud extension screenshot.
+  Suganya.
+
+Nikhil:
+  Gagan.
+
+Raj:
+  Yeah, sorry, problem at the air product extension.
+  Okay.
+  So, yes, test cases, manually test many UI key link, page DA, pass login, announce approval, you know, Kartik Singh.
+  No, again Kartik Dipali.
+  Of the link open.
+  Where home automated test?
+  Still file, generate, yeah.
+  Um...
+  Hmm.
+
+Nikhil:
+  Your e-mail or password, Kartik.
+
+Raj:
+  What up, what up, Melanie?
+
+Nikhil:
+  Ahmed.
+  I made-up Navpreet.
+
+Raj:
+  Papna Sridevi.
+  We can log in, Tejas, access.
+
+Tejas:
+  No, just watch Mirza.
+
+Raj:
+  Stage only, no?
+
+Tejas:
+  Yes, yes.
+
+Raj:
+  On.
+
+Tejas:
+  Um, uh, testing deployment.
+
+Raj:
+  Um, automated test deployment testing.
+  Summary, I know.
+
+Tejas:
+  Yes, it's.
+
+Raj:
+  A problem, yeah.
+  Sleet deploy with the 30 late.
+  Or test testing time, like.
+
+Tejas:
+  Mm.
+  Yes, yes.
+
+Raj:
+  But I call call how many stage testing can be a so we sorry features you have 180190?
+
+Tejas:
+  Hmm.
+
+Raj:
+  Always address for your Padhi Gagan.
+  Dev test.
+  Gagan.
+  In e-mail.
+  Login, VS Code, mass screen share.
+  May I set up automated test? Skill file, create page, or call or automated test 8 minute.
+  Test document banana.
+  Okay, automated tests, yes, sorry, ceji, claude, claude, document, automated test, API endpoints, use.
+  Take a vote for test, sorry, test 200, will be 504500.
+  A regression test playwright run Kartik.
+  Yeah, automated test, one skill file, manual testing report.
+  Abhiya Banega Katy Claude C. Banega Math.
+  Skill find come up when I RA all skills making one RDI.
+  Skill dot MD run all dot PY tests API run.
+  Mm.
+  The work we had in the living.
+  Magic or file add, you know.
+  Manual testing.
+
+Tejas:
+  You know that?
+
+Raj:
+  OK, Nick.
+
+Nikhil:
+  Raj.
+
+Raj:
+  Okay.
+  Thing.
+  Maybe deployment time.
+  It's Lima Caro.
+  Yeah.
+  File with Emily.
+  Scroll download window.
+  Or, may he screen share, wait a minute.
+  Are you in our room?
+
+Nikhil:
+  Jayabalan.
+
+Tejas:
+  Yes.
+
+Raj:
+  OK, ek folder banalo jahpe tumlu testing karoge scheme, but like jahpe files, reports, you automatically save many testing folder banali, UI testing, and I'm saying.
+  Yes, me is the folder paste colour to extract color.
+  That is for delete, like, as well.
+  You can leave.
+  And.
+
+Nikhil:
+  Raj Karli.
+
+Raj:
+  Okay.
+  No, not cold.
+  Updated, coming in, and then speed people coming to.
+  Of this folder, right click, open with code, particular folder.
+  As for V.S. code, say, call name about.
+  Tab call go.
+  Dot login.
+
+Tejas:
+  Yes.
+
+Nikhil:
+  Javier.
+
+Raj:
+  And.
+  For example, if you want.
+  But.
+  Nikhil RDS migrate Kartik.
+  Aarush.
+  Available direct call WhatsApp Sanjay.
+
+Nikhil:
+  Yeah, problem script by script to RDS case relational database to strong type cheque value mismatch.
+
+Raj:
+  You can post school.
+  Mm.
+  IMS.
+  Ohh.
+
+Nikhil:
+  Or, they were a stage, say, say, migrate new approach, so many we say, ohh.
+
+Raj:
+  Ahmed.
+  Mass, Samarth Gagan, but I will jump may be read, Mahamara Saraju data, the air table, air table is like Excel T.K. Excel T.K. I am coach, coach, be dialogue, Excel, but relational database.
+
+Nikhil:
+  Jayabalan.
+
+Raj:
+  Joki tum wai tum may be face kiya, right? Oh, Jayabalan, real table say red shift pe move Kartik, right? Toh mujhe be problem it is, sorry, type mismatch, number of characters, Lindhi ho jarate, suppose Jasa deko, Abhi problem.
+  Suppose they say to create a column suppose OCR naam Kartik, 2 fifty-six, or suppose, but suppose in future the pages report data.
+  A be AI problem.
+  But may never say, could we, could we doubt, OK? Call.
+
+Nikhil:
+  Okay Raj, thank you.
+
+Raj:
+  Okay, now Padhi RDS Dynamo DB.
+
+Nikhil:
+  Ahmed.
+
+Raj:
+  Ohh.
+  Yes, Lien.
+  From both.
+  Okay.
+  Chakta Ki Ranura Datta Baati Kaloya Dunluk.
+  I thought you can must come be what they got in.
+  Both front and back in our present.
+
+Tejas:
+  But I've been a little.
+
+Raj:
+  I need to know.
+
+Tejas:
+  Melanie.
+  Make a people.
+
+Raj:
+  Man.
+  Okay, man, but so I don't know, but so don't know.
+
+Tejas:
+  Okay.
+  Gunja.
+  Many Company, basically, basically.
+
+Raj:
+  No.
+  Anshul.
+  My name I told you too.
+
+Tejas:
+  Anshul.
+
+Raj:
+  I'm not sure, just think like the, the, the, the only, you can, the only that there, MS.
+
+Tejas:
+  Yes, but then.
+
+Nikhil:
+  Cheque this, cheque this girl, yeah, you've been.
+
+Tejas:
+  Jayabalan, Jayabalan.
+
+Raj:
+  UP is my.
+  Home Town.
+  Varanasi.
+  Was it chairman anyway? Six months.
+
+Tejas:
+  Okay.
+
+Raj:
+  Six, 6 and a half.
+  Kartik be same Samarth two years, Gagan two years.
+  Almost 2 years, I guess.
+
+Tejas:
+  Okay, okay.
+
+Raj:
+  Org on a team may Dipali log to tumare Saathi join Ki and Nikhil tum se thora, I guess, yeah, 15 days back.
+
+Tejas:
+  Since.
+
+Raj:
+  krishna, Nikhil, I'm not sure.
+
+Nikhil:
+  No krishna, two months spell it.
+
+Raj:
+  Total Admin.
+  Type on it, and it will pick skill from this.
+  Hey, Claude.
+
+Tejas:
+  Do you need your thoughts?
+
+Raj:
+  Hit na kuch install karu data automatically.
+  Report everybody, yeah, send over here, let's go download, can I see folder went down there now?
+  Kill file update.
+  Maybe, both are not nervous.
+  They go to go automated test run. Kanikilian number CA type Kanoga Kabhi. We are going forward. Raj Yakal Yadodim ke Bhardwaj other automated test run the cloud code.
+  Tiger to run Kartik Sara to me a lambi. Jo prompts are the clone. Carnegie Jayabalan Dipali. Bhardwaj.
+  You cannot hear, basically.
+
+Tejas:
+  Math.
+
+Raj:
+  Hello.
+
+Tejas:
+  Play be Abdul file by Ray was quick folder middle case.
+
+Raj:
+  Send.
+  Download.
+  The women send Camilla.
+  Yeah, basically, Amari code current stage E code.
+
+Tejas:
+  Okay.
+  The.
+
+Raj:
+  So, to make older, delete, paste.
+
+Tejas:
+  Okay, okay.
+
+Raj:
+  This folder may go paste or unzip.
+
+Tejas:
+  Yeah.
+
+Raj:
+  A play, Claude.
+  Are you able to access?
+  To scale file the automated test scale file.
+  Skin file.
+  Hello.
+
+Nikhil:
+  Aarush.
+
+Raj:
+  Are you able to access automated test scale file?
+
+Tejas:
+  Make my call.
+  Downloading my equipment.
+
+Nikhil:
+  May I be wait processor?
+
+Raj:
+  Download.
+  Download on it though, uh, download the time 150.
+  Claude.
+  Are you able to access automated test skill file?
+  Home logo K.V.S. code me folder the create automated tests.
+  Okay, okay. Hello.
+  No pages.
+  You are on mute, Tejas. Hello.
+  HR OK.
+  On mute, hello, Matlab Jayabalan, and set order time review.
+  Yeah, they care.
+  I just screen share.
+  Screen share fellow set.
+  Mm.
+  Pages, can we move ahead?
+  Yeah.
+
+Tejas:
+  Hello, Raj.
+  So.
+
+Raj:
+  The BMR.
+
+Tejas:
+  Oh.
+  Sir, Mary.
+
+Raj:
+  DA.
+  Okay.
+
+Tejas:
+  Screen share, Nollie.
+
+Raj:
+  Okay, no worries.
+
+Tejas:
+  Uh, so uh...
+
+Raj:
+  Recording report.
+
+Tejas:
+  No, sir.
+
+Raj:
+  Gagan, OK.
+
+Tejas:
+  Mhm.
+
+Raj:
+  Yeh Dhan Merakniyar Tumduno Ki amina report ceji yogi, ceji, yeh.
+
+Tejas:
+  Sure, sir.
+
+Raj:
+  A report, test report, Gagan.
+  Here, detailed test report on my ceji yogi, ceji, call me.
+
+Tejas:
+  OK, sir.
+
+Raj:
+  Hey, guys, my manual testing is already reported automated testing in each year. Hey, report structure share, we call back.
+
+Tejas:
+  Yes, sir.
+
+Raj:
+  Okay, I don't think to move parallel, so yeah, the zip file is holder with all the right, Gagan.
+
+Tejas:
+  Yes.
+
+Raj:
+  What are the other?
+
+Tejas:
+  Yes, yes.
+
+Raj:
+  Uh, so fair, I have a scale update, you know, key, just Ismail Iknaki update my scale automated scale file.
+  Automated.
+  Best.
+  Kill Fenil.
+  To run all the automated.
+  Tech.
+  on my teleport code which
+  I have belonged.
+  No, I'm good.
+
+Tejas:
+  Mhm.
+
+Raj:
+  OK, so scale files, yeah, update Georgina, OK.
+
+Tejas:
+  The.
+  Yes.
+  Okay.
+
+Raj:
+  Going forward, Thomas.
+  I see.
+  slash automated test.
+  Stop.
+  Here they go, slash automated tests. Yes, are you automated test?
+
+Tejas:
+  Okay, okay.
+
+Raj:
+  Auto.
+
+Tejas:
+  Okay, sir.
+
+Raj:
+  How is the final report for Jayabalan?
+  Is making a krishna key pass?
+  And fail the column.
+
+Tejas:
+  Okay.
+
+Raj:
+  Make comments, give me column, Melanie.
+  I gotta pass it to take a OK, yes, fail, hey, no lead then.
+  Tiger.
+
+Tejas:
+  Vivek.
+
+Raj:
+  Sanjay.
+
+Tejas:
+  Yes.
+
+Raj:
+  A particular manual test result.
+  Yeh Pura jo excel hai isme daldena.
+  Yes, yeah.
+  Is me up a colder banalina?
+  Uhh...
+  Suppose, manual testing report again, particular Excel, you have to save krishna again.
+
+Tejas:
+  Okay.
+
+Raj:
+  Hub, hey, references ki Ghodadra.
+  References, references, madlaki, jo tum, this ke basis with me apni report banani jo may report me bejunga.
+  Again, Claude, Claude is particular holder for reference later, tomorrow test reports.
+
+Tejas:
+  Yes.
+
+Raj:
+  You don't know folder, how much again up to my krishna, Claude was like now key take reference from.
+  Reference from the test case document in my references folder. Take care.
+  And create similar similar type of test document based on my test result.
+  Manual testing folder.
+
+Tejas:
+  Yes.
+
+Raj:
+  Document end to end.
+
+Tejas:
+  Mmh.
+
+Raj:
+  Review, Carlena, you get a quick glance, Lena.
+  Jopi pass cases, I will pass, and I'm sorry, Jopi fail cases, I will fail, and again, let's keep a quick glance.
+  So, in short, Jobi time lagiga tomorrow is my lagiga, Baki, yes, are you automated a maximum other one?
+
+Tejas:
+  Yeah.
+
+Raj:
+  The.
+  Your folder create.
+
+Tejas:
+  Suganya.
+
+Raj:
+  The manual testing report manual testing report holder manual testing results particular Excel is particular holder.
+  References folder reference to suppose test case document going forward release node reference.
+
+Tejas:
+  Very good.
+
+Raj:
+  Sorry?
+
+Tejas:
+  Cortana.
+
+Raj:
+  Reference may Jovi may be junga, take a just a basis with my clauds banwa again, test report release node, Jovi to me banana reference, yeah, I was keep structure may be junga, post question paste Kardena, or Claude to make krishna, Claude here his particular holder me a particular file is key reference.
+
+Tejas:
+  Yes.
+  Yes, yes.
+
+Raj:
+  Similar document, manual testing report, get results, say map Kartik.
+  But you know, but just, just the basic comma.
+  Gagan.
+  Or, or structured, yeah, date wise, suppose Raj to make test report.
+  Suppose, yeah, yeah, there are many hours test here, just a call test, yeah, test here to many cloud here from date wise folder banado, suppose version one, maybe then my test, yeah, just say so, version one made all those reports, sorry.
+  Shyam me test Ki Ek Bhardwaj to version one could replace.
+  Create another folder, version two, and put all the test files and reports in that folder.
+  The year to the easy user, but look tum log tum logo dependent kartagar. SI kart nachati. Math recommend karo ki.
+  Cortana: Suppose I ask, twenty-first, twenty-third, see particular holder may replace.
+  You get, they say they got 20 words, but in folder.
+  This is RMA reports only, but which test case report release notes.
+  One guy, basically.
+  Start manual test line by line.
+  test case.
+  Okay, sir.
+  Temaja Gagan.
+
+Tejas:
+  Hold on.
+
+Raj:
+  But are doing, but...
+
+Tejas:
+  Raj S. Hits, Share, Bhardwaj.
+
+Raj:
+  Is my steps like though?
+
+Tejas:
+  Okay, okay.
+
+Raj:
+  Skype, step, redirect description.
+  OK.
+  Wait out for Nikhil Tejas.
+
+Tejas:
+  More Raj.
+
+Raj:
+  Yeah, Gagan.
+
+Nikhil:
+  I guess you could.
+
+Tejas:
+  I.
+
+Raj:
+  Sorry?
+
+Nikhil:
+  I got to do it.
+
+Raj:
+  Mm.
+  Okay, okay, yes, start for the best time.
+  We go.
+  So, start or report ceji.
+  What all it is.
+  But not time, Neil, maximum.
+  Or doubt our krishna.
+  Ortho, without me in testing me.
+
+Tejas:
+  No, no.
+
+Raj:
+  Okay.
+  Important features.
+  It's a testing.
+  They would just say, yeah, the source record is is is testing is a good.
+  Suppose Oregon.
+  Page one, pajana.
+  You search Karna Dekhna Ki Mil Padhi.
+  Yeah, highlight.
+  Pages.
+  Pages in a particular text presenter.
+  That on the except there.
+  Because his functionality, he told discuss with the actual call.
+  Mikhail.
+  OK, those three edit sections. MRLA TK edit sections. I got cologe. Test case Mali, but I got cologe happened full name change color. Date of birth change color. Yeah, happened. A whole document. A very happy information could be named change girl.
+  Save changes.
+  I got cover page with Java.
+  So, what do you know?
+  Important section, Section 2 is the right sorry.
+  Reports my sources on HIA, highlight date by default date visit type highlight.
+  They will just say it's been not found in page; this may this particular page may visit type name.
+  These have highlight only ceji, type of facility name have present highlight only.
+  Provide the name special specialty.
+  You only feature so much, you know, make more quick, but other, okay, con con feature important.
+  Section 4 may have Joki Samarth have implemented for diagnostic add option, probably diagnostic add changes.
+  Pampa de ceji.
+  Mali.
+  Ski sources Vivek.
+  Gagan.
+  Section 9 tables, you have, I suppose.
+  Yeah, monthly, so save currently, save end of the data.
+  Again, report my note although.
+  But uh, end of the data key, OJG, you could important functionality, Joe.
+  Ek, ek, do report trigger Kartik.
+  Summary.
+  Padhi features Excel present.
+  Okay, sir.
+
+Nikhil:
+  Okay.
+
+Tejas:
+  Okay.
+
+Raj:
+  Could could be doubt over to push Lena to run, but I may test complete.
+  Or, Pink and a group, a jobi over.
+  Any other doubt or we can conclude the call.
+
+Tejas:
+  Conclude.
+
+Nikhil:
+  No doubt, Raj.
+
+Raj:
+  Okay, bye bye.
+
+Tejas:
+  Sure.
+
+Raj:
+  Okay, bye bye.
+
+Tejas:
+  Bye bye.
+
+Raj:
+  Thank you.
+
+Tejas:
+  AI.
