@@ -1,0 +1,191 @@
+Transcript: UI Testing-20260427_095851-Meeting Recording.mp4
+Generated: 2026-04-29 19:28:08 UTC
+============================================================
+
+Piyush:
+  Jagufat Susku cheque Karlena.
+
+Samarth:
+  Okay.
+
+Piyush:
+  OK, OK, so that we have all the things tested, and then after an hour, when we connect, so then I'll ask you guys.
+
+Samarth:
+  Yep.
+  Okay.
+
+Piyush:
+  HR.
+  You can.
+
+Samarth:
+  Yep.
+
+Piyush:
+  So, so that it's easier for me to communicate, guys, but then, and then we'll go ahead. Hey, guys, I think let's connect in one hour, guys, without without delays.
+
+Samarth:
+  Yep, yep.
+  Sure.
+  This, like, I'm in the process of that.
+
+Piyush:
+  I think the real good krishna.
+
+Gagan:
+  Yes, last thing. So whenever a case is not passed, it is failed, just put some detailed comments so that we don't have to again go through the same thing, right?
+
+Piyush:
+  Hey, Padhi.
+  Correct, correct. It is a very good point, yeah, so thanks, Vivek, for pointing it out, but Team, please download the comments.
+
+Gagan:
+  Yep.
+
+Samarth:
+  And then, for this is this is for like everyone team, right? Like, pass fail, could we add those comments so that whoever is again testing the same thing, right? Be it me, krishna, or even like when we krishna and me for me as well, like when we are we are putting anything as pass or fail, we will also make sure to add detailed comments, but yeah.
+
+Piyush:
+  OK, I hope.
+  Everyone.
+  Hmm.
+  I.
+  Yeah.
+
+Samarth:
+  Same thing for everyone.
+
+Piyush:
+  OK, but this is a good point. Thanks, Sanjay.
+
+Gagan:
+  What is?
+
+Piyush:
+  Hello!
+  If we are, you know, testing all of us are testing that list, and we are, you know, dividing and conquering should be more than sufficient, and guys, let me...
+
+Gagan:
+  We are testing on dev, right?
+
+Piyush:
+  If you feel the other way around.
+  Haha, very cool. After Samarth will merge the changes.
+
+Samarth:
+  Yes.
+
+Gagan:
+  So we have to wait for the last merge or should we start?
+
+Piyush:
+  Yeah, yeah, last week, please, last week, I think, and let's just go get from there.
+
+Gagan:
+  Tigger.
+  Gagan.
+  Okay, sure.
+
+Piyush:
+  OK. Thank you. Yeah. OK. Thank you. Thank you guys. Yeah. Bye. Bye. I think they also join. We get some someone please being on the same page. OK, Mali. OK, just.
+
+Gagan:
+  Okay, see you.
+
+Samarth:
+  Thank you.
+
+Gagan:
+  Welcome.
+
+Samarth:
+  AI.
+  Shut.
+  Ohh.
+  Okay, take it. Yep, yep. I'll drop a message in the group itself, so it would be helpful for everyone.
+
+Piyush:
+  Hello, take care. Thanks, bye.
+  Haha.
+  Thank you.
+
+Samarth:
+  Ha ha.
+  Thank you, bye.
+
+Gagan:
+  Hi, ceji.
+
+ceji:
+  Hi, Gagan.
+
+Gagan:
+  Good morning!
+
+ceji:
+  Good morning, you sound groggy.
+
+Gagan:
+  Sorry?
+
+ceji:
+  You sound broggy.
+  U.
+
+Gagan:
+  No, no, it's just the voice. I think it might be due to drinks last night.
+
+ceji:
+  Okay.
+
+Gagan:
+  My voice sounds different for two days at least.
+  Yeah, actually they're just talking about testing, so they might share a sheet.
+
+ceji:
+  Okay.
+
+Gagan:
+  Everything is written in that sheet, we just have to test.
+
+ceji:
+  Okay, Cortana, that there is a I want to actually cheque with Raj. Maybe they are uploading cases. I guess it's on the back burner. Maybe that's why.
+
+Gagan:
+  Yeah, for testing as well, we already assigned everything to everybody. So I don't think so there is anything. Like, obviously, you can test whatever is there on the sheet. But right now, I don't think so they have assigned your name. But if you want to testing, there are a few, like, there are a few people who have a lot of test cases to check.
+
+ceji:
+  Navpreet is not available.
+  Uh-huh.
+  Uh-huh.
+  Okay.
+
+Gagan:
+  Maybe you can take a few of them.
+
+ceji:
+  Oh, okay.
+
+Gagan:
+  Mm.
+
+ceji:
+  It's okay. I don't think I would not be able to recipe. I didn't plan this, yeah.
+
+Gagan:
+  Right, it's a bit rushed.
+  No worries.
+  Quick, quickly.
+
+ceji:
+  Okay.
+
+Gagan:
+  Okay, bye.
+
+ceji:
+  To get it, yeah, Jayabalan by 7 PM, yeah.
+
+Gagan:
+  Oh, Sanjay and this.
