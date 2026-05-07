@@ -1,0 +1,497 @@
+Transcript: UI Testing-20260507_130600-Meeting Recording.mp4
+Generated: 2026-05-07 08:14:32 UTC
+============================================================
+
+Raj:
+  GT.
+  Ultimental area.
+  Singh.
+
+krishna:
+  Shortcut manually.
+
+Raj:
+  A shortcut.
+  But look, some mandatory G.T.P. Sorry, holders, Doctor Neil, Doctor Paul.
+
+krishna:
+  Mhm.
+
+Raj:
+  Doctor.
+  So, so tomorrow to account hash.
+  Yeah, log in.
+
+krishna:
+  What?
+  Maybe we.
+
+Raj:
+  Mm.
+  Is my L.C.P. already shared folder A, you can.
+
+krishna:
+  Mhm.
+
+Raj:
+  OK, sorry, word document, right? Yes, sorry, GT. Yes, ID is like.
+
+krishna:
+  OK.
+
+Raj:
+  Hey, sorry, GT presenter.
+  Uh, particular case I.D.K. bots are a files for sometime with your latest file in a subset.
+  Moscopic, yes, I suppose, man.
+
+krishna:
+  Nunez.
+  Yeah.
+
+Raj:
+  Take such good in there.
+  Oh.
+  January 19th, 1920. Yeah, yeah.
+  Gagan.
+  GTM.
+  Download, but I got to me or we can see case ID GT search. Oh sorry, GT is.
+
+krishna:
+  Okay.
+  Ha, ye lik matlab yeh heard of Dipali Lala Yeh Ya Eke folder.
+
+Raj:
+  CA.
+  Hi, Doctor, make sure to log, I use your special MDLCP account.
+  I don't think so, it's just over.
+  Okay.
+  Specialist M.D.P.
+
+krishna:
+  No.
+
+Raj:
+  So, again, Dipali, Kalisha, just for belonging in Karnata, AI.
+  Baki mana ek jiske helps a kamekal baja tha.
+
+krishna:
+  Okay.
+
+Raj:
+  Yeah.
+
+krishna:
+  Kalvatlip Samarth Nuji Bolaka Ki joke case I did 374 start today.
+  No.
+
+Raj:
+  Yes, ID.
+  Nate.
+  GD presenter.
+
+krishna:
+  The.
+
+Raj:
+  Ohh, they go just say, yes, sorry, 99 cases, and in the GT presenter.
+
+krishna:
+  Yes.
+
+Raj:
+  That's, that's three.
+  So, if you see the command to be here, that you fail right there.
+
+krishna:
+  Singh.
+
+Raj:
+  It is very fine, be shareable, and can you tell me that?
+  In.
+  Folder link.
+  Multiple files, latest to turn on.
+  In this case, me 20th January.
+  So, tell the documents they...
+  They go to sorry document you present an Ops automation. Joe Wiki and Ops automation. Vivek is my present. I take it. Release note.
+  Same in there.
+  Release note structure strictly follow. Maybe changes going forward, but currently structure. I have made and then after release note. Suppose Samir first release right going forward.
+  This week suppose 1000 pages above all a report generate karnika. Functionality added. Go go next release note. We have. We have implemented this particular feature. OK, released. This is like an announcement.
+  To the team or client, disco will look padhi or features add on release release. Again, to release note. Yes, any details as it is ranging. Change must appear. Suppose currently environment is production.
+  Going forward, our requirement, I.K. Stage testing, stage release mode, environment change.
+  You have a stage or divya take a production URL stage URL. Take it so depending on requirement, I mean you sorry change that when you give us version change over. Suppose a first release release report. Basically version 1.0.0 yeah.
+  I think Friday go 1.0.1 O. J.
+  But they call version matrix, yeah, version matrix, you know, there's it opsy like a front end there supposed to be a version 1.0.0 yeah, basically front end MR Ops UI, suppose we switch changing vice is is valid release, the constant.
+  Apne front end mein koi changes Nikhil.
+  But from the backend may change here, the feature add 1000 report generate changes increment increment 1.0.1.
+  Sorry, yeah, Joe backend, yeah, and return back in the again.
+  I am going out.
+  Okay.
+  Yeah, architecture overview architecture over you can actually use the front end. Next JS use the backend Python past API microservices work locally and it can use the AILLM.
+  Yeah, yeah, architecture will be going forward, implement technique implement, and suppose model use, so depending on whatever we are adding features.
+  Yeah, first release features, okay, end to end, see list, but it's Friday, I think no team features.
+  Take care.
+  Have they got known issues important issues present heavy highlight with me? Suppose issues highlighting that they are going forward. They say ops team use that issues.
+  Or like sanjay question test.
+  Take it, so I mean known issues, make sure Karna Ki highlight Karna Chai Jobi error, choti everybody again, other critical error over to release current in the product, but I got chota issue mentioned.
+  Yeah.
+  Okay, in this release, yeah, but I think release me krishna, right?
+
+krishna:
+  No.
+  Lekhen Wu Api Vivek Rai.
+
+Raj:
+  So, what?
+  You.
+
+krishna:
+  I'm also a song, "Lab Rimu Ki Aaka Likin Samarth Kodmar Sardeva Vadhu Pi Sadhu".
+  I think we will see wrong information because.
+  In.
+  Yeah.
+  Ha, how many, how many school? Ha, okay, okay, we discussed.
+
+Raj:
+  So, we gonna discuss that, you know?
+  Disable.
+  But I guess Franco stage stage current case.
+  Wait, man, I got taking it down, confirming that.
+  There are other things also, do we have a place where we can see?
+  Which one or Kandon must be reviewed? I think he will be okay.
+  We gave all the message, but clarify.
+  No.
+  Bhardwaj.
+  And no limitations limitations are there. UI can just say sandbox lock right? We be user a sandbox may have. So focus user play dog and take a lock. Yeah, I have no limitations. And upcoming features.
+  Um, Jobi feature.
+  Release report test case to be test. Accordingly to fill up your particular documentary, right? So known issues manually.
+  Does it bulk edit me? Suppose J pointer edit. Edit with J or this particular section to search or edit, but suppose to my bulk edit right.
+  Skill files based on logo.
+  OK, so setup guide may tomorrow, Jopi setup instructions, Ogana, Claude worker, Dega Sara.
+  Like, I need to prepare documentation, right? I am providing you the setup guide and skill files are there in respective folders. Document or tomorrow VS code setup particular folder.
+  So, uh, play cloud board game.
+  Let me get a code.
+  Yeah, it's my release note is my box. Suppose my car town so it's make release note folder atom to look documentation on folder banal or ESR files or more particular VS code EC folder.
+  Important file to like complex. This particular folder documentation.
+  Set up guide.
+  First night, past all day.
+  Just, right?
+  Is this the word about that?
+
+Tejas:
+  Sorry, not here.
+
+Raj:
+  GitHub, GitHub.
+
+Tejas:
+  But the.
+
+Raj:
+  Get GitHub account as or it was.
+
+Tejas:
+  Authentic.
+  Authentication code.
+
+Dipali Mali:
+  Ohh.
+  So, pass Kartik or Kartik, they are Tejas are very fast.
+
+Raj:
+  Play, Samir Padhi Kartik, right?
+
+kalesh Patil:
+  Hey Cortana, separate account at the DA.
+
+Raj:
+  Okay.
+  Yeah, Kartik.
+  Respond.
+  So, set up for J release report.
+  Test case, right, uh, tip.
+  Test case report test sheet they go test case report or test sheet from Jabbi Sanjay Gagan behind it to your test sheet behind it. OK, let's make out an a key yet tomorrow tabular for me or I miss to easily interpret test.
+  We here or pass and fail care. Juby failure is on top of the key. Starting where you go through going or this basis. We will use this Adobe kiki critical Amari failures product launch.
+  Team.
+  Ohh, yeah, tabular for me, yeah, uh, test report and subsequently test report.
+  Test case report, test case report.
+
+Tejas:
+  Raj has specific coach bolani in a club.
+
+krishna:
+  1.
+
+Tejas:
+  Sabko Sabdekh Babal.
+
+Raj:
+  Yes, OK, but I think.
+  Test case report, uh, very important actually C.K. basis where Amari release note test case sheet.
+  And your feature list may be highlight of test case report, not a team, right job tracker.
+  I can.
+  So, Ek Amari, suppose Excel bug tracker bug tracker testing result or comment put right particular bug tracker Excel.
+  You can, or Claude tomorrow, yeah.
+  Ohh, it's make important to use screenshots and get them manually. TK Jobi test case screenshots manually. Or folder a screen job again screenshots.
+  I tell you zip by each other.
+  Or is my screenshot space important screenshot rename suppose test case one screenshot so screenshot PC 01 rename.
+  And Claude automatically prompt. Just kill file when I NMA or some instructions divya this may cloud automatically prompt. Where is your screenshots folder? You can screenshots test case report user manual screenshots nature so.
+  Uh, automatically prompt, where is your screenshot folder, screenshot folder, screenshots, and.
+  Gagan.
+  So yes, I document.
+  Structure aside up now, so changes are the instructions, like instructor structure aside up now. OK, estimate test case report, please.
+  Yeah, with a cloud set up.
+
+kalesh Patil:
+  Right, but test case report as a Summary.
+
+Raj:
+  Yeah.
+  Exactly, exactly. Summary detailed test report.
+  Somebody who spoke as a Excel form make summarised version is this test case report me tomorrow Joby feature take a step sounds game. Suppose this particular test is a step in going forward multiple steps.
+  Multiple steps be. So steps is mentioned expected result pass on a actual result tomorrow test given. KK. Yes, sorry ceji tomorrow bug tracker job individually log test.
+  Nate to scale file me many instructions mentioned here or better language me format Kartik.
+  You can a call these a call instructions for Dalivia. See, I know, go tomorrow. Word document. Create Craiga again. Suppose Jabdimas can file all Cortana. So yeah, or a date wise folder main.
+  Word document ya Excel, Jobi, create Kartik.
+  Gagan.
+  The Bosnia Colum.
+  I just made a call.
+  First of May, go.
+  Suppose here release not generate key whoa first go may get a push without your. Confirmation ticket. Baletom is gonna be okay. Lenagar sub say oh Claude them say prompt love Karega key. All good can be.
+  Push it to get, or push, but push, but...
+  Asa ko issue nahin ki agar tum galti sakabi kardiya directly push to wo problem create karda karda karda kardo previous commitment. Autum office document banadena. OK, but yeh process divya nahi.
+  Pam is for checkers in Word document.
+  See you again.
+  All good, Kalish, right?
+  Um...
+  Test case report.
+
+kalesh Patil:
+  Ah, this is very good.
+
+Raj:
+  Okay, Tejas.
+
+Tejas:
+  All good.
+
+Raj:
+  OK, I got it.
+  Of odd.
+  Look user manually.
+  User manual, I don't think so, but at a time, but yeah, feature.
+  In Georgina.
+  The user manual can, suppose, use that, sorry, details on the user manual.
+  So, user manual, but say yeah, yes, maybe have a screenshot, take it to 8 folder screenshot, yes, I will change the suppose just say report and processing.
+  Suppose I must go dashboard, or I mean a screenshot, currently, but but I suppose I got feature I do it, I think Dipali is.
+  Nate to Claudi tomorrow, Kartik.
+  Hmm.
+  A child.
+  Screenshots, man, sleep all down, manually, Linico, Claude.
+  Fall back, man, still fine. I got home, uh, I I recommend.
+
+Dipali Mali:
+  Actually, sir.
+  Yes, yes.
+  Okay, why push?
+
+Raj:
+  In.
+  Hey, Claude.
+  Thank you.
+  He ignored.
+
+Dipali Mali:
+  Yes, ma'am.
+
+Raj:
+  Uh, uh, my, my, I suppose.
+  Time come manually do so test cases screenshots. OK, may I recommend, but suppose do so test cases screenshots. I mean or ugly client call it. OK, so many fall back with allows still file me login or sorry screenshots.
+  What's my problem?
+  Vispute.
+  But on the other side.
+  They go to say is my past year past year right again history page load.
+  Yeah, 404 page not found, right? Certain time response.
+  So 404 as a tower was yes.
+  Jessica, yeah, format editor, screenshot.
+  This is a screenshot code info. There's a patient info panel ka ye a test case here. OK, or ye kaha page code kara. TK section one ya cover page padhi kara jab keys for the kana Chaita info panel right.
+  Test cases, at least manually screenshot with test case number.
+  OK, a particular screenshot this test case.
+  NATO.
+
+Dipali Mali:
+  Yes, sir.
+  Yes, right.
+
+Raj:
+  Yeah.
+  Yeah.
+  So...
+  Yeah, yeah, documentation or krishna here was how many Kartik at me and Claudia are they just 40 what manual work? Joke on the padhi documentation. I think was the out at the push. But now again, again, come log. Bolo get a setup with our VS code, then yes, RD files.
+  VS code.
+  This is my setup guide file based on this.
+  Again, yeah, just set up guide file based on this, yeah, sorry, Jesus set up or his his respective folders file present, document, so I think already there.
+
+kalesh Patil:
+  Okay.
+
+Raj:
+  You can keep on loading repository clone self clone Kartik, right?
+  Hello, already there, get up the access.
+  So, I I don't think we'll be.
+  Set up, yeah.
+  Maybe he's doing fine, sir.
+  Hello.
+  Start, Gagan.
+
+Tejas:
+  Raj, file based off.
+
+krishna:
+  Yeah.
+
+Raj:
+  As I not say.
+
+Tejas:
+  Okay.
+
+Raj:
+  I'm at the notes, like I can now gonna tum tum is called TKTK, that's basically was notes.
+
+Tejas:
+  Okay, man.
+  On my way to Rutwik.
+
+Raj:
+  So, I don't know, Chao, so maybe is, don't worry, maybe is the time again.
+
+Tejas:
+  Send it.
+
+Raj:
+  Sorry, sorry, sorry, ceji okay steps.
+
+Tejas:
+  Speaker taking.
+
+Raj:
+  Quickly go through, which doubts also group.
+
+Tejas:
+  Okay.
+  Hey, Cappone.
+
+Raj:
+  Or is documentation, I think, but I know the.
+  But, in this, right?
+  Don't.
+  Yeah.
+  Pages.
+
+Tejas:
+  Yes.
+
+Raj:
+  Mazara Osayan.
+  The.
+  Yeah.
+  But, yeah, because that was gonna push them up.
+
+Tejas:
+  All right.
+
+Raj:
+  Yep.
+  This is the Power BMR.
+
+Tejas:
+  Yes.
+
+Raj:
+  Cosmic cloud used that way, okay?
+
+Tejas:
+  Ohh, name a woman a little.
+
+Raj:
+  And there was McLartney.
+
+Tejas:
+  I know.
+
+Raj:
+  Mm.
+  Yes.
+  Okay.
+  Um...
+  Data modeling, data modeling, link tables.
+
+Tejas:
+  Mm.
+
+Raj:
+  Name it.
+
+Tejas:
+  That's actually, maybe they can little data modelling can.
+
+Raj:
+  Gagan.
+  SQL.
+
+Tejas:
+  Sorry.
+
+Raj:
+  SQL.
+
+Tejas:
+  A little bit about that.
+  Go through game and those may route table.
+
+Raj:
+  A child.
+  Yeah.
+  Team.
+
+Tejas:
+  What's up?
+
+Raj:
+  Okay, WhatsApp call concept.
+
+Tejas:
+  Okay, okay.
+  Yeah, sure.
+  Ohh.
+  Okay, okay.
+
+Raj:
+  Yes.
+  Krishna.
+  It's not developed or test cut down.
+  Right, krishna.
+  If.
+
+krishna:
+  For sure.
+
+Raj:
+  So, yeah.
+
+krishna:
+  I can buy that one right here.
+  Okay.
+
+Raj:
+  We have knowledge graph, right?
+
+Tejas:
+  Totally agree.
+
+krishna:
+  What?
+  He will say again, Pitwabi.
+
+Raj:
+  Team.
