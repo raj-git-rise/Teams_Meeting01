@@ -1,0 +1,2006 @@
+Transcript: Case Generation and SharePoint Walkthrough-20260513_044506UTC-Meeting Recording.mp4
+Generated: 2026-05-13 05:49:25 UTC
+============================================================
+
+Piyush:
+  Raj B.
+
+Raj:
+  Hi, Piyush. Good morning.
+
+Piyush:
+  Hey, good morning. So, Raj, you just share this video as well with me, okay? Go to your personal this thing and share the stuff with me. Is ceji planning to join?
+
+Raj:
+  Uh-huh.
+  Yep, yep.
+
+Piyush:
+  Okay, okay.
+
+ceji:
+  Hello, sorry, 2 minutes later. Hi, Raj. Hi, Piyush. Hi, Tejas.
+
+Raj:
+  Hello.
+
+Tejas:
+  Hi.
+
+ceji:
+  Hello, you can start up Raj.
+
+Raj:
+  Yes, so we can, we have, we can, we can start this, so, yeah, first of all, do you have a specialist and we also be friends, because we need to upload the document using that ID. Let me share it with you.
+
+ceji:
+  Mm.
+  Mm.
+
+Raj:
+  My AI tech team.
+
+ceji:
+  Take minute, was document.
+
+Raj:
+  Yeah.
+  Your creds.
+
+ceji:
+  Admin Admin Expert.
+
+Raj:
+  Great, I'll share on your personal chat only.
+
+ceji:
+  Or is it a?
+
+Raj:
+  Okay.
+
+ceji:
+  Okay.
+  Mm.
+
+Raj:
+  Can I share K.I.?
+  No vegan.
+
+ceji:
+  Okay.
+
+Piyush:
+  Raj Apne Korchis, Akorchis Bolunga Mapo, Job document share Kartik, or attach Ki Agro, please. See that link share Kartik, toho personal parati, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, toh, you, toh.
+
+Raj:
+  Yeah.
+  Ohh.
+  Ah.
+  Butcher.
+
+Piyush:
+  It will be like a crazy stuff. It will links lead to a thing in a bad picture chat with auto maintaining. Yeah, please have to wait. Tejas, her major documents, cheque Excel. I invited you to edit a file.
+
+Raj:
+  Yes, yes, yes.
+  Right.
+
+Piyush:
+  I think the better way is link share, but attachment is point in time.
+
+Raj:
+  Mhm.
+  Bye.
+
+ceji:
+  But few sugar will update.
+
+Raj:
+  Gagan.
+
+ceji:
+  Okay, both point, yeah, correct.
+
+Piyush:
+  Taki, by chance, for document delete, we have a starting point at least, correct? You have a very good point, but...
+
+ceji:
+  No.
+  Yeah.
+
+Piyush:
+  This is the links we got to login, we got a links, Raj, correct? He said, so that should be fine.
+
+ceji:
+  Yeah.
+
+Raj:
+  Mhm.
+  Got it, yes.
+
+Piyush:
+  Please continue here. I think it's an important meeting. Please continue, yeah.
+
+Raj:
+  Okay.
+  Have you both logged in or?
+
+ceji:
+  Um, Georgina, because I have to log in incognito. I'm just opening. Just give me a second.
+  OK, man, I had already logged in using my.
+
+Raj:
+  OK.
+
+ceji:
+  On a gold.
+
+Raj:
+  It.
+
+Piyush:
+  Dehoraj Bhaliba to Johna. I make on my screen share Karta Raj.
+
+Raj:
+  You can add in.
+
+Piyush:
+  Now, correct, going forward, account deactivate.
+
+Raj:
+  Of course.
+  Mm.
+  Update.
+
+Piyush:
+  Case update karo ya?
+
+Raj:
+  Like, if you open this right, click on.
+
+Piyush:
+  Hey, Cortana, download Kartik.
+
+Raj:
+  There you go, there you go.
+
+Piyush:
+  Take a step-by-step guide, amazing company, correct? This may have environment access is DNSRA. Kiki Aki users, and Kiki Aki, Dev stage prod less than 100 pages, deployment flow.
+
+Raj:
+  Mm.
+  Okay.
+
+Piyush:
+  Well, this is very good documentation, not exactly this is what I was expecting as well. Case tracker internal feature metrics download.
+
+Raj:
+  Mm.
+  Yeah, ma'am, we got it.
+
+Piyush:
+  Take care, ceji.
+  Please continue, Raj.
+
+Raj:
+  Yeah, so ceji, what I was saying, you can add in your non-incognito browser only, because you can add it as a Microsoft account.
+
+ceji:
+  Maybe signing it, I'm not able.
+  Mm.
+  Okay.
+
+Raj:
+  Personal account logged in or Microsoft account app.
+
+ceji:
+  Mm.
+  Take it.
+
+Raj:
+  Okay.
+
+ceji:
+  Okay, I think I'll need it sometime, Kunky.
+  Ohh.
+
+Raj:
+  Okay, no worries. I can explain.
+
+ceji:
+  BMR.
+
+Raj:
+  So, suppose...
+  Let's start with document upload folder, okay? So I'll be sharing this link. We should strictly upload all the documents here only, right? Not in any other place. So I think day before yesterday, someone from the ops team.
+
+ceji:
+  Mmh.
+
+Raj:
+  was uploading the document somewhere else and they are generating the cases and each and every cases were failing, right? So if we are uploading the documents in this particular folder only, then only this will be sent to S3 and our LCP workflow will pick up from there.
+
+ceji:
+  Mmh.
+  Yeah.
+
+Raj:
+  Right, so we should strictly follow this particular folder with only documents, and what's the...
+
+ceji:
+  Okay.
+
+Raj:
+  You say, case ID, case ID, right?
+
+ceji:
+  Mm.
+  Yeah.
+
+Raj:
+  Okay, JB case idea is an answer folder a create or is ke under document must drag drop Kannan.
+
+ceji:
+  Okay.
+
+Raj:
+  That's it, or depending on the size, he automatically has the sync sync value, OK?
+
+ceji:
+  OK, sorry, the documents.
+
+Raj:
+  Is the schema only?
+  Like darling, suppose missing it, suppose 16, right?
+
+ceji:
+  What?
+  Ahmed.
+  Uh-huh.
+  Okay.
+
+Raj:
+  Okay, let me share this link.
+
+ceji:
+  Yeah, ticket ticket, OK.
+
+Raj:
+  How many folder you need to upload the new?
+
+Piyush:
+  Avna Raj Example: they do a case, like a case, like a case, a case, a case, a case.
+
+Raj:
+  Okay.
+  Yeah.
+  Mm.
+  Mhm.
+  Hmm.
+  Hmm.
+  Okay.
+  Hey.
+  Mm.
+  Thank you.
+
+Piyush:
+  Position this call, please, documents correct, upload, go ahead here.
+
+Raj:
+  Mm.
+  How about you?
+  So, let's be open.
+  Suppose 3424 documents to you.
+
+ceji:
+  Mm.
+
+Raj:
+  Okay, so I'll copy the name from here.
+  OK, and go to our base base location, search patient, patient name, say documents.
+  He gave an update call.
+  There's a yeah, no 3424 okay, so yes, are in a document, make sure you do not upload the work done, LCP reports with you.
+
+ceji:
+  Mmh.
+
+Raj:
+  Okay, to work done folder, okay, original work LCP that you know or LCP generally ticker one to say original work LCP will only work done generally in newer cases may work done folder.
+
+ceji:
+  Okay.
+  Mm.
+  Yeah.
+  Mhm.
+
+Raj:
+  But, again, one folder, so download.
+  And we will go to...
+  And speed report data Bowler.
+  But some patient name, Lien, or you had base folder with a patient name search.
+
+ceji:
+  Okay, yeah, yeah, yeah.
+
+Raj:
+  Be good.
+  I hope they just knew it's clear for you as well, right?
+
+ceji:
+  But.
+
+Tejas:
+  Yes, it's the batch.
+
+Raj:
+  Okay.
+  He get to suppose run 3, 4, two, 4, car, he got search when it takes me already.
+  I don't think so.
+  Domna is create, create folder, create.
+  People to forecast.
+
+Piyush:
+  Raj Maine Vivek Cuba testing process file up in Dalan Excel may go broken, but just a file.
+
+Raj:
+  Yeah.
+  Okay.
+  Gagan.
+
+Piyush:
+  Support.
+
+Raj:
+  Begin a folder, create away.
+  Three percent delete for not he duplicates.
+
+ceji:
+  Win.
+  Rather than delete.
+
+Raj:
+  Chuck.
+
+ceji:
+  When I have a little.
+  Raj.
+
+Raj:
+  Yes, yes, yes.
+
+ceji:
+  I'll tell you the no reports for 6110.
+
+Raj:
+  6110.
+
+ceji:
+  Oh.
+
+Raj:
+  Yeah, pay UI, 6110 patient name.
+  Ben.
+
+ceji:
+  Mm.
+
+Raj:
+  I will go to our base folder.
+  Names.
+  Maybe, uh, um, uh, return trial something.
+
+ceji:
+  Okay.
+
+Raj:
+  Take care.
+
+ceji:
+  The 6110 underscore they put two hours ago. OK, they've already created.
+
+Raj:
+  Yeah.
+  Yeah, and the CP already created it.
+
+ceji:
+  Okay.
+
+Raj:
+  Reporting.
+
+ceji:
+  How did they created themselves, is it?
+
+Raj:
+  Yep.
+
+ceji:
+  Ohh.
+
+Raj:
+  6110 from moving down.
+
+ceji:
+  Never reply.
+
+Raj:
+  Six 110 - so what we will do, we will ask Nollie to upload that ticket - any other case I do?
+
+ceji:
+  Nithya.
+
+Raj:
+  Folder, yeah, files search combination supply first name only case ID, full name, we will we will ping Nollie.
+
+ceji:
+  Mhm.
+  But then, Nam Kannan.
+  Because problem was that the same name.
+  Multiple cases within LCP, LCP, MD, MCP.
+
+Raj:
+  Ha, but, ha, agarab dekho do many Tigran Gregorian on a search kiya, no?
+
+ceji:
+  Mmh.
+
+Raj:
+  Okay, that's my names are searched here, but case ID.
+
+ceji:
+  Files.
+
+Raj:
+  Folder, folder, file.
+
+ceji:
+  Mm.
+  Gotcha.
+
+Raj:
+  Mm.
+  Can you tell me any other case ID? Let me see.
+
+ceji:
+  Case ID.
+  609? Yeah, you mean...
+
+Raj:
+  Six.
+  6090.
+
+Tejas:
+  4995.
+
+Raj:
+  4995.
+
+ceji:
+  And then.
+
+Tejas:
+  4915.
+
+Raj:
+  He already uploaded it.
+  Here they go, already uploaded.
+  Yes, I'm joking.
+
+ceji:
+  Mm.
+
+Raj:
+  Take care.
+  Man, I delete Kartik.
+  Oh, 6119 megawatt right on the time loop.
+
+ceji:
+  Thank you.
+  Yeah, one page, by timeout one.
+
+Raj:
+  999.
+  Yeah, yeah, yeah, document uploaded name, yeah, document uploaded name.
+
+ceji:
+  Ah, correct. Those are the ones that have been that have timed out. One page, one page.
+
+Raj:
+  No.
+  Mm.
+
+ceji:
+  Capturing? Sorry, I should ask the people rather than a timeout or...
+
+Raj:
+  Time out, make out then I got to be workload for hours, so time out automatically.
+
+ceji:
+  Okay.
+
+Raj:
+  But, yes, I set up, so, so, just say manage the search here, right? So, see if I can.
+
+ceji:
+  Mhm.
+  Ohh, nice. OK, Gunja.
+
+Raj:
+  So, we have...
+  6119.
+  Joham Navpreet says, get in.
+
+ceji:
+  Summary list, yeah.
+
+Raj:
+  Yes, Joe. So, what we will do, we will just download this medical, sorry, file medical.
+
+ceji:
+  Mm.
+  Mm.
+
+Raj:
+  And upload document, I'll share both the link.
+
+ceji:
+  Mhm.
+
+Raj:
+  Yeah, 6119.
+  No, it's already there.
+  Two.
+  Yeah, so.
+  Already present.
+
+ceji:
+  Okay.
+
+Raj:
+  Most of the files right who already upload Kartik.
+
+ceji:
+  Mhm.
+
+Raj:
+  But suppose so.
+  Man, she go delete Kartik.
+
+ceji:
+  Yeah.
+
+Raj:
+  Okay.
+  Let me repeat your point.
+
+Piyush:
+  Aapraj Ek Leadkar Kidi Hado, Ek Niagar Kidi Hado, Donu Patil.
+
+ceji:
+  Mm.
+
+Raj:
+  Um, the thing is, uh, documents uploaded.
+
+Piyush:
+  Acha, how to delete Kardo?
+
+Raj:
+  Yes.
+  And.
+
+Piyush:
+  List me checkar le gwari.
+
+Raj:
+  Six 11.
+
+Piyush:
+  Who?
+
+Raj:
+  Six 097.
+
+Piyush:
+  Raj, I might have to drop off my ticket, but you continue ticket. Team, please.
+
+ceji:
+  Piyush, one, one thing I would you tech Alert Group, will you please add me and Tejas into it?
+
+Raj:
+  I said that.
+
+Piyush:
+  Yeah, I'll just do it right away. You are on the call.
+  Have you got down?
+  Groups.
+
+ceji:
+  Thank you.
+
+Piyush:
+  Tech Alert Notifications, Anna.
+
+Raj:
+  Big Alert.
+  At the rate QD simulation.
+  Are you?
+  Pick Alert Notifications.
+
+Piyush:
+  Notifications.
+  Yeah.
+
+Raj:
+  Hello.
+
+Piyush:
+  Yeah, tech alert sort of team team login tech alert tech AI automation at here tech alert Notifications for team login Samarth Navpreet and Piyush - that's all.
+
+Raj:
+  Yes.
+  Take Alert Notifications, man.
+
+Piyush:
+  Groups in Raj.
+  Groups.
+  Hello, back to the owners.
+
+Raj:
+  This is the old instance.
+
+Piyush:
+  members on a ticket, yeah, members. Tiga makes sense. I'll just do that.
+  Sage me.
+  Xbox.
+
+ceji:
+  The.
+
+Piyush:
+  Yep, I have added you guys there. I'll just send a test e-mail as well, friends, okay?
+  So, you just test once if you get the e-mail, OK?
+
+Raj:
+  Yes, anyways, I am going to upload the document, so they will be receiving the e-mail.
+
+Piyush:
+  Well, actually sent an e-mail on the test this thing, so ceji, you might get an e-mail, OK?
+
+ceji:
+  Yeah, yeah, I got it. Task F.Y.I. is it C.G. plus C.G. I got it. Yeah, OK. Thank you.
+
+Piyush:
+  Yeah, yeah.
+  Yeah, yeah, okay, perfect. Okay, cool. So, I'll drop off Raj recording, you know, share the link with me, okay, like the downloadable permissions and all, and then upload the documents in the group itself, okay, so that it's easy for them to, you know, refer to it later.
+
+Raj:
+  Mm.
+  Yes, yes.
+  Yes, yes, OK. Thank you.
+
+Piyush:
+  Thank you. Bye.
+
+ceji:
+  But, but...
+
+Raj:
+  So, we can continue.
+
+ceji:
+  Yeah, take care. I accessed, I set up profile, so I can access this job link, Dani. Take care.
+
+Raj:
+  So, from...
+  Okay.
+  Mhm.
+  So, what we can do?
+  I picked one file, I guess, 679 right? Let me cheque this.
+  Yeah.
+  Six, zero, 9, 7, sorry.
+  Yeah, the third number, so...
+
+ceji:
+  OK.
+
+Raj:
+  I have downloaded it on.
+  Welcome.
+
+ceji:
+  It's him name is Matt issue, is it?
+
+Raj:
+  So, after, after, after you, after you download, right, maybe you know, as a zip file PDF, so you don't need to worry about that, zip file directly drop the system, it will capture it.
+
+ceji:
+  Mhm.
+  Mhm.
+  Mhm.
+
+Raj:
+  It will automatically unzip it, right, and send the required files to S3. OK, so let me.
+
+ceji:
+  Okay.
+  Okay.
+
+Raj:
+  Create a folder.
+  Yeah, LCP report data, may I have a folder, case ID, case name, name should be case ID, OK?
+
+ceji:
+  Mm.
+  Thank you.
+
+Raj:
+  Nothing else, 6, zero, 7.
+  Very much.
+
+ceji:
+  6097 Rhonda Ritchie.
+
+Raj:
+  Pause.
+  In Mali.
+  I have a call since in 95 there.
+
+ceji:
+  Nick on it.
+  Omit 6095.
+
+Raj:
+  Ohh.
+  Ohh.
+  Sorry, documents are not entirely uploaded.
+  Suppose, let me delete it, OK?
+
+ceji:
+  Big.
+  From 6095 Kannan.
+
+Raj:
+  I have deleted it from here.
+  I've deleted from both the both the places, treat it as a newer one, L.C.P. report data page.
+
+ceji:
+  Yeah, OK.
+
+Raj:
+  I have a folder, but I guess, yes.
+
+ceji:
+  Okay.
+
+Raj:
+  Tell me in my heart of V. Dipali.
+
+ceji:
+  You.
+  Just cheque if it is empty also.
+
+Raj:
+  Folder, sorry, sorry, sorry, folder, delete media folder already created.
+
+ceji:
+  Thank you.
+
+Raj:
+  Okay, yeah, 6095 I'll create a new folder.
+
+ceji:
+  Remove.
+  Okay.
+
+Raj:
+  Folder create shortcut folder.
+
+ceji:
+  Okay.
+
+Raj:
+  You can search here folder will come on the top.
+  You can drag-drop column in it, and drag-drop column.
+
+ceji:
+  Okay.
+  Mhm.
+  Okay.
+
+Raj:
+  Yeah, that's it, yeah, yeah, he must have processed from our file approved.
+  We can, we have to do Sky, you can see all me uploaded here.
+
+ceji:
+  Okay.
+
+Raj:
+  Do a minute, Kubad, Mirza Gagan.
+
+ceji:
+  Case files ready, one file processed.
+
+Raj:
+  Okay.
+  I think ops team we know.
+
+ceji:
+  Uplaud by Vinay Bharata.
+
+Raj:
+  Yes.
+
+ceji:
+  6105.
+
+Raj:
+  Yes.
+
+ceji:
+  Six one.
+
+Raj:
+  But if you see number of pages is 0, I think only images uploaded here.
+  Take care.
+
+ceji:
+  No, no, no.
+
+Raj:
+  I think.
+
+ceji:
+  The they go ahead, don't know.
+
+Raj:
+  Yeah.
+
+ceji:
+  There are two files, but both pages zero.
+
+Raj:
+  Alright.
+  Yes, yes, how many LCP processing? I suppose if you capture any image for a car accident, right?
+
+ceji:
+  Mhm.
+
+Raj:
+  Relevant documents name will be right.
+
+ceji:
+  Okay.
+
+Raj:
+  Images, right, and photo upload again.
+
+ceji:
+  Mhm.
+  Oh.
+
+Raj:
+  Yes, exactly. So images.
+
+ceji:
+  Mm.
+  OK, take care.
+
+Raj:
+  We are only considering the PDFs.
+
+ceji:
+  Hmm.
+  But I think sorry, document my images, but then I am happy for, like, if the team wants to.
+  Refer to it.
+
+Raj:
+  Images, images, files, images, images, page conversion.
+
+ceji:
+  Mmh.
+  Okay.
+  Ohh, what's KB?
+  OK, not.
+
+Raj:
+  File, sorry, lying.
+
+ceji:
+  Yeah.
+
+Raj:
+  Now, I got up the call, yeah, just 6095 key e-mail, Padhi Yogi, take care, we turn 292 pages and speed list then.
+
+ceji:
+  Mm.
+  Okay.
+
+Raj:
+  OK, then we can trigger this case after receiving this e-mail, we need to trigger address.
+
+ceji:
+  Yeah.
+
+Raj:
+  Skip.
+
+ceji:
+  How will we know if the it's all uploaded?
+  I had this doubt last time also.
+
+Raj:
+  Um...
+  And then.
+  Initially, yeah.
+  Gaps right? Suppose agara up aaj upload apne aaj upload here go. e-mail I gave me. Kal upload here e-mail ID consolidated e-mail.
+
+ceji:
+  Mm-hmm.
+  Mm.
+
+Raj:
+  Like, possibly, you know, right? Suppose, suppose, for example, and a 60, sorry, sorry, go ahead.
+
+ceji:
+  Yeah.
+  No, what I'm asking is, it's all uploaded on their side, or are they waiting for any other? I think that's it.
+  We don't need to wait for that confirmation key, which file missing, pending, which B.
+
+Raj:
+  The thing is...
+  Nate.
+  No, no, we do not need to wait. Suppose agar zip file hamari do GB, so do GB me time logging on me, right? That's when it will accept that uploadable, so but system as I designed for sure, but again suppose gap hoga, suppose document upload.
+
+ceji:
+  Tech.
+  Admin.
+  Mm.
+  Ohh.
+  Training.
+  Mmh.
+  Mm.
+
+Raj:
+  Karl document upload game, so amit doh e-mail Sanjay Raj Bihangi Kal Bihangi going forward, Kabhi Bina, additional record after the patient key, right?
+
+ceji:
+  The.
+  Correct.
+  Mmh.
+  Okay.
+
+Raj:
+  Multiple emails are clear, but suppose at a time document uploaded.
+
+ceji:
+  Yeah, got it.
+
+Raj:
+  Time, okay.
+
+ceji:
+  Okay.
+
+Raj:
+  We can, yes, so a document upload, we can trigger against.
+
+ceji:
+  Yeah.
+
+Raj:
+  Is is my is my code out again?
+
+ceji:
+  No, I don't have, they says you want to, you can also unmute, they just ask any questions, fine.
+
+Raj:
+  Yep.
+
+Tejas:
+  Ohh.
+  No, all OK, but uh, uh, Raj.
+
+Raj:
+  Ahh, man, my document, yeah, yeah, sorry.
+  And I'll share on the e-mail.
+  Manage case generation guide and my documents based on that, take document prepare Padhi detail, sorry links present.
+
+Tejas:
+  Armatla Babi.
+
+Raj:
+  Uh-huh.
+
+Tejas:
+  Kitne I.D. Matlab, Matlab, Jo Piyushne Rejagunke upload karne.
+
+ceji:
+  OK.
+
+Raj:
+  Upload, cheque again, it's.
+
+ceji:
+  Vinay.
+
+Tejas:
+  What's wrong?
+  Ohh.
+
+Raj:
+  The total pages is 1.
+  Is TMS.
+
+Tejas:
+  Ohh.
+
+ceji:
+  Okay.
+
+Raj:
+  Open e-mail.
+  A guaranteed document.
+  They would just eat from the bed.
+
+ceji:
+  I'll do, I'll do what Tejas you want to do.
+
+Raj:
+  Okay.
+
+Tejas:
+  How means uh, cases?
+
+ceji:
+  Ohh, correct. Let's do that. I checked like up till the 7th.
+
+Raj:
+  We can, we can, we can search.
+
+ceji:
+  Go ahead, Tejas, you 6130 upload.
+  You can share your screen.
+
+Tejas:
+  Anshul.
+
+ceji:
+  6130.
+
+Raj:
+  613.
+
+Tejas:
+  How much level will look if it probably like manage?
+
+Raj:
+  Make me not an alarm.
+  Go to search.
+
+ceji:
+  Maria Alvarado.
+
+Raj:
+  Yes, ma'am. SharePoint.
+
+ceji:
+  Do you have me a billing dollar?
+
+Raj:
+  And it's got to work.
+  Records sent to Ghodadra.
+
+ceji:
+  Map share Kartik screen.
+
+Raj:
+  Hi, yes, yes, yes.
+
+ceji:
+  Ah, oh, it must be the access issue. Oh, shoot, okay, okay. Nate, yeah, happy.
+
+Raj:
+  Access, name, AI, AI, tech team, this is, link documents actually link.
+
+ceji:
+  Yeah, I got it, yeah, huh?
+  A job here, right?
+
+Raj:
+  Ah, they a document search up directly. Yeah, yeah, uploading a document, document uploaded with me.
+
+ceji:
+  Yeah, I'm here. I clicked.
+  I don't have access, that's why.
+
+Raj:
+  You are logged in with ceji, right? So...
+
+ceji:
+  This one is ceji and this one is the AI one.
+
+Raj:
+  All right.
+
+ceji:
+  Yeah, yeah, and a link same link here.
+
+Raj:
+  Um...
+
+ceji:
+  Do you have enough? My name Maria Alvarado could researched you.
+
+Raj:
+  LCP report data MSP team data and document uploaded.
+
+ceji:
+  Upload Karen and he can come.
+
+Raj:
+  Hmm, I got up left, left side major pane, documents.
+
+ceji:
+  Oh.
+
+Raj:
+  Yeah, I'm searching.
+
+ceji:
+  Yeah, be Maria.
+
+Raj:
+  Yes, yes.
+
+ceji:
+  When in the gala documents.
+  Where are you?
+
+Raj:
+  But then.
+  I got.
+
+ceji:
+  I did, Ghodadra.
+
+Tejas:
+  Where is my open?
+
+ceji:
+  Go ahead, Tejas.
+
+Tejas:
+  The image.
+
+ceji:
+  Yeah, but you can go ahead, Tejas.
+
+Tejas:
+  Okay.
+  My screen is visible.
+
+ceji:
+  Yeah.
+
+Tejas:
+  Okay.
+  So, we could download that new Raj, right?
+
+Raj:
+  Ohh, sorry, I am, I am speaking on mute, is this folder means 100 files, right?
+
+ceji:
+  Mmh.
+
+Raj:
+  So, instead of downloading each and every file, folder download.
+
+Tejas:
+  Okay.
+
+ceji:
+  Okay.
+
+Raj:
+  Huh, so app directly is not loadable, right?
+  PDF, so you can ignore, only focus on the folder, J BM, CB, case for search, take folder in medical reports present.
+
+ceji:
+  Mm.
+
+Raj:
+  Okay.
+
+Tejas:
+  But look, holder down.
+
+ceji:
+  Okay.
+
+Raj:
+  You can delete delete this particular SharePoint, say many locals say delete.
+
+Tejas:
+  Acha, otikar Lien.
+  Okay, okay.
+
+Raj:
+  Mm.
+
+ceji:
+  Take.
+
+Raj:
+  Create a folder.
+  A5 equal 6130.
+
+Tejas:
+  6130.
+
+Raj:
+  Right.
+  Already present have.
+
+Tejas:
+  Yeah.
+
+ceji:
+  Yeah.
+
+Raj:
+  No, no, no, yeah, yeah, yeah, yeah.
+
+ceji:
+  But.
+
+Raj:
+  So, calling on.
+  Just gonna delete follow.
+  And then.
+  Six 13.
+
+Tejas:
+  You will later the folder.
+  Soon.
+
+Raj:
+  OneDrive and so correct, correct patient data upload.
+
+ceji:
+  Oh, okay.
+
+Raj:
+  That's it.
+
+ceji:
+  Okay.
+
+Raj:
+  Like, after downloading, we can, what?
+  Rename it.
+
+Tejas:
+  We have to download it.
+
+ceji:
+  Download OneDrive.
+
+Raj:
+  Yes, I got up SharePoint, she downloaded.
+
+ceji:
+  Um...
+  I tell.
+  But you the download your completed medical records, Joanna. I think you mean zip file.
+
+Raj:
+  PDF download individual files download the same name, but I got a job is zip format downloading OneDrive OneDrive named over.
+
+ceji:
+  Take care.
+  Ohh, okay, okay, got it, got it, yeah.
+
+Raj:
+  So, uploaded the account.
+
+Tejas:
+  I love you.
+
+Raj:
+  Okay.
+
+Tejas:
+  Oh, God, you.
+
+Raj:
+  Okay.
+  We will receive the e-mail in two to three nights.
+
+Tejas:
+  Okay.
+
+Raj:
+  Hi, yes.
+
+Tejas:
+  Luke.
+
+Raj:
+  But, uh, you can cheque once that we're already present.
+
+Tejas:
+  Okay, okay.
+
+ceji:
+  One page.
+
+Raj:
+  1.
+  Sing.
+
+ceji:
+  Gagan.
+
+Raj:
+  Mm.
+  I'm not gonna be able to get now. That's funny. Are they gonna take a comment or you can?
+
+Tejas:
+  Okay, there are 13 points in.
+  Okay, okay, Raj.
+
+Raj:
+  So, what said you can do in here?
+  Okay.
+  Document LCP report folder page accurate document present instead of searching on UI.
+
+ceji:
+  Yeah.
+
+Raj:
+  So, should I share S3 correct as well?
+
+ceji:
+  Do you remember?
+
+Raj:
+  Chair.
+
+ceji:
+  I don't recall, but medical experts.
+
+Raj:
+  Uhh, and...
+
+ceji:
+  Hello, Linda.
+
+Raj:
+  I guess.
+
+ceji:
+  Ohh.
+  Ohh, it's 8 minute: 6097 documents here, you said, no?
+
+Raj:
+  At the kalesh.
+  Mm.
+
+ceji:
+  Correct document ke folder may search.
+
+Raj:
+  Yeah.
+  On the document, we can share it.
+
+ceji:
+  But, OK, I got it up now, but let me cheque here, Kannan.
+  Rhonda, Joe, Richie, I'll just share my screen, one second, Tejas.
+
+Raj:
+  Yep, yep.
+
+ceji:
+  specialist MTLCPG link and basically it was came in. We search for the files in the documents, right?
+
+Raj:
+  Mhm.
+
+ceji:
+  Yeah.
+  You have 60.
+  Nine 7.
+  Just gonna hear you, I mean.
+
+Raj:
+  Do I preny?
+
+ceji:
+  Huh?
+
+Raj:
+  8 minute, 8 minute, my date, now I click 8 button, take 097, right?
+
+ceji:
+  Thank you.
+
+Raj:
+  I get loaded, is the document.
+
+ceji:
+  I thought you said Rhonda Ritchie Kahe, you said when you were doing.
+
+Raj:
+  Uh, I, I, I, I, I miss uh, understood it.
+
+ceji:
+  Adiatic.
+  Huh, take it, no problem. That is 6095 Jata.
+
+Raj:
+  Yeah, again, can you search with case ID as in 097?
+
+ceji:
+  6095 Hannah.
+  Yeah, be in an ad.
+
+Raj:
+  Are you?
+
+ceji:
+  I think I did.
+  Okay.
+  6095.
+  Okay, 6095. So I gotta, I'll be happy taking it to 6095 who got it.
+  Refresh 6120
+  Something weird.
+
+Raj:
+  6120.
+
+ceji:
+  I don't know what I did.
+
+Tejas:
+  How?
+
+ceji:
+  I put you like it.
+
+Tejas:
+  You are in the present.
+
+ceji:
+  Oh, okay, okay. I don't know from where I got it.
+  OCR reports.
+
+Raj:
+  Yeah, already fixed. No, no, don't change the link.
+
+ceji:
+  Aliva.
+
+Raj:
+  So, Gabby, and with that pair, the issue here, so yeah, probably.
+
+ceji:
+  Okay, okay.
+  Cool ticket to 6095 car.
+
+Raj:
+  Five documents already presented in one page report.
+
+ceji:
+  What do you mean?
+
+Raj:
+  Exact other document present an input as three is your.
+
+ceji:
+  What?
+  95.
+  Go to.
+
+Raj:
+  What is the grounded?
+
+ceji:
+  Uh, I know you told me, where is that?
+
+Raj:
+  Yeah.
+
+ceji:
+  Access to Tom, which the time?
+
+Raj:
+  All.
+  User ID.
+
+ceji:
+  Oh, sure.
+
+Raj:
+  Mm.
+  Yeah, my, you know, final little CP report bucket, yeah, we can.
+
+ceji:
+  Mm.
+
+Raj:
+  My billing share.
+  Enter.
+
+ceji:
+  Thank you.
+
+Raj:
+  Yeah, Padhi, you know, present.
+
+ceji:
+  Okay.
+
+Raj:
+  No, only trigger in kalesh.
+  So, up.
+  Simplify document search.
+
+ceji:
+  Mm.
+
+Raj:
+  Pipeline failure.
+  See
+  Just say, you know, in a not knowledge error, I think.
+  Aaj Subhame 141 to 6177 right so on final recipe report 6177.
+
+ceji:
+  No, no, okay.
+
+Raj:
+  Backend issue.
+
+ceji:
+  Mhm.
+  Take care.
+
+Raj:
+  Yes.
+
+ceji:
+  SharePoint is what we just saw. We use AI tech team and we take out. Got it.
+
+Raj:
+  On account.
+  No, I will share my account again.
+
+ceji:
+  Ohh.
+
+Raj:
+  And names as well, my document.
+
+ceji:
+  Okay, thank you so much.
+
+Raj:
+  With all the lungs.
+  And this was it, or we should have, we are going to set up, probably, that's it.
+
+ceji:
+  Ohh.
+  Alert.
+
+Raj:
+  So, yeah, 13, 13, 16, I don't know, 13.
+
+Tejas:
+  Thirteen 30.
+
+Raj:
+  It triggered already, Nollie, yeah, the first may go.
+  It can generate one moment.
+  It's cool. We can skip. Take care.
+
+ceji:
+  Yeah, I checked, I can skip right hide and take.
+
+Raj:
+  Um, that's my own.
+  Let me cheque all the response.
+  60903 files.
+
+ceji:
+  The big page, I think, yeah, one page.
+
+Raj:
+  Gagan.
+  6090 search for engine.
+  Does they have it presented?
+  Big an input folder.
+  Yeah, to present any of your medical files, so we will trigger this report.
+
+ceji:
+  But 6090 car.
+
+Raj:
+  Mhm.
+
+ceji:
+  Ek PGN, I silly time out to get.
+
+Raj:
+  Yes, 6090 message. Did your documents, Anna? Gagan document search.
+
+ceji:
+  Thank you.
+
+Raj:
+  Ohh, yeah, I'll cheque the report data.
+
+ceji:
+  Okay.
+  Mhm.
+
+Raj:
+  So, this is medical files.
+
+Tejas:
+  See.
+
+ceji:
+  Not the one page, one page is still.
+
+Raj:
+  He he automatically.
+  Yeah, it's new one page, Java report trigger card card, do you know it pages now folder Gunja original number of pages presented?
+
+ceji:
+  Okay.
+
+Raj:
+  Currently, on the pages on the folder.
+
+ceji:
+  One page, so one page at the be we can trigger it.
+
+Raj:
+  Ohh.
+
+ceji:
+  I'll take it.
+
+Raj:
+  One page, but suppose pages one page, so just you go to S3 and search for this particular case ID or input folder.
+
+ceji:
+  Mm.
+  Mm.
+  Thank you.
+
+Raj:
+  A document here, so we will trigger.
+
+ceji:
+  Okay, take and.
+
+Raj:
+  The respective pages are generated name.
+
+ceji:
+  Alert.
+
+Raj:
+  We will generate generate the report after checking on S3.
+  Again.
+
+ceji:
+  You can, are you doing? Yeah, I got that. Did you be upload current? Should we be generating for those also 6105 list meaning?
+
+Raj:
+  6105.
+
+ceji:
+  Joanna, Borata, Bi Karani, Madam.
+
+Raj:
+  We won't trigger, but trigger.
+
+ceji:
+  Hey, Kannan, take care.
+  Untouch again.
+
+Raj:
+  Maybe I think it's my RB cases only, but for now we will be triggering these 13 only.
+  Yeah, so yes, 66090 the matter, yeah, if I not have problem, that's pretty good.
+
+ceji:
+  Be careful.
+  Hey, Gagan.
+
+Raj:
+  So, several nights.
+
+ceji:
+  Uh, you want to do, we can just print it, definitely, so I will ask.
+
+Raj:
+  Hmm.
+
+ceji:
+  With...
+
+Raj:
+  You, you can pick ceji first seven and last six, pull the stages will pick.
+
+ceji:
+  Yeah, I actually already looked through the first set.
+
+Raj:
+  Uh, the then the next one, then this one, we got this one, TKS, like, uh.
+
+ceji:
+  Already.
+  Yeah.
+
+Tejas:
+  Singh.
+  Nature will make a little.
+
+ceji:
+  See, Gagan.
+
+Tejas:
+  Okay.
+
+Raj:
+  Figure this 16090 is the files that.
+
+ceji:
+  Yeah, I'll do that.
+  Gagan.
+
+Raj:
+  Six, 9, 7.
+
+Tejas:
+  Report present.
+
+Raj:
+  Ahmed.
+  Exactly.
+
+Tejas:
+  OK, our report present.
+  Okay, okay.
+  I do skeletal.
+
+Raj:
+  Yeah, yeah, less than I have, but report generated already.
+
+Tejas:
+  Okay.
+
+Raj:
+  Contents that I think ops team will do, but he report generate over you.
+
+Tejas:
+  Okay.
+  S3 may be presented, upload document.
+
+Raj:
+  Yes, SharePoint document search. We will upload here. So you can tell ceji ceji will message knowledge.
+
+Tejas:
+  Okay.
+  Okay.
+  Upload the.
+  Okay, take.
+
+Raj:
+  No.
+
+ceji:
+  Happy Padhi Gagan, then consolidate Kartik.
+
+Tejas:
+  You.
+
+Raj:
+  Yes.
+
+ceji:
+  Gagan.
+  Is he chat? Is his team the chat? All you want to put it in the group for everybody to see is also OK.
+
+Tejas:
+  Okay.
+  Hey, Gagan.
+
+ceji:
+  Take it home.
+  Okay.
+
+Raj:
+  Yeah, 6097 document, you can message volume ceji.
+
+ceji:
+  Move minute check, yeah, that's 6097K.
+  One page, one page, so I can trigger them.
+
+Raj:
+  Thanks.
+  Uh, you can, no, no, you can press search on S3.
+
+ceji:
+  What?
+  I forgot where to.
+
+Raj:
+  Hey, can you?
+
+ceji:
+  Yes.
+  Final LCP report. Let me see. I think I have if I have saved it.
+  Hi, I am Raj, user underscore Raj.
+
+Raj:
+  Hunch.
+  OK, they just say my link open, but not they cannot have any access.
+
+ceji:
+  I am in now. I am in for the S3.
+
+Raj:
+  Okay, okay.
+
+Tejas:
+  Username password.
+
+Raj:
+  Hey Cortana, has taken down the recognised bucket access app.
+
+Tejas:
+  Oh.
+
+Raj:
+  6091 also you can trigger ceji.
+
+ceji:
+  Yeah, take care, wait, I had actually take a house exam, maybe one page, so I was thinking one page documents, coffee, whatever, thank you.
+
+Raj:
+  4th 4th number one.
+  Ahmed.
+  Nine, 9, 9, uh, because document uploaded one page, not necessarily document uploaded name, so pages are the file at least trigger trigger.
+
+ceji:
+  Yeah, teach.
+  Mm.
+  Mhm.
+  Cheque out again. OK.
+  Ohh, that was a bit dessert.
+
+Raj:
+  Ohh, I think 1015 minutes refresh.
+
+ceji:
+  Huh.
+  And I got it. It's okay.
+
+Raj:
+  Yeah, structure it, yeah, just in a 342.
+
+ceji:
+  Yeah, yeah, what are you walking in thinking of? What were you about to say? Sorry.
+
+Raj:
+  Mm.
+  No, no, suppose pages, yeah, pages folder already.
+
+ceji:
+  Ohh, and it.
+  Um...
+  Okay.
+
+Raj:
+  A particular value, and I see you see folders at this leave all the pages missing different other pages folder.
+
+ceji:
+  Okay.
+  Got it, got it, got it. Thank you.
+
+Raj:
+  And.
+
+Tejas:
+  Raj.
+
+Raj:
+  Thank you, OK. Bye.
+  So, after we got takes in a score, ping me if any, in case of any doubts.
+
+Tejas:
+  Oakland.
+
+ceji:
+  Thank you so much, Lien.
+
+Raj:
+  Mm.
+  I'll be sharing the documents. OK, probably.
+
+ceji:
+  Yeah.
+
+Tejas:
+  Picked.
+
+Raj:
+  That would be an agree. Expert.
+
+Tejas:
+  Name.
+
+Raj:
+  Okay.
+
+ceji:
+  No, you mean health is clear.
+
+Raj:
+  Just one more point: Suppose as three present only a file or SharePoint particular folder, we have a file presented, so do.
+  Uh...
+  Do this thing, open this folder, TK.
+  Suppose folder 4243 download this, delete this, reupload it.
+
+ceji:
+  Mm.
+  I tell.
+
+Tejas:
+  Not me.
+
+ceji:
+  OK, OK, download and read. OK, some trigger hasn't worked right, which takes the...
+
+Raj:
+  That's pretty, Padhi.
+
+Tejas:
+  Team.
+
+Raj:
+  Delete.
+  Exactly, exactly, so maybe Singh, but both rare case, so or this particular folder present here, just download it.
+  Okay, and re-upload in that particular case ID.
+
+ceji:
+  Big.
+
+Raj:
+  Yes.
+  Okay.
+
+ceji:
+  All right, Raj. Thank you so much.
+
+Raj:
+  Thank you.
+
+ceji:
+  Yep. Bye.
+
+Tejas:
+  Thank you, Raj.
+
+Raj:
+  Bye, bye.
+
+Tejas:
+  But.
+
+ceji:
+  Bye.
