@@ -1,0 +1,3311 @@
+Transcript: UI Testing-20260516_190606-Meeting Recording.mp4
+Generated: 2026-05-16 15:26:10 UTC
+============================================================
+
+Kartik:
+  OK, so a lot of bug fixed and a lot are still left.
+  I would say.
+
+Gagan:
+  I...
+
+kalesh Patil:
+  Merit does other work, Kartik. I think it was session 9.
+
+Kartik:
+  Let me.
+  Yep, so mostly section 9 issues. We are still working on those because we have little idea on how that is properly implemented. Not saying that we shouldn't, we should, we should not.
+
+Navpreet Singh:
+  Section 9.
+
+Gagan:
+  Okay.
+  Three.
+  Two.
+  Very super.
+
+Navpreet Singh:
+  Section 9 issues - is that not the case?
+  Hey, Kartik.
+  Summary section issues.
+
+Kartik:
+  Okay, I think the testers are the section 9 issues fixed. Can you please comment on that?
+
+Navpreet Singh:
+  Gagan.
+
+Gagan:
+  Got pawan.
+  Tejas.
+
+Navpreet Singh:
+  Yehva gaan vahi kya Tejas Padhi Gagan kalesh levi Gagan.
+
+Gagan:
+  No, actually, no, no, actually, we'll split a lot of test cases with Office Arisaday, so some of the section, yeah.
+
+Tejas:
+  What?
+  Did it?
+
+Navpreet Singh:
+  Section 9.
+
+Gagan:
+  They just walk through or something.
+
+Navpreet Singh:
+  I.
+
+Tejas:
+  Ohh, OK, to make bus change algorithm.
+
+Gagan:
+  Excellent.
+
+Tejas:
+  Mhm.
+  Can you hear them?
+
+Navpreet Singh:
+  Mm.
+
+Tejas:
+  Section 9 mein jo subsa Pela Bhakta ye ki ojo costa into ER Khunicha ye go for a chase a proper Iske baad Ek test Eki case IDK Laye to Raishwara Yeh Jhunathan.
+
+Kartik:
+  Hmm.
+
+Tejas:
+  Do it total, total enough.
+
+Navpreet Singh:
+  And.
+
+Tejas:
+  Yeh, show me a new report.
+
+Piyush:
+  It's.
+
+Navpreet Singh:
+  Okay.
+  The latest report unit.
+
+Tejas:
+  The latest report is scale total.
+
+Navpreet Singh:
+  What?
+  Okay.
+  No, you could, this is a big issue, yeah.
+
+Tejas:
+  Single case idea, all good.
+
+Navpreet Singh:
+  Or case ID. Joe Abhi recently generated here.
+
+Tejas:
+  Ahh, yes, Kiya.
+
+Navpreet Singh:
+  Okay.
+
+Tejas:
+  Ohh, see.
+
+Navpreet Singh:
+  But it's still an issue, man. I mean, let's not go directly down to section 9. Let's go one by one.
+  Kartik, let's go one by one, from top to bottom, right? What are the issues that are still pending? We'll go to go from the UI issues, then we'll go into, you know, the issues that we saw in the report. Please, let's not directly down to section 9.
+
+Gagan:
+  Huh.
+
+Kartik:
+  Gagan.
+
+Navpreet Singh:
+  One by one.
+
+Kartik:
+  Okay.
+  Can you give me like...
+  Thirty seconds. I'm almost done raising up yet. It's a...
+
+Navpreet Singh:
+  Okay, Gagan, you tell us.
+
+Gagan:
+  Hmm, share screen, but now Tejas, let's, ohh, ohh, sorry, delay again, exit.
+
+Tejas:
+  Winter divya.
+
+Gagan:
+  Let's go one by one.
+
+Tejas:
+  Yeah.
+  Thanks.
+
+Gagan:
+  You can philtre on the testing status.
+  Fail, blank, hold.
+  Mm.
+  No, no.
+
+Tejas:
+  Good.
+
+Gagan:
+  Many who philtre was error Javier.
+  Hmm, so that's my fail, select curl, blank, select curl, sorry, sorry.
+
+Tejas:
+  Okay.
+
+Gagan:
+  This past Kartik is already like.
+  Password others.
+  Like it, I select.
+  Hmm.
+  Let's go. The first one is...
+
+Tejas:
+  Yeah.
+  First one is.
+  Gagan, go ahead.
+
+Gagan:
+  Yeah, so this one I have to test again. I think in the latest PR they are fixed, but I have seen in three, four, three, two, 4, two, the one we checked usually. I've seen that after the point, the digit which is there on the section 9, for example, there are two.
+  Total in every table right in section 9, so the digit after point in totals are not matching with the generator doc of the word.
+  And also the comma is misplaced in the doc.
+  and it is different in the generated report, report and edit.
+  This is 1, take a second, Sanjay, Sanjay.
+
+Navpreet Singh:
+  Wait, wait, wait, wait.
+  But what exactly is failing here?
+
+Gagan:
+  You generate a doc here, you generate a doc here, so for example, section 9, my totals are there, right? Or table. Point 01 be difference, but point different values word me or edit me.
+
+Navpreet Singh:
+  Yeah, she's exactly, Sanjay.
+  Mhm.
+  Mm.
+
+Gagan:
+  I have to test again, but that was there. Apart from that, comma placement editor or word different for the amount.
+
+Navpreet Singh:
+  Okay.
+
+Gagan:
+  Comma placement, just a U.S. placement, India placement, right? Comma, what don't know?
+
+Navpreet Singh:
+  Hmm, that, well, we got another.
+
+Kartik:
+  Yes, I have already implemented a push for that, a fix for that, but again, that needs to be tested. I have tested it against really fix IDs. All is good there, yeah.
+
+Navpreet Singh:
+  Okay.
+  Of course, of course.
+
+Gagan:
+  Two.
+
+Navpreet Singh:
+  Take it, take it.
+
+Gagan:
+  Kartik, please. Is my commands of a testing status when I fail like a mentioned test again, so that I know I have to test it again. Hannah, please.
+
+Kartik:
+  Yeah.
+  OK, got it. Perfect.
+
+Navpreet Singh:
+  Ohh.
+
+Kartik:
+  Yes.
+
+Gagan:
+  Um...
+  But other there is, but I have got this.
+
+Kartik:
+  What?
+
+Gagan:
+  Maybe they just go wrong.
+
+Kartik:
+  Okay.
+
+Tejas:
+  Hello, table of the nine table for.
+
+Navpreet Singh:
+  Hmm.
+
+Tejas:
+  Basically, once every five years, one year.
+
+Navpreet Singh:
+  Once every five year on at Tejas.
+
+Tejas:
+  Expert those steps and expected.
+
+Navpreet Singh:
+  Ohh.
+
+Gagan:
+  Okay.
+  Nini, is my Tejas? Excuse me, but Tejas has many, but how many numeric once every year annually instead of one time to one time per year annually once per year right?
+
+Navpreet Singh:
+  Zerudi.
+  Yeah.
+
+Tejas:
+  Yes.
+  Yes.
+  My badly.
+
+Gagan:
+  One time per year, but once every year, annually, just a test case, Mali.
+  How you do it, Matt?
+
+Tejas:
+  Mm.
+
+Gagan:
+  Ahmed.
+
+Tejas:
+  Okay.
+  Yeah, they fix O2 connection.
+
+Gagan:
+  Ojuga.
+
+Tejas:
+  Mhm.
+
+Gagan:
+  This pair up now, we mentioned Karagana retest album that you have to test this.
+
+Tejas:
+  Okay.
+
+Gagan:
+  Guys, when we are fixing a bug, are we also mentioning that we have to retest that on the sheet? Okay, please. Thank you, Kartik.
+
+Kartik:
+  Good morning.
+  Yeah.
+
+Navpreet Singh:
+  You.
+
+Gagan:
+  Okay.
+  Next one, um, Dipali.
+
+Dipali Mali:
+  Hello, actually, Section 9 table.
+
+Gagan:
+  Gunja.
+
+Dipali Mali:
+  Ohh.
+  So, data, sir.
+
+Tejas:
+  Cable 9 killed for Shah Raj.
+  People in my section.
+
+Gagan:
+  Yeah.
+
+Dipali Mali:
+  Okay, okay, table 9 here, table 6, table 9, Tejas.
+
+Gagan:
+  Go.
+
+Tejas:
+  And.
+
+Gagan:
+  No big.
+
+Navpreet Singh:
+  ****.
+
+Dipali Mali:
+  Can I mention to you?
+
+Gagan:
+  Sorry, sorry guys to interrupt.
+
+Tejas:
+  99.
+
+Gagan:
+  Call up, please.
+
+Navpreet Singh:
+  S.
+
+Tejas:
+  It doesn't have Mali.
+
+Navpreet Singh:
+  Yes.
+
+Gagan:
+  I.
+
+Tejas:
+  No data.
+
+Gagan:
+  Table 9.
+
+Tejas:
+  Oh.
+  Nine.
+
+Gagan:
+  Uh, Dipali is test case where krishna remove Tony Gagan table.
+
+Tejas:
+  Mm.
+
+Gagan:
+  Or should we generate it again?
+
+Tejas:
+  You have to become a legend.
+
+Gagan:
+  Yeah, be here.
+
+Tejas:
+  Ohh, table 9, yeah.
+
+Gagan:
+  Then, then it's then it's an issue.
+
+Tejas:
+  Table Poornae, like in table 9.
+
+Gagan:
+  Or is he?
+
+Tejas:
+  My backy gives everybody.
+
+Navpreet Singh:
+  Is this the same case?
+
+Gagan:
+  No, it says different, different case ID use specific.
+
+Tejas:
+  Paumig.
+
+Navpreet Singh:
+  Shh.
+  Okay.
+
+Tejas:
+  Dipali lock, unlock each night.
+
+Dipali Mali:
+  Yes, Tejas, give me one second, yes.
+
+Tejas:
+  Industry.
+  To much love Dipali.
+
+Dipali Mali:
+  Huh, they just case ID 4740 Nicado or only section 9K 9th table.
+
+Tejas:
+  One C 4.
+
+Dipali Mali:
+  4740
+  Oriski Section 9.
+  The 9th table.
+  Six, 9, three table. G, Sir, to test case. Item or service meta metabolism or complete blur clown count test case Kartik.
+  But love, Jessica, Jessica, on test case birthday.
+  At Tejas Kartik.
+  Without the tax permission, it has.
+  Task, we mentioned task, call it column, we mentioned.
+
+Gagan:
+  Third volume, third volume.
+
+Dipali Mali:
+  Third walla, third column.
+  Start pawan.
+
+Tejas:
+  I love you.
+
+Gagan:
+  Yeah, yeah, yeah, yeah, was, was, was. Sanjay Dipali.
+
+Dipali Mali:
+  CMP or CBC.
+
+Gagan:
+  Kartik, do you want to talk more about it regarding this one specific?
+
+Kartik:
+  Yep, hey issue number was the task list number 009 right?
+
+Dipali Mali:
+  Or.
+
+Gagan:
+  Hanjin.
+
+Dipali Mali:
+  Yes, or task description.
+
+Kartik:
+  Okay, wait a second, let me open. Yeah, there's many missing items. Recheck standard line. Table 9, I did not kind of do it right now. I didn't reach that table 9.
+  I'm still up there.
+
+Gagan:
+  No, no, it's alright. We're just trying to understand what the problem is.
+
+Kartik:
+  Okay, so many you saying that it's it's changed the task. I did not change it though.
+  But open section 31 section 9 table labs. Note which lab item are present, expected, reset bug if only two is missing. So I think in this step we can clearly see, right?
+
+Navpreet Singh:
+  Okay.
+  Kartik, why is it assigned to you, man?
+  Why is it the same to you? Like, why is this your task?
+
+Kartik:
+  Because it was submerged, again, so I didn't think that other people would be able to solve it. I think I have pretty good understanding of how it...
+
+Navpreet Singh:
+  No, but point is key, Nini, you are issue here, you track and see, and it and see, what's the issue here?
+
+Raj:
+  Back in Navpreet.
+
+Kartik:
+  I think it's more of a back-end issue.
+
+Raj:
+  Back on.
+  Also, the thing is, Dipali, just test case, that is just an example. We, the community, the MP or CDC is already present over.
+
+Gagan:
+  Uh, Raj 99 is me like, if only two or three items are available at uh, that means something is missing, so it is mentioned bug if.
+
+Dipali Mali:
+  Yes, yes.
+
+Raj:
+  So.
+  Ahmed.
+
+Dipali Mali:
+  Oh.
+  Islam in FLK.
+
+Gagan:
+  Though that is the right understanding.
+  Sanjay.
+
+Raj:
+  Okay.
+  Yeah, but, like, yes, sir, sorry, specific divya, this is more about, this is backend issue.
+  Back on the order.
+
+Navpreet Singh:
+  Can we?
+  Just put this as an issue on in in the group, right? Let's see if Samarth has done a fix on this, or we are missing out on something, right? It's good for one group.
+  Ghana upsku grouped allokies.
+
+Gagan:
+  Okay.
+
+Navpreet Singh:
+  Mm.
+
+Gagan:
+  That's good.
+
+Navpreet Singh:
+  Or, meanwhile, let's go to the next one.
+  Next to number 10, one of those.
+  We need to skip to the game.
+
+Tejas:
+  Skip.
+
+Navpreet Singh:
+  Hey, Cortana.
+  Next, but again.
+
+Tejas:
+  Which?
+  Yeah, and we, and we, I got past Dipali in the past.
+
+Navpreet Singh:
+  Yeah, Dipali, MVA, MVI.
+  Accident, coincident, all the Ahmed, right?
+
+Dipali Mali:
+  Sir, maine yeh fail kiti matta maine ski comin pe Adbhi ki yada ki jo mara section 2 me chronological synopsis se usme wo accidenti aarada.
+
+Navpreet Singh:
+  Can you pass your little?
+
+Dipali Mali:
+  Send me any Nikhil.
+
+Navpreet Singh:
+  You pass, Kartik.
+
+Dipali Mali:
+  Sir, Sir, 8 minutes.
+
+Navpreet Singh:
+  Yeah.
+  Yeah.
+  Unbelievable, man. Gagan, dude, are you owning this sheet?
+
+Gagan:
+  Yes, Navpreet, we just had a two hour call. I told everybody to go through again everything. I don't know why it's still happening. Yeah, I'll fix this. Dipali.
+
+Navpreet Singh:
+  So, you guys?
+  Ohh, God, man.
+
+Dipali Mali:
+  GGG Sir.
+  Sirfelta.
+
+Navpreet Singh:
+  Do you have past?
+  It now must be like this line.
+  Are you sure this is failed Dipali? Did you cheque this right now? Gagan, can you cheque this route?
+
+Dipali Mali:
+  Yes, Sir, yes, Sir, I mean, Raj Sir, Poochata, many meeting may be Poochata, Sir, Raj Sir. Yes, yes.
+
+Navpreet Singh:
+  Singh, come to school.
+
+Gagan:
+  Ohh.
+  Chicka, Dipali, they just got there.
+
+Navpreet Singh:
+  Piyush.
+  Bye, Ekar Nikhil, do your Tejas, do your feel queen Gagan to miss ownership, please take the ownership of this, you do these status changes, Sanjay Padhi without kalesh.
+
+Gagan:
+  Take it, they just got it.
+
+kalesh Patil:
+  Hello, hello, hello now.
+
+Gagan:
+  Mhm.
+
+kalesh Patil:
+  Hello, Dipali.
+
+Gagan:
+  Okay.
+
+kalesh Patil:
+  So, when I say developer test, yeh fail queue divya?
+  When I was a case sensitive.
+
+Navpreet Singh:
+  Okay, with Dipali only if you...
+
+Dipali Mali:
+  Hello!
+
+kalesh Patil:
+  Test again, test again.
+
+Dipali Mali:
+  Ha, ticket, ticket, yes, yes.
+  Yes, yes, my Kartik.
+
+Navpreet Singh:
+  Here, I can't believe what what mess are we guys in? You guys cannot test properly by Avi per cheque karukaalika test again.
+  The comment of column and column have a what you need also to look.
+  Test it right now, we'll wait.
+
+Dipali Mali:
+  Hello, Sir. Maine Section 2 may chronological synopsis may check. Yaaro yeh.
+
+Navpreet Singh:
+  Front end.
+  The Team Company.
+  How can you cheque this right? I mean, it should ID happen at a report level and it should happen in the back end.
+
+Dipali Mali:
+  Send me your page.
+
+Navpreet Singh:
+  How is this?
+  Front end.
+
+kalesh Patil:
+  Yeah, report and exported doc play HTML play over that together.
+
+Navpreet Singh:
+  Luke.
+  From 10 people, the only change your user ID back and do not do.
+  Play that thing, take care, as long as it's working, it's fine.
+  test again, don't pass it, let Dipali test on the more cases.
+
+Gagan:
+  Tigger.
+  Sure, Dipali.
+
+Dipali Mali:
+  Jesus.
+
+Gagan:
+  Thank you.
+
+Navpreet Singh:
+  Dipali, you don't put the pass here. Never update the status here. Tejas never update the status here. Ask Gagan to do it.
+
+Gagan:
+  Pick up.
+  Fenil.
+
+Navpreet Singh:
+  Never update the status here, guys. Tell Gagan when he checked earlier number, WhatsApp, Teams, he will take the ownership of this. Anything that is pass or fail, we have we need just one POC there. Let Gagan be that guy.
+  Gagan, if you don't want to do testing, we are fine, but ownership of this sheet should be with you. TKZ next till 10.
+
+Gagan:
+  Yeah, yeah, actually, no, the coffee, sorry, test case is the 100K around, so it's like...
+
+Navpreet Singh:
+  It's okay. I'm sorry, test. They don't look. I'm okay with that. But the ownership that eventually making sure that they're doing it right away, that has to be with one guy, right? So let that be you. Okay.
+
+Gagan:
+  Mhm.
+  Han J.
+  Take it, take it. I'll have like 2 cheques then, uh, in baron coffee.
+
+Navpreet Singh:
+  Medical timelines.
+  Shh.
+  If pass fail testing status empty, development status empty.
+
+Tejas:
+  Please, please, please.
+
+Gagan:
+  Yes, me to is testing 1000 pager one.
+
+Navpreet Singh:
+  Took me and all the development status pending, whatever.
+
+Gagan:
+  Thousand pages.
+
+Navpreet Singh:
+  To pending, it's pending development, and I not started something.
+
+Gagan:
+  Chicken.
+  How to develop in my pending, not on the testing side.
+  The spending, with.
+
+Navpreet Singh:
+  Yes.
+
+Tejas:
+  Mhm.
+  Is ke baad ji joki middle name plus surname overa nail che kiya tu pe ya baby Sufyan Ahmed birth is IR.
+
+Navpreet Singh:
+  So, still failing, huh?
+
+Tejas:
+  Yes, yes.
+
+Navpreet Singh:
+  If past yourself in Kartik and Tejas.
+
+Tejas:
+  Is there a bit?
+
+Navpreet Singh:
+  Anshul.
+  Shh.
+  Hindi Kartik baking.
+
+Kartik:
+  Yeah, the zero, yeah, the 016, yep. So the thing is that I did a...
+  Like I implemented it exactly like we discussed.
+  I ran 15 tests on it, right? I picked like 15 random names and ran it through the pipeline. And on local.
+  It was working, but the split patient name function on dev, it is not working properly, I don't.
+
+Navpreet Singh:
+  Mm.
+
+Kartik:
+  I don't know why, but I'm pretty confident that I'm super, super close to the fix because.
+  Like, honestly, uh...
+  I am pretty close.
+  I think I can close it in the next 5, 10 minutes.
+  Yeah.
+
+Navpreet Singh:
+  Okay, development with all those queers key under development.
+
+Tejas:
+  The other thing.
+
+Navpreet Singh:
+  Take it, pending is fine, pending is fine.
+
+Gagan:
+  Take it.
+
+Navpreet Singh:
+  Stick as in Excel term.
+  Pause, feel kya hain.
+
+Gagan:
+  Steps are pending, development status may pending or the many steps may pending.
+
+Tejas:
+  Yeah.
+
+Navpreet Singh:
+  Pending queue interview section not coming out correctly pending.
+
+Kartik:
+  No, no, no, no idea from my side. No, just having been pending on development. I like needs, I need clarity on this a bit more, but there were so many other tasks I didn't get the chance to ask for the clarity on this.
+  But I don't understand what to do.
+
+Navpreet Singh:
+  Pending, this is not required, actually.
+  August is done.
+
+Tejas:
+  Give min dekha to many case IDK cheque kya to apna jo specialty ka jo follow me wo left align, left align.
+
+Navpreet Singh:
+  ****.
+  I will be left alone now.
+
+Tejas:
+  Ahmed.
+
+Raj:
+  No, no, no, no, centre line, no Gagan.
+
+Tejas:
+  Yeah.
+  Padhi.
+
+Raj:
+  But we made one problem, like one error there, they Kannan on the back.
+  We call on central line that DA.
+  So...
+
+Gagan:
+  Hey, OK.
+
+Raj:
+  Edit sections.
+
+Navpreet Singh:
+  I.
+
+Raj:
+  Word export will be fixed to our liquidity.
+
+Navpreet Singh:
+  Yes.
+
+Raj:
+  No.
+
+Tejas:
+  Ohh, to me.
+  Sub center.
+
+Raj:
+  For a matter, pick up now, Kartik, but edit sections.
+
+Navpreet Singh:
+  Do coffee, Marwa do we have formatting here? This is terrible, right?
+
+Raj:
+  Yeah.
+
+Navpreet Singh:
+  Go back, go back.
+
+Kartik:
+  Hello?
+
+Navpreet Singh:
+  Kartik, look at the formatting.
+
+Kartik:
+  Yeah, nice.
+
+Navpreet Singh:
+  not here in the downloaded report and via the provider still capital.
+
+Kartik:
+  Provider all, yeah, the all caps. So there was a PR raised by someone to fix the all caps formatter, all caps provider. I think, was it kalesh? Was it you?
+
+Navpreet Singh:
+  But...
+  Shh.
+
+kalesh Patil:
+  Caps provider problem.
+
+Kartik:
+  It should be in all caps, or it shouldn't be in all caps.
+
+Navpreet Singh:
+  It should be in all caps, Kartik.
+
+kalesh Patil:
+  It should be on the cabs.
+
+Navpreet Singh:
+  Liz, are you sure?
+
+kalesh Patil:
+  Yes, provider caller, yeah.
+
+Navpreet Singh:
+  Wait, wait, wait, wait, ground truth, please.
+  With GT Kohli Gagan, can you take over the screen, please? Or, if that's OK with you, man, just take over the screen here, just can you take over the screen, please?
+
+Gagan:
+  Sanjay Ghodadra.
+
+Navpreet Singh:
+  Should provider be in all caps?
+
+Gagan:
+  Ground truth from S3, right?
+
+Navpreet Singh:
+  Yep.
+
+Gagan:
+  One second.
+  Show is preny.
+
+Navpreet Singh:
+  Shh.
+
+Gagan:
+  Yes, krishna.
+  Guys, can you tell me the location once?
+
+Navpreet Singh:
+  Raj, location, krishna, do you think that all caps will take?
+
+Raj:
+  I am checking.
+
+krishna:
+  Huh?
+  Maybe.
+  Yuki, I understand, maybe why you mention that?
+  Shoot me your feedback me, Cortana.
+
+Gagan:
+  But let's cheque once.
+  I can open IMS Clinic.
+
+krishna:
+  NCP.
+  I'm back.
+
+Gagan:
+  A bucket do 3 again.
+
+krishna:
+  No.
+
+Gagan:
+  SharePoint car location based on.
+
+krishna:
+  LCP.
+
+Dipali Mali:
+  Find a SAP report, right?
+
+Gagan:
+  Final L.C.P. reports trigger, 3, 4, two, 4.
+
+krishna:
+  Final report, yes, yes.
+  Huh.
+
+Raj:
+  I'm in Lego on duty, Padhi.
+
+krishna:
+  Cheeky.
+
+Gagan:
+  They are not in all caps in this GT.
+
+kalesh Patil:
+  You mean, date column, format my name.
+
+Gagan:
+  But then, Raj gave old GTB. I think Raj can confirm.
+
+Raj:
+  Do you belong in the game?
+
+Gagan:
+  Gagan.
+
+Raj:
+  Can you share the option?
+
+kalesh Patil:
+  Date format.
+
+Navpreet Singh:
+  The care provider, kalesh.
+
+kalesh Patil:
+  Ha, but.
+
+Gagan:
+  Exit.
+
+Navpreet Singh:
+  The kind of feedback is not a Raj, you know, sheet Raj with new sheet, exactly what is that feedback?
+
+Raj:
+  Manid Aliye.
+  Meeting my provider call caps.
+  No, never.
+  Calling.
+
+Navpreet Singh:
+  OK, if you are telling us it's all caps, you can go back and cheque once if that is like exactly what they require. If I check, OK, confirm.
+
+Raj:
+  Mm.
+  I, I am on the latest GT, but the provider is in case level.
+
+Navpreet Singh:
+  Yeah.
+
+Raj:
+  Not all games, so...
+  Alright.
+  In GT, it's not all caps.
+
+Navpreet Singh:
+  Raj, can you put that in the group once? Ask them, franco and Ali, exactly.
+
+Raj:
+  Yeah, yeah, man, it will be better.
+
+Navpreet Singh:
+  Sh.
+  If it's all caps, then that's great, then that's implemented, but I don't think so. That should be the case, so we can let's move to the next case, guys. Next test case.
+
+Gagan:
+  Sensitive, one second, not able to zoom up.
+
+Navpreet Singh:
+  Is it pending Dalu or Luke Raj to cheque this?
+  Comments and all the Raj to cheque this.
+
+Gagan:
+  Chicken.
+  Tejas number 18.
+  18 or 22.
+
+Navpreet Singh:
+  The.
+
+Tejas:
+  Yeah, what you got especially do now is connected to us.
+
+Gagan:
+  In a week is with 23 with.
+
+Tejas:
+  Yes.
+  You, you.
+
+Gagan:
+  Is me all caps.
+
+Navpreet Singh:
+  Big tea, AI big.
+
+Tejas:
+  All the caps kill you, uh, or 01 file task.
+
+Gagan:
+  It's not showing one second.
+  Bupaz Kartik Gagan.
+
+Tejas:
+  Nate.
+
+Gagan:
+  This one?
+
+Tejas:
+  One, yes, Dipali post and get the past year.
+
+Dipali Mali:
+  Those are sub caps, sub capital.
+
+Gagan:
+  Mhm.
+  Like you do.
+  Tech.
+  Next one, uh, Tejas fail, Apne Batadia, middle name, last name.
+  Nate.
+
+Tejas:
+  Yes, yes.
+
+Gagan:
+  Left aligned, we also talked about this one.
+
+Navpreet Singh:
+  Left aligned is also not working then, right? We just figured that when each other.
+
+Gagan:
+  Serial Team.
+
+Navpreet Singh:
+  Left line is also fieldless, right?
+
+Gagan:
+  Development status with.
+
+Navpreet Singh:
+  Let's fail, right?
+
+Gagan:
+  Yeah, Tejas failed, right? Do you want me to cheque again?
+
+Tejas:
+  No, you talk really, I love.
+
+Gagan:
+  Hunting and pending.
+
+Navpreet Singh:
+  Hmm, and Mister Mister kalesh, it's a fail, right?
+
+Tejas:
+  Word document.
+
+Navpreet Singh:
+  Hey, kalesh, you feel that you were a test?
+
+Tejas:
+  Ohh, we speak, we speak krishna worker.
+
+Navpreet Singh:
+  Sorry, krishna, you feel a test?
+
+krishna:
+  Yeh joke case IDs Tejas mentioned K 3424 or 4 which to be Yeh Nikhil.
+
+Navpreet Singh:
+  Mm.
+
+Tejas:
+  Portal.
+  Yeah.
+
+Raj:
+  Wait, wait, wait.
+
+krishna:
+  Yes, 3424 ke liye ishuta.
+  3424 and 4203.
+
+Raj:
+  No, no, no, krishna.
+  Make sure.
+
+krishna:
+  Mhm.
+
+Raj:
+  Christmas are in the company.
+
+krishna:
+  Wait a minute.
+
+Tejas:
+  S.
+
+krishna:
+  Jo main abhi jo dekha jo report generatoriye. Jitne bhi tables yamar report me, section 2, section 4, 8 or 9. Sare, jo bhi data tha table ka data wo sub centre line. So kyaaye saiye ya
+
+Navpreet Singh:
+  Vote me out, or...
+
+krishna:
+  What may, what may be your reason?
+
+Navpreet Singh:
+  Ha, Raj, center, left, right, center, okay, or central line, krishna.
+
+Raj:
+  Center, center, center, center.
+  Okay.
+  But see.
+  I'm not sure about the note section; that looks weird when it centre the line, those my centre line.
+
+Navpreet Singh:
+  Yes.
+  Ask this to franco and Nollie right now, you know, and put put this here pending confirmation from Raj.
+
+Raj:
+  Play.
+
+Gagan:
+  Tejas, this is past.
+
+Tejas:
+  Yes, Padhi.
+
+Gagan:
+  Always MD with periods.
+
+Navpreet Singh:
+  It can, it can.
+
+Tejas:
+  Assistant.
+
+Gagan:
+  Anshul.
+
+Navpreet Singh:
+  Sure, we pass him.
+
+Tejas:
+  M dot D dot MD or.
+
+Navpreet Singh:
+  Case.
+
+Tejas:
+  Yes, yes.
+
+Navpreet Singh:
+  She can, so let's move with it.
+
+Gagan:
+  In Dipali.
+
+Dipali Mali:
+  Pass.
+
+Gagan:
+  Remove all.
+
+Navpreet Singh:
+  Yeah, hey, what is this? Put notes, sorry, reports, Dipali for sure.
+
+Dipali Mali:
+  Uh, Sergio Ahmed.
+  Yes, Jesus.
+  Sarvo Footer Ka Raj Paso Run Maine Bhardwaj download.
+
+Gagan:
+  This is the same, right? Relation to it, don't know pass.
+
+Dipali Mali:
+  Yes, don't know.
+
+Navpreet Singh:
+  Wait, wait, wait, wait, wait, let me cheque once other footnotes, please.
+
+Gagan:
+  Mm.
+
+Navpreet Singh:
+  It is.
+
+Gagan:
+  Fail to create stand box section.
+
+Tejas:
+  So they say they can.
+
+Gagan:
+  Sorry, you had to, sorry, sorry, sorry.
+  So, all the very expected, clean, nail-form.
+
+Navpreet Singh:
+  I.
+  Yeah.
+
+Dipali Mali:
+  download on this link download.
+
+Gagan:
+  I just never done that.
+  Yeah, conversion, I can tell.
+
+Dipali Mali:
+  Last option for download.
+
+Gagan:
+  Ohh, sorry.
+  So, from both of the word downloads showing the same, right? Take the editor, maybe word download.
+
+Navpreet Singh:
+  Yeah.
+
+Gagan:
+  Sanjay Dipali.
+
+Tejas:
+  In the room.
+
+Gagan:
+  Yes.
+  Yeah, yeah.
+  Go.
+
+Dipali Mali:
+  Yeah, or those lines, or superscript test case, maybe mention or test case.
+
+Gagan:
+  Anshul.
+
+Dipali Mali:
+  May I call?
+
+Navpreet Singh:
+  There is another one for Doctor Neil.
+
+Gagan:
+  I wanna take them.
+  Yeah.
+  And.
+
+Navpreet Singh:
+  Mm.
+  Looks looks OK. This looks OK.
+
+Gagan:
+  Bigger.
+  Cool.
+
+Navpreet Singh:
+  Raj, for message already, and in case of, let's move to the next ones.
+
+Raj:
+  How many do messages, Dipali?
+
+Navpreet Singh:
+  Uh-huh, he can.
+
+Gagan:
+  Tejas.
+
+Navpreet Singh:
+  Ahmed.
+
+Gagan:
+  The bad news about other one.
+
+Tejas:
+  Out of here, 49 take a minute.
+
+Gagan:
+  So, take a look at it.
+
+Tejas:
+  Toby, a Word document. Explain to your Word document there, or 4915 today. So, we have the two document of number, they can just say.
+  I love that thing.
+
+Navpreet Singh:
+  S.
+
+Tejas:
+  Uh, so, yeah, it's OK. H.P. side's board is up to that.
+
+Raj:
+  Yeah, yeah.
+
+Navpreet Singh:
+  It.
+
+Tejas:
+  I think that the very issue, Padhi.
+
+Raj:
+  Pages horizontally.
+
+Navpreet Singh:
+  Yeah, highlight here, Raj. Was this the feedback that came to us?
+
+Raj:
+  Market.
+  Nate name.
+  99 Konci Aibar.
+
+Navpreet Singh:
+  This is ask if you say we're testing.
+  Like this came from the team, or did you put the seater in?
+  Piyush.
+
+Raj:
+  Tejas.
+
+Tejas:
+  My name is Mathias.
+
+Navpreet Singh:
+  Tejas.
+  Yeah, Vinay.
+
+Tejas:
+  Lemon.
+  ****.
+
+Navpreet Singh:
+  Okay, okay.
+  I think sorry, Raj.
+
+Raj:
+  Not sure, but.
+
+Gagan:
+  It's a task 022.
+
+Navpreet Singh:
+  HR.
+
+Raj:
+  Hello.
+
+Gagan:
+  You have also generate the report space and consistency is the task thing.
+
+Raj:
+  I imagine.
+
+Navpreet Singh:
+  Or is space and consistency ought to be, and...
+
+Gagan:
+  Space, space.
+
+Navpreet Singh:
+  Hey, Bhai, pass pace and consistency.
+
+Tejas:
+  Ha.
+  My name, my name, my name, my name. You have to come in for that.
+
+Navpreet Singh:
+  This is fine, Raj space and consistency.
+
+Tejas:
+  Okay.
+  I need to say that.
+
+Navpreet Singh:
+  Is to pending Daldu ya, Di Raj Gagan ek per test, understand the exactly requirement ya, put pay Dalu ya Raj and Gagan Dalu ya.
+
+Raj:
+  Call Sanjay Nikhil.
+
+Navpreet Singh:
+  I don't think so. This is what was the requirement. Raj, just go to that part of the meeting. Gary complaint and cheque exactly what he's complaining about. OK.
+
+Raj:
+  But I mean in a recording access, they edit another document.
+
+Navpreet Singh:
+  Oh.
+  But, give me, give me the then, or give me 15 minutes, right? I'll give you the access, and to access it, and it will and Kartik.
+
+Raj:
+  Ohh, please, yes, please.
+
+Gagan:
+  Okay, next one. Yep.
+
+Dipali Mali:
+  IMS.
+
+Navpreet Singh:
+  It's.
+
+Dipali Mali:
+  Sir, Joy issue a police reports on America came in a krishna, kalesh, Gagan Sir, Raj Sir, Kartik Sir.
+
+Navpreet Singh:
+  Yeah.
+
+Gagan:
+  The.
+
+Navpreet Singh:
+  Mhm.
+  Police Police report on document by like that station. I still see the police report in the government document right. It's for pending development although.
+
+Gagan:
+  It's on.
+
+Navpreet Singh:
+  I don't know why, but I don't know if you can fix me, yeah.
+
+Raj:
+  No, it's like, probably section two.
+
+Navpreet Singh:
+  But I need, but I may have you.
+  That's done.
+
+Raj:
+  So, someone's been named also, okay, got you.
+
+Navpreet Singh:
+  Yeah, right, is clarification, once he provides us more clarification, then you know we should be able to test this, but...
+
+Raj:
+  Gotcha.
+  POC.
+  Team.
+  Okay.
+
+Navpreet Singh:
+  Like, did you fix this or not?
+
+Raj:
+  Michael together.
+
+Navpreet Singh:
+  Mm.
+
+Gagan:
+  Tejas.
+
+Navpreet Singh:
+  Yes.
+
+Tejas:
+  Ohh, they will pay fix out the same column.
+
+Navpreet Singh:
+  Yeah, he.
+  Okay, exactly what is this?
+
+Tejas:
+  Uh, document, uh, document Word document, uh, Word document open with you.
+
+Gagan:
+  Sanjay.
+
+Tejas:
+  Was my 2.1.2 section enough of my bullet points there?
+
+Navpreet Singh:
+  Yes.
+  Team.
+
+Tejas:
+  Ohh, yes, yes, over that 2.1 round.
+
+Navpreet Singh:
+  The.
+
+Gagan:
+  2.1.2.
+
+Tejas:
+  Oh, yes.
+
+Gagan:
+  And the 2.1 point.
+
+Tejas:
+  Ohh, yeah, yeah, notes, not this, so is come meaning here key is nagar path se jada bullet, bullet point presented paragraph one.
+  So obviously krishna issue solved here, many is for test to be here, both in case I display to OK when I have a failure to look at the PR.
+
+Gagan:
+  The.
+  Mm.
+
+Navpreet Singh:
+  I, I'm sorry, Mujir, we test case, what is it exactly?
+
+Gagan:
+  But look, yeah, Navpreet, for example, two paragraph, the part with okay, Tejas.
+
+Navpreet Singh:
+  Oh, so.
+  Ohh, it's again.
+  Paragraph number are there krishna.
+
+Tejas:
+  Yeah.
+  Steps may to paragraph Nikhil.
+
+Navpreet Singh:
+  Hello?
+  Okay, krishna, krishna, krishna, did you not work on this?
+
+Tejas:
+  Ohh.
+
+krishna:
+  Aye, this is a good thing. So...
+
+Navpreet Singh:
+  Very careful, take advance.
+  Mm.
+
+krishna:
+  Ha, would save me colon, say would divide career her bullet go?
+
+Navpreet Singh:
+  Okay.
+  OKOK.
+
+Raj:
+  Navpreet, I have one.
+
+krishna:
+  Aur ya pe am rewa speaker satte.
+
+Navpreet Singh:
+  Raj, you were saying something, Sanjay.
+
+krishna:
+  Hello?
+
+Raj:
+  Yeah, I have one question in this: This is Sanjay requirement, Katrana. Can we suppose other parts of other bullet points separate these points?
+
+Navpreet Singh:
+  Mhm.
+  Mhm.
+
+Raj:
+  Like, like.
+  OK, obtain the bullet point, which I...
+
+Navpreet Singh:
+  Sanjay, the recommendation, and let's go ahead with that. In the release notes, put this, okay? This is what we have done, this is what was requested. Clearly, let's tell them, but fair point, I don't think so, this is the best way to do it, but let's at least based on the recommendation, let's go ahead.
+
+Raj:
+  Oh.
+
+Navpreet Singh:
+  Let's do as per the feedback that we have bought in.
+  He implemented it. This is tested, right?
+
+Tejas:
+  Yes, yes.
+
+Navpreet Singh:
+  Speaking.
+  OK, let's move to the next one.
+
+Dipali Mali:
+  Ohh, so next.
+
+Navpreet Singh:
+  By just one second, just fail Kartik, krishna, and kalesh. What are you guys up to?
+
+Kartik:
+  Right now, I am fixing the O16 bug.
+
+Navpreet Singh:
+  Kartik order you would.
+  Okay, and uh, kalesh, what are you up to?
+
+kalesh Patil:
+  Working on the section 9 tips, section 9 fixes, fixes.
+
+Navpreet Singh:
+  Elise.
+  OK, and krishna.
+
+krishna:
+  Section Section 4 Section 2 repeat Horata key.
+  What?
+  Key.
+  Second to.
+
+Gagan:
+  Same.
+
+krishna:
+  Just record me highlight that.
+
+Navpreet Singh:
+  Ohh.
+  Yeah, yeah, yeah, yeah, that's it.
+
+krishna:
+  To go a mere side save of fix bakiye or uske pele me joke fix Taki DB data dashboard. So Abhi Abhi to go many almost fix last fix.
+
+Navpreet Singh:
+  Thanks.
+  Mm.
+  And.
+  Speaker.
+  Gagan.
+  Noted.
+
+Raj:
+  Uh, Navpreet, I have one more question: Uh, kalesh, section 9, so...
+  I just wanted to ask.
+
+Navpreet Singh:
+  And.
+  Like, same here in one, same here. Can you, like, let's move to Section Nine after this. Can you just calculate them Section Nine exactly?
+
+kalesh Patil:
+  Exactly, word export page or final cost calculated with a UI.
+
+Navpreet Singh:
+  Casey, who's talking Casey fixed the way?
+
+kalesh Patil:
+  Then, may say word export, like total cost calculator, word export.
+
+Navpreet Singh:
+  What, what are you doing that?
+  God.
+
+kalesh Patil:
+  No, no cloud manage use SIP understanding can be most.
+
+Navpreet Singh:
+  Good.
+  Uh, okay.
+
+kalesh Patil:
+  In most of the things of about the session, then we just, when I when I Gagan, see Raj, Kartik, then, and Tejas, Java testing session, but that's why.
+
+Navpreet Singh:
+  Ohh.
+
+kalesh Patil:
+  Then, when I will say, implement, start.
+
+Navpreet Singh:
+  On.
+
+kalesh Patil:
+  Okay.
+
+Navpreet Singh:
+  He can to Raj, I think let him a team work on his own branch and then we can go to.
+
+Raj:
+  Okay, sure.
+
+Dipali Mali:
+  Uh, sir, next one, Jomera, um, Mujar Saikar task, what diagnostic?
+  Diagnosis, condition, bullet for for UI or word export bullet points.
+
+Navpreet Singh:
+  Are any bullet points or what is the requirement here?
+
+Dipali Mali:
+  Arisaday.
+  Aani Jayate Aur RA.
+
+Navpreet Singh:
+  We are confident of passing this, right?
+
+Gagan:
+  Confident from Dipali, not from me yet.
+
+Navpreet Singh:
+  **** Tech then.
+
+Dipali Mali:
+  Uh,
+
+Navpreet Singh:
+  I think that, but let go and cheque it, but these statements are very risky to mix.
+
+Gagan:
+  Tejas, can you please bracket my dial set to pass cheque by Gagan? Might have to switch to switch to a different device, pass cheque by Gagan and download.
+  Testing status me pass bracket me pass check.
+
+Tejas:
+  Skip up.
+
+Dipali Mali:
+  Sir, Joey.
+
+Navpreet Singh:
+  I like that.
+  We button click right after click up a button.
+  No show, OK, no show any visits, sorry, sorry, sorry, sorry, this is different, so no show, no show visits.
+
+Dipali Mali:
+  Raj, yes.
+  Mirza.
+
+Navpreet Singh:
+  Concept piece.
+
+Dipali Mali:
+  Neil.
+
+Navpreet Singh:
+  I think it only case but I think.
+  Yeah.
+  What exactly do you mean by this?
+
+Dipali Mali:
+  Sir, actually, sir, many case case trigger key or generate key section 2 main no no show DNS.
+
+Navpreet Singh:
+  Um...
+
+Dipali Mali:
+  So, when I say a part cheque is a case is clear cheque here, sir, or no show or I need it.
+
+Navpreet Singh:
+  Clicking to me, Samuel, he no show word, Ana ke chaiye.
+  Makes sense.
+
+Dipali Mali:
+  Yes, sir.
+
+Navpreet Singh:
+  Tumi kehse pata ki duni test case figure giata woo patient no shoo thaar.
+
+Dipali Mali:
+  Uh, those are me.
+
+Navpreet Singh:
+  Is Joe just case the comment I have, but Vivek it right now.
+
+Dipali Mali:
+  Tea ceji.
+
+Navpreet Singh:
+  But I have a contact pizza.
+
+Dipali Mali:
+  Fancy, sir.
+
+Navpreet Singh:
+  Do you know that? Okay, but I want to check-ins.
+
+Raj:
+  55825.
+
+Dipali Mali:
+  No, sir, would you?
+
+Raj:
+  525.
+
+Navpreet Singh:
+  So.
+
+Dipali Mali:
+  Sorry, sir, 58.
+
+Raj:
+  5825.
+
+Dipali Mali:
+  Okay, so let me cheque that.
+
+Navpreet Singh:
+  Yeah.
+
+Tejas:
+  Yeah. Dipali once again.
+  You too much love.
+  For medical records.
+
+Navpreet Singh:
+  What, what, what is this?
+
+Tejas:
+  From medical records, so how many specs are there to remove?
+
+Navpreet Singh:
+  And.
+  If it's a button, right? Big button on the is that right?
+
+Tejas:
+  Yes, yes, yes.
+
+Dipali Mali:
+  Ha, sorry, a test case we pass over it.
+
+Tejas:
+  Who was it?
+  Yeah, don't work.
+
+Navpreet Singh:
+  Okay.
+  It is.
+
+Tejas:
+  Skip on.
+  Section one may be pending a bit of 1000 plus page report will be pending, yeah, yeah, yeah, yeah, yeah, yeah, yeah.
+
+Navpreet Singh:
+  Mm.
+
+Tejas:
+  Leaking was generate with leaking was now almost 162 minutes clear.
+
+Navpreet Singh:
+  And.
+  One, but five hours for time out.
+  We will probably do it after like 7, 8 hours, 10 hours, right?
+  Yeah, to, to, like, implement, right? That's what you're saying.
+
+Tejas:
+  I would love.
+  Hey, bye now.
+  Manage Subabhi generate key to time out.
+  When a stage click with this audio A1 sixty-two.
+  Well, good night.
+  Almost 2.5 hours later, so when I discussed Kia to here, Gaganji or Raj will discuss.
+  So, be nice.
+
+Navpreet Singh:
+  But Kartik supposed any Kartik.
+  What do you think about this one?
+
+Kartik:
+  Okay, yeah. So task number 32, right?
+
+Tejas:
+  Yeah.
+
+Kartik:
+  And it's always for 5825.
+
+Tejas:
+  Comments of report in general time. I did Dipali and trigger. Pages creative, but not. Subhim jumped this stage for testing. Kartik.
+
+Kartik:
+  Uh-huh.
+  Kannan.
+  Yeah, sure, go ahead. That's good. I think that something is wrong with this particular case ID.
+  Would you agree to this Navpreet? Do you think that could be the case? Because for the other case ID, even more or less pages, or even if there are like around 300 pages, right, they are getting progress properly without taking so much long time.
+
+Navpreet Singh:
+  No, I don't.
+
+Tejas:
+  Yes, I see.
+
+Kartik:
+  Yeah.
+
+Tejas:
+  All right, super.
+
+Navpreet Singh:
+  I don't think there is something wrong with that case ID in particular. It's tough to believe, really tough to believe, right? I mean, we need to investigate it.
+  You cannot even do the need for this particular case ID.
+  But pipeline time out right, according to you.
+
+Tejas:
+  Samuel.
+  How much did one point?
+  Yes, one point.
+
+Navpreet Singh:
+  Ohh, right? Makes sense, I understand. Now, Kartik is test case ID, test case issue do what do you think?
+
+Tejas:
+  Yes, stage.
+
+Kartik:
+  No.
+  Yeah.
+  Ohh.
+  No, I agree.
+
+Navpreet Singh:
+  What do you think is the is the right test case, sir? What have you implemented that they should be testing?
+  That is.
+
+Kartik:
+  For the timeout thing, timeout thing currently not implemented.
+
+Navpreet Singh:
+  No.
+  It's just not implemented, right? It is just pending download, or you didn't requirement in India, so just put it pending.
+
+Tejas:
+  Madhlab, no preji, so baby baat, you cancel on HR, but they're still running.
+
+Navpreet Singh:
+  Hmm, this is the time out.
+  Doesn't take time out, doesn't take Padu cancel, who Kartik implementing Kartik, does not take time, cancel.
+
+Kartik:
+  Yeah, 8 to 10 hours, yeah, got it.
+
+Navpreet Singh:
+  10 hours, we cancel, 10 hours, let's put a limit, 10 hours, and then probably whenever someone gets back, we let him know, but let's put 10 hours as a limit.
+
+Raj:
+  Uh, Kartik, change the change the message as well. Abhi 1.5 plus hours, both were confusing.
+
+Tejas:
+  Skip.
+
+Kartik:
+  Yeah, I will change it to 8 plus or 10 plus, yeah.
+
+Raj:
+  Yeah.
+
+Tejas:
+  Yeah, we have been implementing a 6000 page. Yeah, we will.
+
+Gagan:
+  I have one doubt. No, no, it is passed, but I have one doubt. That's why I put it on hold. So the feedback is getting sent now on Navpreet and Raj is receiving it to Raj and Kartik. The, yeah, the only thing is Admin at legacy of my e-mail here. I just wanted to make sure that was the.
+
+Navpreet Singh:
+  I saw, I saw, I saw your feedback in the morning.
+  From how e-mail, Vivek.
+
+Gagan:
+  Ha.
+
+Navpreet Singh:
+  That was a test. That was a test. That was a test.
+
+Gagan:
+  Then, any cheque by Gagan?
+
+Tejas:
+  OK, Mali, maybe say anything.
+
+Gagan:
+  First, thank you.
+
+Raj:
+  Wait, wait, wait.
+
+Gagan:
+  That was a different test case, huh? So, Raj is map confirmed for the e-mail, my report ID, section name, screenshot is R.A.R.A.R.A. take it, take it, we can pass, cool.
+
+Raj:
+  Ohh, yes, yes, yes.
+  Report ID means case ID. We are getting a case ID.
+  Okay.
+
+Gagan:
+  That's supposed to how it works, right?
+
+Tejas:
+  Oops.
+
+Raj:
+  Case ID, we need case ID.
+
+Gagan:
+  I suppose.
+  Chicken.
+  Now we can go on the fail one because other ones are pending on development, so...
+
+Navpreet Singh:
+  $30 expensive.
+
+Tejas:
+  Mr. Paumig.
+
+Gagan:
+  Uh, it's Mena, um, Tejas just development status not pending down.
+
+Tejas:
+  Sorry, excuse me.
+
+Gagan:
+  This is my pending on development steps, can of course copy paste, copy paste, development status.
+  Anything, one second, development status, I know G column in was not spending, copy paste, but pending, these three are pending from the development set.
+
+Tejas:
+  Mhm.
+  That's not good.
+
+Gagan:
+  And.
+
+Tejas:
+  Dipali.
+
+Gagan:
+  Dipali.
+
+Dipali Mali:
+  Dashboard page.
+
+Navpreet Singh:
+  Yeah, he still carry some have the same, did someone investigate into that?
+  The leaves, krishna, and Kartik, did you guys look into it?
+
+Kartik:
+  Can you please repeat the question?
+
+Navpreet Singh:
+  Dipali.
+
+Tejas:
+  You know.
+
+Kartik:
+  Yeah, I looked at it.
+
+Dipali Mali:
+  Uh, J. Sir, dashboard, test cases.
+
+Kartik:
+  Okay.
+  Yes, yes, yes, yes, because we we need to make one table which all of these pick up from, and I already pushed the change in a.
+
+Navpreet Singh:
+  I.
+
+Kartik:
+  So don't, so just write pending testing, which are, what are you writing for pending testing?
+  Because it the fix is on the PR I'm deploying.
+
+Tejas:
+  Okay.
+  So, next one is Matlab Joe.
+  It.
+  A girl main conce report code generate karto to fill muje estimate to export dikra make bigger is 3 because.
+
+Navpreet Singh:
+  Yeah.
+
+Raj:
+  You just probably.
+  Uh, tomorrow, I will, yes.
+  On.
+
+Tejas:
+  6117 generate key account.
+  Exports 16 May.
+  Like in the mail, cheque it.
+  It's.
+  May call you, but some.
+  Ms.
+
+Raj:
+  Ah, yes, we received the emails for failure on the report condition.
+  But, but, but wait, wait, wait, wait, wait, wait, sorry, Navpreet, this is configured on our specific emails, like currently only Kartik, you, Samarth, krishna, and I received the emails we have to configured on their e-mail as well, right?
+
+Navpreet Singh:
+  Hmm, this, this one's yeah, ops key e-mail configure.
+
+Raj:
+  Right.
+
+Kartik:
+  Yes, we will send a message.
+
+Navpreet Singh:
+  This one is for the case failure, right? This one's for the case failure.
+
+Raj:
+  Yes, yes, yes.
+  Case failure and report completion both.
+
+Kartik:
+  No, for every SNS.
+
+Navpreet Singh:
+  Or this one for the feedback.
+
+Kartik:
+  For every every e-mail, we need them to accept this. The will send them an AWS invite, they'll accept, and then we'll do this.
+
+Navpreet Singh:
+  Okay, honey, this, yes, this, this is...
+  Lost.
+  We wanna handle topic, like, for example, if they give us like the team handle, can we do it on that?
+  something at the rate specialist and the LCP. Can we do that?
+
+Kartik:
+  Yes, as the sender, I can change the e-mail to anything you want. Yes.
+
+Navpreet Singh:
+  Raj.
+  Not, it should not be the sending e-mail, then see what, right? Abhi, if we case, case, right?
+
+Kartik:
+  Receiver, what?
+  Yes.
+  That's the thing for receiving emails. I will send everyone you want an AWS invite, SNS invite link. When they accept that, hey, hey, we want to receive emails for this particular SNS, they will start receiving an e-mail for that. But they have to manually accept it and we can communicate the same on a meeting or on through Team.
+
+Navpreet Singh:
+  Yeah.
+  Yes, let's let's do that. Let's do that. Raj, just to take action, you do it on Kartik behalf, okay?
+
+Kartik:
+  Tech.
+
+Raj:
+  Okay.
+
+Navpreet Singh:
+  Please take it as an action item. We'll do it tomorrow. OK.
+
+Raj:
+  Yeah.
+
+Navpreet Singh:
+  But this one's important and we need to do this.
+
+Tejas:
+  Give up Padhi Dipali.
+
+Gagan:
+  They just, they just, they just, uh, Raj.
+
+Navpreet Singh:
+  Can you stop here? Actually, Raj Bhardwaj.
+  Pending on Raj Bhardwaj.
+
+Tejas:
+  Anshul.
+
+Gagan:
+  Ohh.
+
+Tejas:
+  Amen.
+
+Gagan:
+  Hmm.
+
+Navpreet Singh:
+  I have to send out this to these people this time with, you know, this is what I expect them to do.
+
+Raj:
+  Mm.
+  Okay, yes.
+
+Gagan:
+  Question for Raj: Raj is bug if only one channel fires, which means e-mail arrives but no file saved.
+  So is both of the channels working for this test cases?
+
+Raj:
+  Nate.
+  Failure or success. Yes, both are working.
+
+Gagan:
+  And the file is also getting saved on S3. That's what it saves, right?
+
+Raj:
+  S3 pairs, yes.
+
+Gagan:
+  Uh, Tejas up next.
+
+Tejas:
+  Yes, yes.
+
+Raj:
+  I will.
+
+Gagan:
+  Tech.
+  Tech.
+
+Tejas:
+  For Raj, Iqbal.
+
+Gagan:
+  So, it is pending by Raj, but test status.
+  I just go fail.
+
+Tejas:
+  Ask of the.
+  My pastor will have big here.
+
+Gagan:
+  Yeah, Raj.
+  But still us may go round test, let it run.
+
+Raj:
+  Kartik.
+  Ah, no worries. Ah, sorry, pass status.
+
+Tejas:
+  Okay.
+
+Raj:
+  But, yes.
+
+Tejas:
+  Uh, Raj, may be are a test sheet report.
+
+Raj:
+  Thank you.
+
+Tejas:
+  John Neil.
+
+Raj:
+  Ask what is another chart?
+
+Gagan:
+  Our task detail, you know, my Raj.
+
+Tejas:
+  Ohh.
+
+Raj:
+  Take them at all, little.
+  When we close here, we get no reason at all.
+
+Tejas:
+  Abhi Dipali keep pass.
+
+Raj:
+  Yeah, yeah, file upload, e-mail.
+  I, yes, yes.
+
+Gagan:
+  Yes, yes, yes.
+
+Tejas:
+  Yes.
+
+Raj:
+  Why you tell me?
+  This number of files have been uploaded, so...
+
+Navpreet Singh:
+  I need to go get her.
+  Raj, we, we, we get this, and it is this is looking.
+
+Tejas:
+  Singh.
+
+Gagan:
+  The comma thing, the cost one, comma, take me on our documents.
+
+Tejas:
+  Yeah.
+
+Raj:
+  Yes, yes, so on U.S. format, you know, about 3 digit not going.
+
+Gagan:
+  Yeah, either the editor is wrong or either the doc.
+
+Raj:
+  Even, OK.
+
+Tejas:
+  Section 2 date assigned date and then.
+  We were connected.
+  Time.
+
+Dipali Mali:
+  Uh, actually, uh, active pipelines for dashboard time.
+
+Tejas:
+  343.
+
+Navpreet Singh:
+  So, cheque a time match, Cortana. Dipali, are you sure? Check, just cheque this.
+
+Dipali Mali:
+  Yes, Sir, I am Gigi.
+
+Tejas:
+  Yeah, do three.
+  Get 3299 Abhi running me is the time 4449 AM.
+
+Dipali Mali:
+  These are many previous which I create a time Samir.
+
+Tejas:
+  That's the scheme point.
+  Time same for 14.
+
+Raj:
+  Same, yeah, correct.
+
+Tejas:
+  But it.
+
+Raj:
+  Report trigger.
+
+Dipali Mali:
+  These are correct way.
+
+Tejas:
+  On.
+
+Raj:
+  Okay.
+
+Tejas:
+  Publid Kartik de Gagan.
+
+Navpreet Singh:
+  The.
+  Yeah.
+
+Raj:
+  We will do.
+
+Tejas:
+  10:50 AM.
+
+Dipali Mali:
+  I mean, Google, yeah, we do the time, 10:50 is correct.
+
+Tejas:
+  Thank you.
+  Mm.
+  You awesome?
+
+Navpreet Singh:
+  I.
+
+Tejas:
+  Seba divya fe Lu Chu ke spi Kaam Saal Ya Vivek Karthiji spi Kaamkar enjo Dr. Nanday Shutan.
+  Okay, love you.
+  Six and two dates are reflected this issue, you know, and you do pass in short.
+  Take care, baby.
+
+Gagan:
+  Was my pass check, though, cheques like those, I'll check.
+
+Tejas:
+  Yeah, pending, you, you.
+  Um, issue is 9 out of 98 out of 9.
+
+Raj:
+  Wait, wait, wait, wait, feel, feel to MCP my 7 out of 7, so try 8 bar 5 triple search.
+
+Tejas:
+  Mm.
+  Yeah.
+  Ohh yeah, we should 6080 no B.A.M.C.P.K. is play eight out of nine, yeah, pay seven out of seven, Kannan.
+
+Raj:
+  Are you sure?
+
+Tejas:
+  Yes.
+  View Shawada.
+  We, I, we both in Java, we score 7 by 7 Karnaga.
+
+Raj:
+  Million.
+
+Tejas:
+  OK, but not on this issue, so progress bar, so yeah, trigger, user trigger, progress bar, 100%, but other AI report generated generated.
+  Oh.
+  It's up to people with Bhardwaj.
+
+Navpreet Singh:
+  Ohh, we know, we know, we have to take that as well, makes sense.
+
+Tejas:
+  Ohh.
+
+Navpreet Singh:
+  Thanks.
+
+Tejas:
+  Just you want to pass.
+
+Navpreet Singh:
+  Play Singh Padhi.
+
+Tejas:
+  Skip up case to go.
+
+Navpreet Singh:
+  Wait, wait, wait, wait, wait, wait - what is this exactly? What is this?
+
+Tejas:
+  Please call.
+  Yeah, case count, not manage, but we have this very good update.
+
+Navpreet Singh:
+  Ye krishna, Kamkar, krishna, krishna, krishna, kya, ish logar, ish, is it so complicated?
+  Yeah, you.
+  Kristine.
+
+krishna:
+  Hello!
+
+Navpreet Singh:
+  Why is this so complicated? Do we need time?
+
+krishna:
+  If fixed, really complicated to me and those three should fix her.
+
+Navpreet Singh:
+  Okay.
+  Speaking or patient?
+
+Tejas:
+  This give out the Dipali in case trigger by not showing.
+
+Dipali Mali:
+  Ohh, yes, sir, they just app 3103 search for a previous generated report.
+
+Tejas:
+  Yes, that's true.
+
+Dipali Mali:
+  3103.
+
+Tejas:
+  1.
+  Actually.
+  Okay.
+
+Raj:
+  Wait, yeah, yeah, yeah, yeah, sorry, yeah, generated for all the cases, December 4th, 2025.
+
+Tejas:
+  I generate Kartik Dipali.
+
+Raj:
+  Summary.
+
+Dipali Mali:
+  Agarapi jandet karan ke tobhi na maayega habhi to aatha.
+
+Raj:
+  Ohh, yes, I guess is for any AI generated them.
+
+Dipali Mali:
+  Sir, screenshot me.
+  Screenshot may be.
+
+Raj:
+  Let's go here, no recheck.
+  In.
+  Yeah.
+
+Tejas:
+  Yeah, a big feedback.
+
+kalesh Patil:
+  Hello, Tejas. Sorry to interrupt you. Demo videos.
+
+Tejas:
+  Which will kill?
+
+kalesh Patil:
+  Development status.
+  Of course, who already said, new, and it is based on the YouTube videos or the OneDrive carpet on them.
+
+Gagan:
+  Sorry, sorry, sorry, what?
+
+kalesh Patil:
+  Where he will discuss on the SOP guides, give your videos that one drive, YouTube, so back in a pending.
+
+Gagan:
+  Mhm.
+  Okay, and with whom the discussion is going to happen?
+
+kalesh Patil:
+  Okay.
+  Aapne Evening Main Dipali Bol Bolan Ki.
+
+Raj:
+  Yeah, we do, Navpreet, Navpreet can confirm, GitHub limit, 25 MB or 15 MB, other file store, so...
+
+Navpreet Singh:
+  Mhm.
+
+Gagan:
+  Yeah.
+
+Navpreet Singh:
+  Mm.
+  You know what, Raj? It's OK, just can wait. Hmm, not critical, not critical.
+
+Raj:
+  Exactly, that's what that's what I'm holding here.
+  Yes.
+
+Dipali Mali:
+  Ohh, so they skip.
+
+Gagan:
+  Uh, Tejas hold pending penny.
+
+Navpreet Singh:
+  Oh, Nick.
+
+Tejas:
+  Dipali.
+
+Dipali Mali:
+  Uh, so, uh, so, uh, task task 063, uh, uh, again and again.
+
+Navpreet Singh:
+  login.
+  Bogin Mankata is happening when you do you talk about the feedback, right?
+
+Dipali Mali:
+  Awesome.
+  Sir, or Java home evening call baby date or Gagan sir maybe screen share Kartik.
+
+Gagan:
+  No, no, no, this was passed. No, no, no, no, it was no login. It is working.
+
+Kartik:
+  No, no, wait, is that correct?
+
+Dipali Mali:
+  Oh, that.
+  Hana, screenshot, Jara, I sir, log in, yeah, yes, ha ha, why, why, yes, screenshot.
+
+Gagan:
+  Login when you are using the system or beach beach log in, so it's a two different thing, confused, so basically the UI login, but still keeps on coming, yeah, Raj, I think you can explain it a bit better.
+
+Dipali Mali:
+  Yes, that's me.
+
+Raj:
+  Okay.
+
+Dipali Mali:
+  Haha, yes, yes.
+
+Gagan:
+  Use me, Gagan.
+
+Raj:
+  Do one thing, go to the UI and press Control Shift R, hard refresh.
+  Control Shift R.
+
+Tejas:
+  Neil.
+
+Raj:
+  Call.
+  But.
+
+Navpreet Singh:
+  Okay.
+
+Tejas:
+  Log in.
+
+Navpreet Singh:
+  I have never changed anything here. This is Kartik. Kartik to implement Nikhil to it will again come. It will happen.
+
+Raj:
+  Najin Nikhil.
+
+Navpreet Singh:
+  I think you could change something.
+
+Kartik:
+  Come again, come again, please.
+  Hello.
+
+Raj:
+  That's.
+
+Navpreet Singh:
+  The login feature.
+
+Kartik:
+  Mhm.
+
+Navpreet Singh:
+  You've not done any change to that, right?
+
+Kartik:
+  The login, Microsoft and Google SSO, no change has been done to that, no.
+
+Navpreet Singh:
+  In the.
+  So think about it that in you remember like when we try to send feedback and all it asks us to log in.
+
+Kartik:
+  Huh?
+  Yeah, it asks for login. So it's not asking for login anymore. So you're asking that if I had to change the login system for that. Is that correct?
+
+Tejas:
+  Yeah.
+
+Navpreet Singh:
+  Yeah.
+  You haven't done any changes to that currently, right?
+
+Kartik:
+  I'm not able to hear. Give me one second, guys.
+
+Gagan:
+  No, no, guys, we are focusing on a different issue. This is different. This is something when we hard refresh on a UI, sometimes it asks for a login normally, not with the feedback. With the feedback, everything is right. But when we sometimes hard refresh, it asks for a login. Yeah. So, but we can skip it. It's not something which is not skipping. Yeah, yeah, hard refresh, it shows a dialogue box, right, every time.
+
+Kartik:
+  Yeah.
+  Feedback, but okay, got it.
+  One hard refresh.
+  Yeah.
+
+Gagan:
+  That login.
+
+Kartik:
+  I mean, yes, yes, or hard refresh it should, because it does not, it clears the cache and the login API essentially takes the login password from the cache memory and then puts it in that API field to cheque that, hey, if the user is correctly logged in or not.
+
+Gagan:
+  Yeah.
+
+Kartik:
+  But what happens is that because we are already logged in, it doesn't need that actually, right? It's the fallback, it's the fallback fallback that happens. So because it already, the user is already logged in and the fallbacks just means, hey, are you, or the fallback is when.
+  For OK, let me cast my words, take two. So what happens is because when the API crashes or API doesn't get passed, the fallback asks the user for the login. Because we are hard refreshing, the cache gets refreshed, refreshed. That's why we are getting the we're getting asked for the login again.
+  Right, that thing is clear. But because we are already logged in, right, our UI, even if we cancel it, it behaves the same. So it's essentially API not getting the login after cache is reset issue. Do you want me to?
+  fix that properly? I mean, yeah, you want me to fix that properly. But how high on priority is that right now? Because I think that it should be like P1 or P2.
+
+Navpreet Singh:
+  Not very hard. It's not hard. It's not hard. Let's put it here, but we won't fix it today. It won't go in with lunch.
+
+Kartik:
+  Bye.
+  Okay.
+
+Navpreet Singh:
+  It's a little to net one, pending development all this.
+
+Tejas:
+  Okay.
+
+Dipali Mali:
+  Sir, next feedback, we successfully feedback, but whether e-mail be received.
+
+Tejas:
+  Yeah.
+  The.
+  Two.1.22 discussed bullet points.
+
+Navpreet Singh:
+  Ohh.
+  Singh.
+  Ask him to be.
+  Mm.
+
+Tejas:
+  OK, Bob.
+
+Navpreet Singh:
+  Mmh.
+
+Tejas:
+  Provide on the mandate, maybe almost pass.
+
+Navpreet Singh:
+  Okay, what next?
+
+Tejas:
+  Your, your dates will be right for right now, are you?
+
+Navpreet Singh:
+  OK, ceji, you can take you.
+
+Tejas:
+  But.
+
+Navpreet Singh:
+  Old reports are 18, Padhi reports are 18.
+
+Tejas:
+  Sorry.
+
+Navpreet Singh:
+  Radio.
+
+Tejas:
+  1.
+  Hello!
+
+Navpreet Singh:
+  Do alright.
+
+Tejas:
+  Okay.
+  Cortana.
+
+Navpreet Singh:
+  Put on any cases mean.
+
+Tejas:
+  Reporting R.A.
+
+Navpreet Singh:
+  For any cases, me and report.
+
+Tejas:
+  They can 0102 MMYY.
+
+Navpreet Singh:
+  Okay.
+  Mm.
+  I was upset you.
+
+Tejas:
+  January 03, 2000, 22026.
+
+Navpreet Singh:
+  OK, so if you were telling me it is passing and Gagan is confirming it's passing, then I'm good.
+
+Tejas:
+  Thank you.
+  Skip out DA.
+
+Navpreet Singh:
+  Gagan, you confirm, right? All of this.
+  Shh.
+
+Raj:
+  Our column is not being late.
+
+Navpreet Singh:
+  Raj, you can confirm this.
+
+Raj:
+  But the date one, right? We will need in month, which is involves, yes, yes.
+
+Navpreet Singh:
+  Yeah.
+
+Tejas:
+  Stay about these com multiple providers now.
+  OK, but the age will send at 2.1.2.
+
+Navpreet Singh:
+  The.
+
+Tejas:
+  Okay, when I pass KLB, that's good box, clear box, I will not let it four cases in SA.
+
+Navpreet Singh:
+  So.
+
+Tejas:
+  For, for, for.
+  Just now, be or say an e-mail, or say an e-mail back here.
+
+Raj:
+  So Tejas, I can, I can take over from there to get like will take around 5 to 10 minutes.
+
+Tejas:
+  Okay.
+
+Raj:
+  Feeling my screen.
+  Uh, quarters make up and beat 624740.
+  U.
+  There's an edge case, by the way, date format, 14th June 20th, 24th, sorry, I think it was looking for 14-6-2024 in whole, right?
+
+Navpreet Singh:
+  Mm.
+
+Raj:
+  So, but D.T. have to present there, so he catch me by also.
+  Well, I hope it makes a mistake.
+
+Navpreet Singh:
+  Yeah.
+  Date casting even though date here 14, 2024 June.
+
+Raj:
+  Probably.
+  Ohh, the bad, you know, the format date for now, guys, mainly, the catchment.
+
+Navpreet Singh:
+  But yeah, I would not believe that Raj.
+  But date for KCB document.
+
+Raj:
+  Thank you.
+  Ah, exactly, exactly, yes.
+
+Navpreet Singh:
+  Highlight this to Samarth and this guy, krishna. You know, take this as a note on yourself and maybe, you know, bring this to their attention because this is this will not be that easy to fix, right? You know, how do we?
+
+Raj:
+  Mm.
+  Exactly.
+  Thanks.
+
+Navpreet Singh:
+  How do we find that might become very tough?
+  Right, to make make sense, make sense.
+
+Raj:
+  Yeah, so this was one 473 problem 34740 this one shows the calls in.
+
+Navpreet Singh:
+  I.
+
+Raj:
+  No, sorry, said Chamber Doris.
+  This man of section 2000, I am leaving.
+
+Navpreet Singh:
+  Kristine, why do you think this is the case?
+
+Raj:
+  By the way, I see, yeah, so...
+
+Navpreet Singh:
+  I mean, there is a queue here, so sort of, so you're telling EC case clear? I don't think so, man. It can happen for other cases as well.
+
+Raj:
+  Yeah, if we find out what's the problem, then...
+  That can be done.
+  Is 3 records to present only?
+  From the audition to use me.
+
+Navpreet Singh:
+  Can you look at like a couple of more cases and see like if this is really happening, if it is the only, you know, if this is happening only with this case?
+  Cheque your case, the PC kalesh.
+
+Raj:
+  Yep.
+
+Navpreet Singh:
+  How many are pending Raj?
+
+Raj:
+  Change in table, doesn't change in section 9, and totally.
+  Yes, yes.
+  Uh, my 60,000, you know.
+  But other grand total level of Dipali.
+  Company.
+  No, weird.
+  Who will be something like?
+
+Navpreet Singh:
+  And so.
+
+Raj:
+  So, just naturally.
+
+Tejas:
+  Alert.
+  Raj, actually.
+  Is give up.
+
+Raj:
+  For any sale tables.
+
+Tejas:
+  Save the box, yes, yes.
+  Total positive song.
+
+Raj:
+  1.
+
+Navpreet Singh:
+  So, thank God, and this one works critical. Thank you.
+
+Raj:
+  Yeah.
+
+Navpreet Singh:
+  Cool, cool, cool, cool, cool, and see what else.
+
+Raj:
+  Bye.
+  Doctor change, but I word my word export my doctor changing.
+
+Navpreet Singh:
+  I will, but the doctor actually is either been, I believe.
+
+Raj:
+  My phones.
+  Our names in your section, which team they want to highlight again.
+  Uh, feedback we are able to send, and we could pass.
+  Just a coach doctor can you know see me present time on the boss is it?
+  I think three to four doctors gave me.
+
+Navpreet Singh:
+  Yeah.
+
+Raj:
+  Ohh, OK, so this was another one not matching in section 9.
+  Yeah, that one will cost, cost is finished. This is also pass.
+
+Navpreet Singh:
+  Yeah.
+
+Raj:
+  We will move.
+  Smooth.
+  Section One, primary body parts, and...
+
+Navpreet Singh:
+  Yeah.
+
+Raj:
+  Yeah, me on TV.
+
+Navpreet Singh:
+  Which?
+  Who consider, like, what exactly is this?
+
+Raj:
+  So, feedback, I think we need primary.
+
+Navpreet Singh:
+  It's a detail, detail, details.
+
+Raj:
+  And.
+
+Navpreet Singh:
+  Keep this on so much, bro. This is a good catch, but the be is launch, maybe fix one and see Arisaday.
+
+Raj:
+  He can.
+
+Navpreet Singh:
+  Oh, God.
+
+Raj:
+  This was about the go test and the rest of the things filed on the go test, so yes.
+
+Navpreet Singh:
+  Are there more things guys that are feeling?
+  From cool tests.
+
+Raj:
+  Uh, not, not, not apart from these two, but we have all the failures here, and then we go test, that's it.
+
+Navpreet Singh:
+  Okay.
+  Thank you, yeah. Thank you, testing team. Thank you, Tejas and Raj.
+  Kartik krishna kalesh.
+  But I use imports of verdict.
+  Give me some timelines, Kartik.
+  For everything, not only for your work, for everything.
+  Kartik.
+  Kartik, are you there? Can you hear me?
+  You're on mute, Kartik.
+  kalesh krishna any timelines guys.
+  I kind of...
+  Can you guys hear me, Raj? Can you hear me?
+
+krishna:
+  Hello?
+
+Raj:
+  Yeah, I can, I can.
+
+Navpreet Singh:
+  On krishna time, what are the timelines, man?
+
+krishna:
+  Yeah.
+  Ah, ah, most of, almost fix, so as if a kiya do fixes bakiye.
+
+Navpreet Singh:
+  Luke.
+
+krishna:
+  Fix or testing.
+  Deopi Jai Samuel.
+
+Navpreet Singh:
+  With broad feed out like krishna timeline is killing.
+  Just.
+
+krishna:
+  Prodically OK.
+
+Navpreet Singh:
+  Just in a timeline, say, to me, message the group, to look so many push of the kalesh, kick up to go. Friday morning, Saturday morning, Saturday evening.
+
+Kartik:
+  Okay, so yeah, hello, I'm back. I was using the restroom. My bad. So you were saying nothing?
+
+Navpreet Singh:
+  Like krishna seek, I am asking, like, what are the...
+  What are the timelines to move things to broad now? What are the realistic? What are the realistic timelines to move things to broad?
+
+Kartik:
+  Hello?
+  You.
+  OK, so can you please can you please?
+
+Navpreet Singh:
+  What are the realistic timelines to move things to broad?
+
+Kartik:
+  Hello!
+  Uh-huh.
+  Okay, so right now I think we are we need to fix good 2030 things.
+
+Navpreet Singh:
+  Mm.
+
+Kartik:
+  Ohh.
+  No.
+  I'll be working throughout the night. I would say tomorrow morning is good.
+
+Navpreet Singh:
+  Vivek.
+
+Kartik:
+  Do you agree on that, Navpreet, or do you think that that would not be feasible?
+
+Navpreet Singh:
+  It's too much of A stretch, man. Tomorrow morning is what you're telling me, is it?
+
+Kartik:
+  Yeah, you're saying that, hey, that's too long. We don't have that much time.
+
+Navpreet Singh:
+  Oh.
+  No, I mean, I'm saying that he gets too short, dude. I mean, that's unreal expectations. That's what we've been doing since last one week.
+
+Kartik:
+  That, I'm gonna.
+  Mm.
+
+Navpreet Singh:
+  All of this is unreal. You have to implement it on steel, you have to test it, and then you have to move to prod, you have to test it.
+
+Kartik:
+  Okay, yeah, because yeah.
+  Okay.
+  You have the stage testing, I kind of, I kind of forgot about, yeah, you're right on that.
+
+Navpreet Singh:
+  Mhm.
+  What are the realistic timelines? Tell me.
+
+Kartik:
+  Okay, let me tell. So, 2030 more changes to go. If I sit on it.
+
+Navpreet Singh:
+  I don't think so. There are 20-30 more changes, man. I don't think so. There are 20-30 changes, man. I mean, you, between you, kalesh, no, they're less than that.
+
+Kartik:
+  It's 4050?
+  Oh, there less than that. Okay. Between me, kalesh and krishna, if we all pick five changes each, I think we should be...
+
+Navpreet Singh:
+  Mm-hmm.
+  Oh, I think krishna is only, krishna is only working on two. I don't even know what kalesh is working on. He just told me one change that he's working on. That's it. You are probably working on five or six changes. How are they 2030? Show me like, what's the list? Let's prioritise some of them. Let's, you know, remove some of those. Yeah.
+
+Kartik:
+  Mhm.
+  Okay, you got it.
+
+Navpreet Singh:
+  Yeah.
+
+Kartik:
+  Let me share the screen with you.
+
+Navpreet Singh:
+  Bing.
+  I am busy.
+
+Kartik:
+  Perfect, here we go.
+
+Navpreet Singh:
+  Consumer with the thought 2030 in this.
+
+Kartik:
+  So...
+  Which are currently fair, right?
+
+Navpreet Singh:
+  Okay.
+
+Kartik:
+  I mean, these are.
+  These are the changes we need.
+  to work on because even if the, I would say good 10 changes are already in the PRs that I've raised. But again, if those, let's look at the worst case scenario, if those 10 out of 10 of those changes come bounce back and testers say that these are failing.
+
+Navpreet Singh:
+  And...
+
+Kartik:
+  So we had around 61 of these records that are currently failing.
+  Nate.
+  Sixty-one, it says.
+
+Navpreet Singh:
+  Sixty-one.
+
+Kartik:
+  Yep.
+
+Navpreet Singh:
+  Are you telling me out of 7761 things failed, huh?
+
+Kartik:
+  Either they are not marked, they are empty, the testing status is empty, on hold or failed.
+
+Navpreet Singh:
+  So...
+  Mm.
+  Bhardwaj.
+
+Kartik:
+  Like, if I deselect blacks.
+
+Navpreet Singh:
+  Who?
+  Will be taking them.
+
+Kartik:
+  20 are gone instantly. So what about the blanks? This is what about the blanks, please? Are these failing? Have you not been depending on?
+
+Navpreet Singh:
+  I don't got to listen again.
+  Depending on you guys, man, then they're on, they're on you guys, they're on depending on the developers.
+
+Kartik:
+  So we haven't communicated these changes with those. So let's expect that these changes are to be are left as well. So yeah, I would say that around good 50 changes, even if I look at the bright side and see all of my PR changes are good, 50 changes are left.
+
+Navpreet Singh:
+  It's okay, number, maybe, but like you would see.
+
+Kartik:
+  Out of the 80 we had out of 80, 50 are left. 30 have been taken care of.
+
+Navpreet Singh:
+  Good.
+
+Kartik:
+  I will say, let me work on these 60 or 50. Let me work on these along with krishna and kalesh.
+
+Navpreet Singh:
+  Mm.
+  Kartik, let me also, you continue to work on this. I'll scan through the list, give me some time. And let me also see like which ones we can skip. I'll just let you know, right? Let you and I, let me call you probably in some time, right? And let's figure out like what needs to go tomorrow and what does not.
+
+Kartik:
+  Yes.
+  Okay, so you're saying that?
+  OK, so there are only 8.
+
+Navpreet Singh:
+  We'll definitely have to move our call. Yeah, I don't think so. We like the launch is today. Our EST may launch them, which is impossible, impossible.
+
+Kartik:
+  Yeah.
+
+Navpreet Singh:
+  Terrible work from all of us, man. Like unbelievably bad standards. Terrible. Let's see if we, let me go through this list and let me see if we can, you know, prioritise some of these, maybe remove some of these from the list. I'll only keep the critical ones. Section 9 is really critical.
+  Ohh...
+  Prioritise section 9 on top of everything else. Anything that is Kartik to do with, you know, these sections, like section editor, format editor, those are the most critical ones. Pick those ones up first, okay?
+
+Kartik:
+  Very good ones.
+  I am sorry for that. So you're saying that the formatting and the testing, not the edit section, edit section is...
+
+Navpreet Singh:
+  Formatting, formatting, edit section. These are the, yeah, these are the most important ones. OK, just focus on those. Cool. Yeah.
+
+Kartik:
+  Padhi.
+  Okay, perfect. Got it. And out of these around 10, yeah, around 10 to 12 are good out of my scope, which means that there are one ended inside and I don't know Jack about them.
+
+Navpreet Singh:
+  OK, click.
+  Bing.
+  All you will need all the money.
+  On some.
+  He can, we can't, can't do that, can't do anything about it. Let me see what's the availability of Samarth tomorrow, OK?
+
+Kartik:
+  Yeah.
+
+Navpreet Singh:
+  I'll call you in sometime, Kartik. I'll probably do a Teams call and we'll go through each one of these and see which ones should be picked and which ones should we skip. OK, meanwhile, let me look at this one. OK.
+
+Kartik:
+  Yeah, let's go.
+  Okay, okay.
+  Yes.
+
+Navpreet Singh:
+  I kalesh krishna work with Samarth, man. We we definitely work with krishna. Sorry, Kartik. Let's make sure that you know we deliver everything probably tomorrow, so we'll have to work guys. Unfortunately, we'll have to work tomorrow.
+  We'll see, like, we'll take a day off during the week, but launch new otherwise, so...
+  Raj, we'll pick up the testing. I don't know like tonight, so you just can't. Tomorrow we'll do the testing and tomorrow we'll try and move to prod.
+
+Raj:
+  Yes, definitely sure.
+
+Navpreet Singh:
+  Tell you, Tejas, Tejas, kalesh, sorry, kalesh, krishna, Kartik, continue to work. Tejas, tomorrow we will do the testing and Dipali, see like how you can support, right? I don't think so. I don't see much work for you. Thank you, team.
+  Let me call you to Kartik in sometime. I'll call you on Teams. Thank you.
+
+Raj:
+  Thank you.
