@@ -1,0 +1,235 @@
+Transcript: Dev Implementation Catch-Up-20260517_130102-Meeting Recording 1.mp4
+Generated: 2026-05-17 12:07:47 UTC
+============================================================
+
+ï»¿WEBVTT
+  EPR 100 is also deployed.
+  It was the duplication thing,
+  so can you please cheque it for
+  duplication somewhere there?
+  So what is this PR 101102? Hello Kartik.
+  Hello.
+  Do you want me to merge 101?
+  Yes.
+  Give me one second, though.
+  OK, kalesh has also raised 102.
+  Okay.
+  Team,
+  I have to drop off like in the next 10
+  minutes,
+  so like let me know if there is anything
+  like that.
+  So.
+  Yes.
+  Uh, Sir, screen share.
+  OK, sure.
+  Okay.
+  Sir, may the screen visible?
+  On, just give it a second,
+  it is available.
+  So, sir, uh,
+  actually probable duration of carry, uh,
+  export with the...
+  Apne, apne, hard refresh.
+  Control Shift, Kartik.
+  8 minutes, sir.
+  Ohh, perfect.
+  No.
+  No, you are, baby.
+  Nate, no.
+  Okay, okay, wait.
+  Sinfo Yeh Batala Padhi Joey Pro.
+  All right, right?
+  Can you open the credit?
+  I'll be I.
+  Sir pere nee tha repeat abhi ke ceji
+  aagya pata nahi.
+  Let me.
+  Yes.
+  Share correct in a screen,
+  so we need to repeat.
+  It takes a second, I'm just checking it.
+  Yep.
+  There's someone.
+  kalesh,
+  you are done with the testing of that air.
+  All good now?
+  You moved everything to dev.
+  But live is prod, correct? Like,
+  you should have like a dev, then stage,
+  then prod.
+  It's on Devil, it's on stage right now,
+  kalesh.
+  Merge, merge only. OK, just Kartik merge.
+  OK, Kartik, take care. Kartik,
+  where are we with that issue, man?
+  The one which you have been working on.
+  The duplicate one,
+  I'm still working for that.
+  No, I think...
+  Uh, kalesh, which PR number you were, 101,
+  right?
+  Yes, 101.
+  9102 I am reviewing it.
+  Yes, sorry, 10 to 10.
+  I was under another.
+  Yeah, we cannot make these mistakes, yeah,
+  can cost us the earlier,
+  but all of some of the I have Kartik,
+  we cannot drop the ball, yeah.
+  You have to make sure that you know.
+  You get took it, Louis.
+  Kartik, how far are we man on the fix man?
+  Any estimate? Like,
+  I just have to plan backwards, man.
+  I mean, I would say 10 minutes, probably.
+  Good.
+  Samarth, you are a good man.
+  Anything which is pending on you?
+  And also.
+  Sorry, go ahead, Kartik.
+  Also, Dipali, you were showcasing the UI,
+  were you showcasing the 055 fix or
+  something else?
+  Uh, actually, Sir,
+  may was so much only Section 4, uh, test,
+  but not uh, Section 4.
+  OK, OK. Can you quickly test 055?
+  I think I have also pushed a small fix
+  policy filter.
+  Doctor, Doctor, yes, sir, yes, sir.
+  But you are done with your changes when
+  anything pending at your end?
+  You're all good.
+  Samarth, if you are talking,
+  you are on mute, or if you are not here,
+  Yeah, sorry, sorry, sorry, actually, I, I,
+  I was not, but yeah, like, and that is,
+  yeah.
+  Alert.
+  I guess that is we're seeing now.
+  Let me just...
+  OK, OK, take care. No worries, no worries.
+  Take care. It's fine. OK, krishna,
+  how about you, man?
+  Yes, Raj,
+  the implementation of KG API is working
+  now.
+  I had one question that implementation of
+  deploy Samarth Kartik.
+  Team.
+  I think that's somewhat somewhat to do
+  that there,
+  somewhat to scope up or deploy Kartik,
+  yeah, please,
+  and then to stage then to prod.
+  Your backend.
+  Anything bigger?
+  Hi, I think krishna was saying something.
+  krishna Padhi, please.
+  KG API update,
+  so we go update API use key or same
+  DynamoDB image store over KG API or old
+  section name both the same API change.
+  I'm, I'm, I'm, I'm updated, so please.
+  To go, update.
+  Bhushamal Police, PM, myself also.
+  Okay, okay.
+  Piyush.
+  Okay, okay.
+  Yeah, yeah.
+  I might have to drop off right now, but,
+  like, I'll try to be like, like,
+  in like 20-30 minutes, like, Krishna,
+  my workflows,
+  they'll just send me those over Teams
+  itself.
+  Sure, Samarth, nobody here, take your,
+  no worries, Samarth, take your time.
+  We are on the same call, man.
+  Join back in 20, 25 minutes, okay,
+  30 minutes. Okay, and meanwhile,
+  we will just deploy everything to stage,
+  okay, after testing. Thank you so much.
+  OK.
+  Thanks.
+  Oh.
+  Is the 555 fixed?
+  Okay, so...
+  Was Samarth working on it?
+  No, I think no.
+  Ohh, ohh, that Kartik Ekman,
+  it's still Ekman, D.J. - yes, yes.
+  Okay, okay, okay, yeah, yeah, sure, sure.
+  But on the first one is fixed, right?
+  Right.
+  Oh, Kartik.
+  Mhm.
+  Okay, okay.
+  Nice, good, good, good, good. OK, good.
+  Yes.
+  Hello?
+  How do you?
+  Hello, Kartik. Section one.
+  Huh?
+  What happened? Share your screen, please.
+  1.3. Yeah, OK.
+  Very screen visible.
+  Yes, go ahead.
+  He is so bold, yeah, they cannot, well, 1.
+  3 said they.
+  Ohh, it's due to a bad beta. OK,
+  it's only on this case ID, every case ID.
+  Yeah, Dicky, huh, yeah.
+  Ek mate.
+  Guys, this is a lunch.
+  Sir, so we ID Kelly, we do 3 ID.
+  Section one make 1.3 acre one. Yes,
+  But the doctor name is changed.
+  Doctor name is fixed. OK, got it.
+  Doctor. Yes, OK.
+  And duplicate.
+  Can you show me the duplicate as well? 4.
+  2 point after 4.6, just scroll down.
+  Show it to me.
+  Just a minute, yeah, okay, I'll be.
+  4.2.1, 4.212, 4.2.3,
+  Yes.
+  Okay.
+  Tamasal bode ki unane fixed.
+  I.
+  Gee, sir, abhini Aaron.
+  Sir mujheye takes you badal agrai patani
+  wo dekhtyu me probable duration of care.
+  Hello?
+  Hello!
+  I think Kartik is on mute here.
+  Yes.
+  Values.
+  Two.
+  The length of essay.
+  Ohh, okay, may take divya aapka padhi.
+  Mm.
+  Take care, OK. Dipali, Tejas, krishna,
+  Raj, Kartik, lunch.
+  No lunch yet, OK?
+  Raj.
+  Um, I'll have before our evening call.
+  Okay, Tejas.
+  Just, I'll do half an hour break,
+  that's it.
+  Mhm.
+  Baki, Baki.
+  My goodness, guys, go,
+  go have something here. It's OK.
+  Let's connect at six here.
+  And then go have your lunch here.
+  These.
+  So sorry, guys. Yeah, I was thinking.
+  Sure, okay. Please go and have your lunch,
+  guys, at least.
+  We will connect at six on the on the same
+  call here, please. Bye.
+  Everyone, drop off guys,
+  please have your lunch, Chalu.
+  Yeah.
