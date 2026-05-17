@@ -1,0 +1,2278 @@
+Transcript: Dev Implementation Catch-Up-20260517_130102-Meeting Recording.mp4
+Generated: 2026-05-17 11:38:56 UTC
+============================================================
+
+ï»¿WEBVTT
+  Yes, yes.
+  Yeah, so basically, Tejas, Deepali, Raj,
+  whenever these guys are done with the
+  changes on dev,
+  are because they are also three,
+  we are also three, correct?
+  So what we are going to do is all the
+  changes, you know, Tejas,
+  like whatever Karthik is doing,
+  Kalesh is doing, just test them, correct?
+  Like.
+  And, and krishna,
+  and then distribute it among yourself,
+  Yes, yes.
+  but then Tejas, please take a lead on it,
+  because of end to end idea again,
+  Yes, which?
+  plus Dipali and Raj as well,
+  you can distribute the cases among all of
+  Yes, this.
+  you can work together,
+  but then you know it is achievable. OK,
+  so...
+  Fourteen, 8, 14,
+  and then what we can work in next star is
+  then four to four, correct?
+  That is the strategy here, guys.
+  I want you guys to work on this
+  particular thing,
+  so that major 181018 correct number 50
+  number correct,
+  which is like and then so that is
+  something which we will be able to take
+  care of it.
+  Okay.
+  Here guys, OK.
+  I think I'd also be on the call for mute,
+  so that you know,
+  if you guys need anything from me,
+  I can answer and I can respond to ASAP to
+  you guys ASAP, but yeah,
+  let's work towards that particular thing
+  here.
+  And,
+  and let me know if you feel like you're a
+  char bache hai or you don't know me bache,
+  krishna char apke bache,
+  Kartik your which is left and kalesh your
+  which two is left.
+  If it is going to take too much amount of
+  time then you might have to, you know,
+  change the approach. But I got 1414 eight.
+  And then, for the next 448...
+  And then by 3pm it should be good which
+  stage.
+  Okay, guys.
+  All good?
+  Yes.
+  Kartik kalesh, okay.
+  Yeah.
+  No.
+  Katepa awaaz ni hai, I think.
+  How about now? Is it better? Hello?
+  It.
+  Yeah, it is better, man. Yeah,
+  I think it's fine, guys. I will, yeah,
+  Okay, all good, yes.
+  yeah, I will,
+  I will keep on myself on mute, guys.
+  You continue,
+  and I will again ask you guys at 2 P.m.
+  and this time I'll ask Tejas, Dipali,
+  and Raj,
+  because I will expect that the developers
+  would give you those changes by.
+  Like by that time, at least OK, maybe 5,
+  10 minutes before that,
+  so that you know you guys can do a
+  testing and then these guys can move to
+  the four to four changes. Yeah, OK,
+  I'll go on your guys, yeah.
+  Okay, okay.
+  Yeah.
+  Better welcome someone.
+  I wish you had not on you.
+  Hello, krishna.
+  Okay, I was.
+  Hello, hello.
+  Yeah, Padhi.
+  Job Nikhil Joe caps call to fix KR right
+  provider column,
+  so I will be development live here.
+  Oh,
+  PR 87 mai woh bhi mat hospe aa raatne
+  kamel kya woh ikbar fix puat of rd kojaig
+  approvo.
+  Cause send all caps, right?
+  So, as it is a good.
+  98 minute krishna tomorrow 87 make all
+  caps.
+  Nate, go snap exit their title case.
+  Okay.
+  Krishna, it is on text Padhi.
+  Thank you, sir.
+  It will take me.
+  Same effects for the.
+  Bangalore.
+  Eighty-seven, Jyobi Section 2.1,
+  Section two, K. Jyobi changes.
+  Left aligned on right.
+  Ohh.
+  Table column. Left arrange.
+  Or caps cutter.
+  Ohh.
+  Case, case title, case title now.
+  Oh.
+  Title case karna.
+  GT me compared to normal first word
+  capital or first character capital or.
+  On Pepsi.
+  Ohh.
+  Wait till.
+  Mhm.
+  O 87 Mahat Marito kalesh.
+  What problem is better?
+  Cappone.
+  Raj Akni Tabola.
+  Kalesh, 87 PR may already.
+  Nine 99 - just a second,
+  just a second - krishna gave BMR my fix
+  there.
+  Sorry, krishna. Krishna. Krishna. 87 may.
+  Haha, right.
+  Okay.
+  Okay.
+  Ha,
+  but many code my other many many branch
+  push krishna right MPR is krishna,
+  so why pay us car over right?
+  Cause mere code me wa.
+  Abhi, Abhi, Abhimat, Abhimat, APR, Marjo,
+  Jandu was krishna Ali.
+  Okay.
+  But...
+  But, re-base can never changes here.
+  He worked again.
+  Mm.
+  So, krishna, sorry kalesh,
+  changes changes, and then changes.
+  Is a concept.
+  I don't like that I got it done. OK.
+  So, did.
+  The point is, specifically,
+  particular changes changes,
+  like give a context to it, correct? Yeah,
+  I'm rebasing the code.
+  So, all the changes,
+  whatever you have done, might go away. So,
+  except these two, these two changes,
+  all the other changes we might have to,
+  maybe might have to redo it again. OK,
+  and the console changes.
+  Yeah, the team changes,
+  and your code goes to Balke Rakhlu,
+  you got one of your Karna rebase Kartik,
+  yeah, for job just be easy,
+  man of krishna, easier, easier, rebase,
+  correct, 13 changes.
+  Top kalesh krishna will change. Yeah,
+  so Dev pay. Krishna changes up.
+  Okay.
+  Honey, somebody, somebody else.
+  No problem.
+  Thanks.
+  Hello, Kartik.
+  Yo, what's up?
+  Uh, manage PR's merge for deploy.
+  Okay.
+  Again.
+  Open.
+  Piyush merge kar de M.N.M.
+  so de deploy kar do.
+  How many? Which is the last one?
+  which was the last number 90.
+  Yeah.
+  You can deploy the dev branch as well,
+  testing.
+  kalesh krishna you can re base if you
+  want better branch.
+  Raj Usme krishna Section Two,
+  Wall of XB Gagan.
+  It is only.
+  Okay.
+  Raj,
+  you put in a message in the group key,
+  like test it,
+  like what all features they have to test
+  it here, how would they know about it?
+  Everything on the sheet,
+  we need to test it for you.
+  No, but then everything is fine,
+  but I think these guys are pushing in
+  things, correct? Like right now, 14, 14,
+  8.
+  Abhish,
+  I have mentioned it in the Team chat: 14
+  To me.
+  features which they need to place.
+  Okay, okay.
+  OK, 14. Yeah,
+  that's what my point was correct. OK,
+  and how about the features from?
+  kalesh and krishna,
+  are they pushed already to them?
+  These are the accumulated features from
+  the last five, 6 PRs, right?
+  Few features have already been pushed.
+  The Tejas is just testing those,
+  Okay.
+  and I'll be pushing them to stage.
+  He has already passed 7 or 8 features,
+  and I'm pushing this. Yeah, go ahead,
+  So, basically...
+  Piyush.
+  No, no,
+  so basically you are saying that we would,
+  Yep.
+  while we were targeting like 2 PM-ish,
+  we will be before that,
+  we will be able to push 14, 8 and 14,
+  8 and 14 just to dev.
+  Yeah.
+  Yeah.
+  Is it OK? Perfect place. Yeah, awesome.
+  Awesome. So, and krishna, how about you?
+  You.
+  The same thing.
+  You are also done pushing your 1415
+  features, man.
+  Only the the knowledge graph is in.
+  Only knowledge is remaining is remaining
+  correct.
+  And multiple, yes, and yes,
+  and multiple programs.
+  Multiple.
+  You know, section providers,
+  but there was section 2 issue.
+  I like.
+  Everything push out,
+  only two things should be left on you,
+  It.
+  krishna. OK, OK, and krishna only two.
+  The.
+  Sing "Waqi to Ho Vyadh Maine Deo Pe Kuch
+  Pate Nagar" checked.
+  With a pinch, cheque it.
+  Hi, buddy, again, 10 minutes,
+  so Kartik and kalesh,
+  you also please do this here,
+  whatever list you had, correct,
+  when you are pushing it to dev,
+  and then only we say,
+  keep it done from our side, correct,
+  Kartik and kalesh, so just push.
+  Big.
+  Yes, I am.
+  I'm running like 7-8 tests per feature
+  HR.
+  before krishna.
+  Yeah, yeah, okay, perfect. And TK,
+  so krishna, kalesh, Kartik, take next 5,
+  10 minutes,
+  put a message on the group key,
+  these are the features which are done,
+  like on the sheet, whatever,
+  I have updated the status,
+  and then Dipali and Tejas can test it
+  with Raj as well, okay? Let's do it.
+  So I think pretty good that, you know, 85,
+  90% of the features would be done by like
+  2 P.m. and then a couple of them,
+  two or three features, we'll do it by 3 P.
+  m. Okay? And then we'll move it to prod.
+  Theorize,
+  I think I'll still stay on the call just
+  to, you know, cheque on stuff. Yeah.
+  Thank you.
+  Kartik, hello.
+  Yep.
+  Ohh, you wanna follow us and we may. Uh,
+  tasks 16 in this list. The second one.
+  Hello.
+  Uh-huh, star 16 is still not good.
+  Text John.
+  Can you please share your screen address
+  for me?
+  That's one picture.
+  Mhm.
+  This one, right? Um,
+  and it should be here if I'm not on the
+  first one.
+  Is it or?
+  Okay, go ahead. Yeah, go ahead,
+  Sufi and Ahmed, but yeah.
+  Hello!
+  Yeah, uh, which I want to make it.
+  Go to a go to a swag.
+  No, no, go to this one.
+  Don't say anything, don't cancel.
+  Yes.
+  Cheque if Mister Ahmed is here anywhere.
+  If Mr. Ahmed is anywhere here,
+  that means that we have failed Ahmed
+  Mister.
+  Bhardwaj should not be anywhere else.
+  So press Control F and search for Ahmed
+  Bhardwaj throughout the page.
+  Mister Ahmed.
+  Or you can just do that.
+  Right, Mister Ahmed is nowhere, remove,
+  but and just search for Mister Ahmed.
+  Also try the case which they just failed,
+  which is
+  Says which is which is.
+  6117.
+  Padhi.
+  Nate right now.
+  But 3 grand is only one, sorry, two words.
+  I came in Section One.
+  We are having full name, right?
+  Yeah.
+  Padhi, you can edit.
+  Of them, I mean, because there it doesn't.
+  Two.
+  This is an MCP.
+  Play.
+  Yeah.
+  Mr. Gunja, what is the name of this guy?
+  Full name?
+  Mr. Gonzalez.
+  OK, so search for Mister Angel,
+  search for Mister Angel,
+  This issue.
+  or just Angel Gonzalez.
+  Wait, wait, wait, this one is true,
+  I believe.
+  From what you have done,
+  you have replaced.
+  Everything in the report with the last
+  name, I guess, right?
+  No, not everything.
+  Wherever Angel Gonzalez was,
+  The phone.
+  is replaced with Gonzalez.
+  On the cover page,
+  we should have the full name.
+  Nate.
+  For the...
+  Benebi Doja Tejas kalesh ke ceji kya full
+  name RMA.
+  Yeah.
+  cover page bill.
+  Um, I love Jessica, section one,
+  maybe full name.
+  For Mister, yeah, first name,
+  last name is Yara. My up quote is Patil.
+  It.
+  Middle name is not coming.
+  Oh.
+  No, no, middle name is not coming: 3103.
+  Right.
+  Yeah, two little uh, name.
+  Cappone.
+  Ms. Mali Ki Pi movie.
+  Yeah.
+  In there.
+  And what?
+  Okay, hello.
+  So, what's up?
+  On that.
+  Let me, let me find something.
+  Try to find it.
+  I'm currently like cherry picking the
+  commits and it's kind of hard.
+  Give me 5 using them.
+  Madlab expected Miss Auru Avo Foster
+  vidnaayi na ao Sharonne Ana Jayena.
+  Mail in Maharashtra to make me read about
+  Padhi.
+  First name, last name.
+  Okay, so what's up? What's the consensus?
+  Me?
+  You.
+  No.
+  What?
+  Play, play.
+  Hello.
+  For a report, my last name, Ara Kevan,
+  for a name, for any.
+  Okay.
+  Yeah.
+  Okay, yeah. Fenil that.
+  Move on to the next one.
+  Raj.
+  Hello, Raj.
+  Yes.
+  Doctor Nemka abhi bhi madlab changed ni
+  ho rai Doctor Nem ho issue padhi ke fix
+  ona.
+  Task 55.
+  Play the idea of a test in India.
+  Test ID.
+  3103.
+  Take me.
+  The Katrini was in the last two years.
+  Ohh, my name information here, you said,
+  you said, yeah, Topira Gagan section.
+  I'm a log.
+  Ha ha.
+  1.3 Madeke.
+  Nikhil Mali Long.
+  1.3.
+  How there was Dr. Neelwalayara.
+  Yeah.
+  OK.
+  Hello, Kartik.
+  Raj.
+  Hello!
+  Play "Kiss Mein Chala Ray Kaun Telugu".
+  Try this case ID: 4958. This has three.
+  Same thing.
+  Here they go.
+  No.
+  The.
+  No.
+  What?
+  Which, which, which are you testing? What,
+  what, what things are you testing?
+  It.
+  The which is a doctor name, right?
+  Sixteen.
+  Or fifty-five.
+  Doctor name change: fifty-five.
+  You want to ask me,
+  ask me for what you ask me?
+  And.
+  Yeah.
+  Don't hear you, Raj.
+  Am I audible?
+  Yeah, go ahead.
+  Yeah.
+  Go ahead, Raj Mirza.
+  Me too.
+  War.
+  Is it is he is it just for me or is
+  anyone else also facing this issue?
+  Is it my lifetime?
+  Team.
+  Yeah.
+  Kartik, there's a lot of background noise.
+  It seems that you are on a Titanic man
+  and there's a lot of air, correct?
+  Maybe with me as well.
+  So it's a problem with the Indian fan.
+  OK, let me see.
+  DA.
+  Is it fine?
+  How about now?
+  Is this Vinay?
+  Yeah, it is better,
+  but then should not also be like in
+  scorching heat, correct? So just see that,
+  you know, how it works, man.
+  Alright, no, it's fine.
+  So what's the issue? Which which case,
+  which test are you the doctor named 055?
+  What's the issue?
+  Doctor name change, doctor name change.
+  I change the name of the doctor here,
+  right?
+  It's not propagating all over the report.
+  If you see section 1.3, right?
+  We can see the original dr name,
+  which is Neil,
+  and I changed it to Robert Moya.
+  Right in section 1.4 footer as well,
+  it's Doctor Neil.
+  If I cheque section 4, 4.2.
+  The footers, OK, footers as well.
+  4.2 no see here has been 4.212.
+  Mm.
+  Doctor Neil.
+  But if you click on Word.
+  Is it still not getting there?
+  Where is broken?
+  That is a question.
+  Oh.
+  I.
+  Nikhil.
+  Word is completely broken.
+  It's made a change in Aura.
+  World key formatting will be.
+  Is it is it 1000 plus pager this case ID?
+  No, 191.
+  Mmh.
+  Give me one second,
+  let me see what they fixed.
+  Kishna Akbar,
+  4915 Lockhole Vision Office for testing.
+  krishna.
+  What do you say?
+  And I was.
+  So, I did.
+  Raj.
+  Task 83 MCP word of parity.
+  Why cheque on the word ExpertReporting?
+  This is the word word exports.
+  Task 83.
+  Okay.
+  So, my failure then departed, yeah, I say,
+  but cheque for no.
+  Task 83, go, kalesh.
+  On commitment, all the word export.
+  Not proper for MC2 cases.
+  Voice sources, ha ha, yes, yes.
+  You.
+  Raj Bai, uh, 58882 is enough.
+  And.
+  Ohh, see,
+  like in Word document download 9 section.
+  Yeah.
+  1.
+  Download the list.
+  And this is my 9th section of the
+  incident up now.
+  This is Xander.
+  Oh, hello guys,
+  sorry I have to interrupt you guys.
+  It's 2 already,
+  so are we good with the plan what we
+  discussed? Kartik, krishna, kalesh,
+  where we are guys?
+  I don't.
+  Hey guys, kalesh, Kartik, krishna.
+  Yeah, I have raised the first VR on stage.
+  I have pushed all the changes happened.
+  Yeah.
+  Then any before then any, then any Kartik,
+  not, let's not run yet, yeah, like,
+  Ahmed.
+  whatever you brought, like,
+  whatever we decided, it's all on dev.
+  It's working fine.
+  All the 18 of it or the 14 of it?
+  No.
+  The test kit,
+  the testers are testing those,
+  but TLDRS out of those, there are one,
+  two, three, four things that failed.
+  I am correcting those four. OK,
+  so one is for failed from Kartik side,
+  one is failed from Kartik side.
+  To who I failed from Kartik says,
+  because only Kartik has asked the testers,
+  this other guys have not let us any test.
+  And why is that the case?
+  We discussed one hour back, correct?
+  kalesh and krishna,
+  and also Kartik at a charge changes fail,
+  you are testing it like 6 times.
+  I over corrected. Yes, I over corrected.
+  Like for example, in 0016,
+  what I did is I removed the first name as
+  well in some places where only, okay,
+  so in section one,
+  the full name should come.
+  While correcting that middle name and
+  last name should not come,
+  I also removed the first name.
+  That is, like, uh, mistake,
+  which Aarush point you have to go.
+  Anybody overcorrected.
+  This is like doing the wrong thing,
+  correct?
+  It's just choosing the words wisely.
+  Anyways, it's OK. I think Kartik again,
+  we can do this the whole day, man.
+  It's okay, I think.
+  Please correct those four things,
+  and yeah, in next 10 minutes or so, man,
+  correct them and let's push it to dev and
+  testers push it.
+  Uh, krishna, how about you, man?
+  Why aren't the changes,
+  the 14 changes on dev yet, man?
+  The testers go, the testers go,
+  but I have never test a lawyer,
+  Kartik Borden.
+  No, it is not.
+  Okay.
+  Yet, you should ask a 15, 18, 24, 25,
+  if you do it, do you have E.
+  Yeah,
+  but exactly 1518 value so many 18 krishna.
+  Yes.
+  Dating.
+  Eighteen may say Joe total priority is P1
+  or P zeros P zeros.
+  Uh-huh.
+  At the P. Note, basically P. Note,
+  basically P. Note.
+  Yes, or is a task mapping table.
+  Hey Cortana.
+  Nate, I mean minute.
+  In.
+  Yes, C.
+  I can't.
+  Make it clear, but always clear.
+  Uh-huh.
+  To estimate total other P1 or P not to
+  total Patil task.
+  When they say, uh,
+  I gonna piece uh in order to keep take it
+  to total 11.
+  Or total 11 message.
+  Kuch pass over here, kuch fail over here,
+  toh abhi jo fail over here,
+  mein unko amar lag unke test unka fix
+  mein deo ke push kardiya or.
+  Jo malab jo critical task ke jo malab
+  hunje kali kali aaji mood milay tohua
+  vibhattu.
+  Okay, basically correct.
+  Team.
+  Yes. Knowledge graph mapping tables.
+  Gotcha.
+  Uh-huh.
+  Mhm.
+  I.
+  Voice or Section 2 may to highlighting.
+  Singh.
+  Yeh Team Das Mirza.
+  OK, Pika.
+  I think he's also available now, kalesh,
+  what is happening?
+  I got a system.
+  Yes, yes.
+  After we after we after 10th 10th in IR.
+  We would.
+  I think 2 and right, so.
+  Tika.
+  It's all new.
+  Ponsavu kya bage?
+  We keep outlooks formatting,
+  keep formatting a little way.
+  Little bit one, look,
+  move your space and up over again.
+  Okay.
+  Hello, Samarth.
+  Hello, hi.
+  To Samarth,
+  just to give you a quick update here,
+  No.
+  I don't know why section 9 gets sub
+  changes. I think maybe.
+  Group Pedalia, to Raj, Big Buddy, Samarth,
+  TLDR, Yahoo, exactly.
+  He can also join forces and he can
+  closely work with krishna and you know
+  Kartik and everyone, correct,
+  to make sure things are aligned. So, Raj,
+  before that, I think Kartik.
+  Do you want to give a quick TLDR to
+  Samarth on the issues or whatever is
+  happening, correct?
+  Yeah,
+  so the issues is that we don't know what
+  Section 9 is about, and by fixing it,
+  I feel that many of us are like kalesh
+  and I,
+  we are breaking more things and fixing
+  them. So that needs to be kind of sorry,
+  right? After that,
+  The task 001 has been marked pass.
+  Before that, no, no,
+  I think before before that, Kartik,
+  one second Samarth,
+  I think section 9 is already done,
+  correct?
+  It's all all fixed is what I have
+  understood now, is it?
+  Yes, yes, it is. It is all fixed,
+  and there was one error.
+  There is a...
+  Mhm.
+  But, how come,
+  how come everything else is like not
+  working if it is all fixed? One of us,
+  you have to update with P.R.
+  and merge new, yeah?
+  No, like, you know,
+  I think that has a huge, like,
+  like a stage, it is, it is,
+  it is on stage itself,
+  but latest deployments, but...
+  HP, my code is there,
+  and their section 9 is working as well,
+  specific issue, right? So then, like,
+  I know, like, I can,
+  I can do that exactly,
+  I'm not sure exactly fail here.
+  So, Kartik,
+  can you please share the Kartik screen
+  share features on section 9 update
+  because of our merges,
+  those codes are overwritten as a possible.
+  I think we should talk to you.
+  Yeah.
+  Nate.
+  Ohh, I, I'm on mute, yeah, yeah, my bad.
+  I was saying that,
+  is it better if I dictate or is it better
+  if you just see the screen?
+  Yeah, I understand.
+  The first one, Kartik,
+  I just had a call with krishna as well,
+  like 5, 10 minutes back,
+  and this needs to be,
+  this is not a UI fail or something.
+  It just needs to be updated in the
+  mapping table. So that, I guess,
+  krishna is working on brand mapping
+  tables. Then the second one.
+  In.
+  Yeah,
+  like this one is low accuracy that we
+  know,
+  and that is because not all line items
+  are coming there properly,
+  and that is happening even in the
+  knowledge graph, right?
+  It is about like mapping tables and not
+  how to exactly fix that,
+  because it it might it mostly will be
+  dependent on the knowledge graph thing.
+  Same thing for table 9 as well,
+  many missing items is...
+  like the same thing that the mapping
+  table we have might not be that strong
+  because of which some items are getting
+  missed.
+  So this is also knowledge graph thing as
+  well.
+  Ohh.
+  Yeah, and then interview.
+  Yeah, go there,
+  interview section on the main, OK, so...
+  Kartik, would you mind putting in,
+  just one second, Kartik,
+  would you mind putting in some notes
+  there, as Samarth is saying, correct?
+  Dependent on knowledge graph,
+  dependent on knowledge graph for the
+  first two, correct?
+  Just put in some notes there,
+  dependent on knowledge graph, yeah. Okay,
+  I think it's already there,
+  then it's fine.
+  Kartik put in development status.
+  Sorry, go ahead, Samarth.
+  Talk to me.
+  Development status will download on hold,
+  depending on knowledge graph,
+  something like that.
+  Okay, Kartik.
+  That was it for section 9, Kartik.
+  I think so, yeah.
+  Yeah.
+  Mhm.
+  At the next once.
+  Nick.
+  Let, let me see.
+  interview section not coming out
+  correctly. This is not section 9.
+  Okay.
+  Kartik,
+  cheque the tab with the name Samarth,
+  the third tab.
+  Yeah.
+  Assignee.
+  Third sheet, third sheet.
+  Oh, okay. So these are the section, oh,
+  there are a lot of section 9 separate.
+  Let's start a fixed critical cost bug. OK,
+  let's start this.
+  So, so Kartik, Kartik, yeah, yeah,
+  I gave us changes section 9.
+  Yeah, these are the changes,
+  issues on this section 9.
+  The boss.
+  I would say that at six or seven.
+  That was in the other sheet,
+  feedback sheet.
+  There's a sheet called Samarth sheet,
+  which is specifically for Samarth and the.
+  It has been filtered out properly, right?
+  That sheet was not filtered out.
+  Okay.
+  So, Samarth, basically,
+  they call an endpoint here,
+  OK, Samarth.
+  you will agree to that, we are pushing,
+  so we are connected on this call here,
+  and we will make sure that...
+  Which is a pending mission critical
+  formatting section 9 section 2 team
+  changes,
+  so I would just recommend you key just
+  connect with the team as well,
+  see where we are and how can we achieve
+  it in like next.
+  Next one and a half, two hours,
+  and I don't want to, you know,
+  kind of be on the call and, like, you are,
+  like, I want you as well, everyone here,
+  you know, lightly Sunday,
+  but I think it is possible the way we are
+  doing it, so I think...
+  Um...
+  A be current status,
+  make it make it in the batch in Kartik,
+  charge in this page open and he fix what
+  is that like what is happening there?
+  Okay,
+  so they have still left because I am
+  currently fixing the feedback from the
+  feedback 16 and 55.
+  I'm fixing those things.
+  Doctor propagation and those. After that,
+  the things that are linked.
+  Kartik, a quick, quick thing.
+  I cheque it four to six times, correct?
+  Singh.
+  Last name, first name.
+  Sixteen, yeah, 16 one.
+  I thought that Mister that last name was
+  Rutwik.
+  Sorry.
+  But document propagation,
+  I don't know why it's not 16.
+  I'm talking about 16, right?
+  So that issue,
+  Uh-huh.
+  I like did cheque and it was showing that
+  old, like Mr. Last, Mr. Naskin.
+  It was showing the first name in many
+  places,
+  but on the on some specific section,
+  like section one, it.
+  Must always show the first name.
+  That thing I did not know about,
+  so I know that now and I am corrected.
+  I am correcting for that.
+  That hotfix is being getting pushed soon
+  super quick for 055.
+  I have no idea why it's not working on
+  dev. It was working on my.
+  But it's not working on dev,
+  I'm looking into it,
+  why it's not working on dev,
+  and I'd let the team know when I'm done
+  with BMR to fix up.
+  Okay, sure.
+  So I think where we are right now is that
+  we are still fixing things.
+  So let's team again, like with it at 2pm,
+  let's do it at 3pm as well.
+  And by that time,
+  I expect that everything,
+  whatever we are done with the development
+  is over and we are at least moved to dev.
+  And then the testers are testing it,
+  correct? Go ahead, sorry.
+  Honey, in in that sheet is as well,
+  Piyush, like Jogi made an answer, right?
+  This may be section 90 why you saying
+  like there is like all Jogi they are
+  already passed,
+  so they are either dependent on the
+  knowledge graph.
+  or the mapping tables that krishna is
+  working on. So like on UI specifically,
+  Okay.
+  there are no section 9 fixes that are
+  currently.
+  Like there was that one that I have.
+  So, total calculator,
+  so total calculator on all is working
+  Yeah.
+  Yes,
+  like I deployed that that one six that I
+  fine.
+  talked about, right? So that is OK.
+  Piyush.
+  You can make make sense, sir. Samarth,
+  if you are saying, I believe you,
+  it's okay, so just just keep an eye,
+  you know, like you, you know, correctly,
+  Yes.
+  Yes.
+  what are the P nodes important at Team
+  Klehana, so we are like, again,
+  Yeah.
+  if you want to go and do something at
+  your end, 15, 20, half an hour, it's okay,
+  go go and do that, but keep a tap on it,
+  correct?
+  Because we will again circle back at like
+  9, like 3 P.m. And by that time, team,
+  Yep, yep.
+  Okay.
+  I expect that everything should be on dev
+  and the tester are testing it. Kartik,
+  is it achievable?
+  Um, yeah, it is. It is.
+  I try to remember this was.
+  OK, kalesh.
+  Yes, yes.
+  I understand, but achievable.
+  Then it will speak, that's all.
+  Uh-huh,
+  and testers will test it again at 3 P.m.
+  Okay, okay.
+  and for everyone as well, like...
+  Yeah, all, all, all fine, man.
+  Let's target,
+  Nate.
+  because I think whatever we discussed at
+  1 P.m., we are almost there.
+  I think Kartik is still fixing two or
+  three things at his end,
+  but he has fixed 10 things and pushed it
+  to dev,
+  and I think those are working fine,
+  but krishna.
+  Knowledge we can go in it inside.
+  To.
+  Okay.
+  So, let's try to close it at by 3 P.m.,
+  give it to testers, you know,
+  knowledge graph, and it'll do that again,
+  and guys, if you are stuck, if you don't..
+  .
+  Know what to do,
+  and all Samarth is also here on the call,
+  just ping him,
+  and then Samarth can pitch in,
+  and he can solve it for us, guys.
+  OK, so I will go on mute here,
+  and then let's cheque in at 3 P.m.
+  and testers,
+  please continue to test it here, Dipali,
+  Tejas, and Raj, correct?
+  Joby team changes, please guys. Thank you.
+  Uh, Raj Bai.
+  Song, song.
+  Ah, jokey M.C.P.K.
+  Sagar generate karna word download karna.
+  Ohh, well, speak Omnicam name,
+  CP word is broken.
+  I got think about divya.
+  Ohh, no, Kartik.
+  Okay, nice.
+  Hey Raj, uh, it's fine, you can uh...
+  you know, go for some time,
+  but meanwhile to team,
+  whenever we are merging something,
+  how will the merges happen, guys?
+  Who will take the...
+  You know, responsibility to merge stuff.
+  Like, who can do that? First of all,
+  that's the question.
+  Raj, if not you, then who can do that?
+  Uh, he was, uh,
+  the one is not yet the only one about the
+  Governing, yeah.
+  noise, but...
+  I'll be,
+  I'll be back in time to just postpone.
+  Okay, okay, cool, cool, then that's fine.
+  Okay, it's okay, yeah, okay. Thank you.
+  Yes.
+  Yeah.
+  Yeah, yeah.
+  Guys, Kartik, kalesh, krishna,
+  are we good? It's like the decided time,
+  correct? Tell me it's all good.
+  We are on dev and...
+  Move to stage now.
+  Kartik, you are on mute, kalesh krishna.
+  Ch.
+  The good thing is.
+  Sorry?
+  I.
+  So we are going to make 23 changes on
+  stage.
+  I have raised a BMR on stage for these 23
+  changes.
+  No, no, no, again,
+  my question is not that Kartik.
+  A bug on there,
+  but the question is with how many fixed
+  You?
+  on there, right? The P zeros.
+  Yeah, like how, yeah, how many,
+  because I think two, three,
+  four of them were left for you,
+  three of them for krishna,
+  and I think two were left for kalesh,
+  correct, earlier.
+  How many of them are left now?
+  Yeah, so...
+  So, the 055 I have.
+  and 016, right?
+  These 2 things are like giving me so much
+  trouble and I'm still fixing these two.
+  For the other three, for matter recent.
+  OK, so you're left with two,
+  you're left with you're left with two
+  changes, correct? Now, Kartik,
+  that's what you were saying.
+  No, I am still fixing those. I have.
+  I am yet to cover the four that I left,
+  but I'm still fixing the the two which
+  keep on failing for me.
+  So, Samarth, can we get your help in here,
+  man, if possible,
+  because it's been so much amount of time
+  Kartik is trying to fix them,
+  and he's not able to do that if you are
+  still around, Samarth.
+  Need to be sad.
+  What, what is the issue, Kartik?
+  The issue is the zero 16, right? If the...
+  Ohh.
+  One second, one second, Kartik.
+  One second, one second, one second,
+  Kartik, before we go ahead and Samarth,
+  one second. krishna and kalesh,
+  are you good or you also need some help,
+  guys?
+  kalesh,
+  you are done with all your 10 changes,
+  all good with dev,
+  all all like merged with dev.
+  Just one, just one, just one.
+  One, just one, one, one, one, one, and.
+  Ha ha, minute.
+  I'm very bad with numbers,
+  exactly formatting change.
+  Ahmed love Doctor Gay M.D. dot M.M. dot D.
+  dot ceji Doctor and.
+  Okay, okay, kalesh, in next 10 minutes,
+  do that, krishna, how about you, man?
+  But.
+  Okay.
+  Okay.
+  Okay.
+  You were doing on three or four changes,
+  correct?
+  UI can be a true.
+  Uh-huh.
+  Yes,
+  difficulty multiple providers for Section
+  Atcha, atcha.
+  Pika.
+  Two.
+  He can bucky.
+  Init in.
+  Section 9 is correct.
+  You.
+  Source record, multiple providers.
+  Okay, okay, okay, and I think good. So,
+  kalesh, I expect a message in next 5,
+  sorry, 10 minutes.
+  I know that I gave you that,
+  like your 10 minutes. So now, Kartik,
+  please discuss with Samarth that what is
+  happening, why is happening.
+  He will help you.
+  Or he might also pitch in,
+  and he might resolve it. OK,
+  so please discuss that, Kartik.
+  It's over there, and krishna,
+  Okay, so firstly...
+  ask about krishna,
+  ask about our discuss that again.
+  Go ahead, Kartik. Yeah, sorry.
+  Okay, so for zero 55, I'm almost done.
+  The thing is that it's not patching the
+  tables.
+  Zero 55 is about changing the doctor name
+  in the info page and it will reflect the
+  change in the word doc as well as the
+  entire edit section field.
+  It's working for Nag Dipali,
+  correct me if I'm wrong.
+  You tested this right?
+  Tell me if it's working throughout the
+  page or not even working throughout the
+  page.
+  Sir, the section 2 may be 1.
+  3 biography of medical.
+  Section 2 and section 9, right?
+  These 2 places? Yeah,
+  Yes, yes, yes.
+  only these two places are left and the
+  section 9 is very structured data, right?
+  So that's why it's having a bit of
+  trouble fix, like replacing that.
+  But I have raised a new fix for that.
+  I'm trying to create a new fix for that.
+  But the 016 that is,
+  I'm something not even in that.
+  What is 016? It said if someone has,
+  let's take then for Ahmed, but...
+  So,
+  it should come as Mister **** or Mister
+  Surfan.
+  I raised a fix,
+  but it overcorrected in such a way that
+  instead of having the full name,
+  where we should have the full name,
+  it's only showing Mister ****,
+  Mister ****, Mister ****,
+  Mister Surfan Ahmed,
+  but it's showing the full name,
+  but like in the section one,
+  we should always always always show the
+  full name.
+  It's not doing that.
+  So that I need to.
+  Fix.
+  I think anything is required from me.
+  Was that not audible? Yeah, no.
+  Sorry, can you repeat?
+  I guess I missed that.
+  Okay, so let me repeat.
+  Let's start with 055.
+  No, like, like, no, no,
+  I understand the issues like,
+  Time.
+  but like the doctor name thing, right?
+  That, but like,
+  what is the exact question regarding?
+  I need your help in fixing these.
+  I'm not able to fix these two issues.
+  I don't know why.
+  So like if you change the doctor name in
+  the info tab,
+  then it is not getting updated in which
+  session particularly or it is getting
+  Two and N.
+  updated.
+  In 2 and 9 it is not getting updated.
+  That's what you mean, right?
+  Hello!
+  Hello!
+  Can you audible?
+  Yes, sir.
+  Yes, yes.
+  No.
+  I think, like,
+  only in 219 it is not showing up.
+  That is the only issue, right?
+  What?
+  It it is not coming into it is not
+  getting updated in the section 2 and
+  section 9 right the doctor name.
+  Not able to give me one second,
+  let me try.
+  Uh, yes, uh, testing a time base,
+  section 2 or section 9.
+  OK, let me.
+  Okay, yeah, hello. Yeah, hello.
+  Please stop it.
+  You will say, "Asking something,
+  asking something,
+  Yeah, like your voice is getting echoed,
+  but...
+  it's just it's just one second and I.
+  Yeah, perfect. Go ahead.
+  You are saying that it is the document is
+  not getting updated in section 2 and
+  section 9, right?
+  Yes.
+  In section 2,
+  where do you want the doctor name to be
+  updated exactly? Like,
+  where is that field? On section 2,
+  I don't see anywhere the doctor name is
+  there.
+  In section 2,
+  Dipali has given you an image. It's in 1.
+  3 rather, not section 2,
+  section 1 and section 9.
+  Okay, section 1 it is not getting updated,
+  okay.
+  Yeah.
+  But I see.
+  Yes.
+  Well, one more section,
+  except apparently 4.
+  22 doesn't get change inputers.
+  It doesn't get change inputers either.
+  The new statements.
+  Any cases open for me to test, Rutwik?
+  Just going to try to open 3 photos for.
+  I'll end my session for 6117 if you want.
+  3164 is also open.
+  That is.
+  That is, I guess, LCT, right?
+  MCP, yeah, 316 for you then go for that.
+  3164.
+  Is it is a bit slower?
+  I think Raj is also back. So guys,
+  if there's a merging,
+  like merged PR that is required, correct?
+  So please ping him, you know. Sorry,
+  Samarth.
+  I think if I have to make changes, then,
+  like...
+  Is the latest code merged on dev already?
+  Like,
+  can I just pull that and make the changes
+  on that? Like, how is it currently?
+  I don't want to change anything,
+  like I don't want to mess up anything
+  that is already there.
+  Kartik, are you there?
+  Yes, I'm there. What's up? Okay.
+  Like,
+  if I have to make any change to the code,
+  like,
+  which is where is the latest code now,
+  so that I don't like make any other
+  changes or breaks anything else.
+  Exact from where can I pull the latest
+  code?
+  Is it merged on dev already everything?
+  Samarth, can you, can't we, yeah, yeah,
+  can't we rebase it? Like,
+  No.
+  can you rebase it?
+  That's what you were saying, correct?
+  Where should I rebase from? Yeah.
+  Yeah, yeah, that's what I mean.
+  Okay, okay, okay.
+  Rebase from the latest BMR.
+  I'll give you the number.
+  Because like section 9, I see section 9,
+  the doctor name is updating.
+  I just checked that.
+  So that is there, but section 1.4,
+  it is not working.
+  Option.
+  Bad ones.
+  Section 1.3, 1.4 and 4.22.
+  I only these the issue.
+  Four point, let me check.
+  No, 4.22 is the doctor named Raj.
+  Morgans.
+  Onion.
+  I think I guess section 4 is like,
+  don't you see like things are repeating,
+  right? Like for example, there is 4.2.1,
+  then there is 4.2.2, then 4.213,
+  and like it is still 4.216,
+  and then after 4.216, it is again like 4.
+  2.2.
+  of 4.2.3 and like it is repeating the 4.2.
+  5.
+  So...
+  You're saying that it's working?
+  No, no, I,
+  I'm saying the things are get like there
+  are duplicates of sections, so like,
+  because this was not, yeah,
+  There are duplicate subsections in this
+  in the.
+  for for section 4, yeah, like,
+  because I remember that it was not there
+  earlier, yeah,
+  just like just confirm once and there
+  actually duplicate, but that is one.
+  And I guess so.
+  Let me cheque on stage.
+  Which case ID are you looking at?
+  3164.
+  I'm sharing my screen.
+  Also, tell me the PR number, please,
+  whichever is the latest PR that I can
+  Huh?
+  tell me the latest PR so that I can at
+  least pull the PR till then.
+  I think it's 94, yeah.
+  Confirmed, right? That's cool.
+  Let me confirm in two seconds.
+  So you're saying that there are
+  duplicates where?
+  In section 4, if you see 4.2.2, select 4.
+  215 is repeating.
+  This is the stage which I'm sharing.
+  Do you think it's same similar to this or
+  no?
+  Roll down.
+  It's PR 95. OK.
+  Yeah.
+  It says the system at the.
+  Yes, it is.
+  OK, but I did not make any changes.
+  We made changes.
+  And if you scroll down, see...
+  After 4.2.6, there are duplicates.
+  Yeah, I see that.
+  Let me see which PR was this.
+  Let me correct that.
+  And let me also verify which is the
+  latest one.
+  Yeah,
+  I guess the latest one is 95 Raj verified
+  Yeah, 95, yes.
+  that. Yeah, I can rewatch to that,
+  but check,
+  confirm this one is like whatever you are
+  doing, right?
+  Yep, PR 95 is the latest.
+  I'm updating that PR,
+  so give me two seconds.
+  Sure.
+  Yep, uh, uh, P.R. 90 wait a second,
+  let me update.
+  Okay, yeah, go ahead, sir.
+  Rebase to PI 95.
+  Good to go.
+  While you're doing that,
+  you're doing for 055, right? Samarth?
+  Which one?
+  Are you doing for zero 55?
+  Are you going to fix the duplicate? Okay,
+  I've just raised a fix for zero 55 last
+  try promise last try.
+  I.
+  Yes.
+  Then you can go ahead if you will.
+  Let's just everyone.
+  Okay.
+  Have 2 minutes time.
+  I, I understand, just pulling it.
+  I have not made any changes,
+  Again, YouTube.
+  so you can test it out and then let my
+  wife.
+  Raj, can you like please merge PR 95?
+  And let's have a two-minute silence,
+  so it the change is not correct.
+  Have you deployed it already, Kartik?
+  No, first Raj will push,
+  and then I'll redeploy merge,
+  and then I'll redeploy.
+  Okay.
+  But it's a back-end change, I think,
+  so no redeployment needed, right?
+  But back-end deployment will be required,
+  right?
+  It's the other way around, actually,
+  on our UI. For front end,
+  Okay, okay, got it.
+  we need to redeploy, and for back end,
+  we don't need to redeploy.
+  OK, OK, Raj, you are merging it, right?
+  Ah, yes, yes.
+  OK, let let me know, guys, right,
+  if if my changes are required.
+  Hey guys, one more thing. I think Kartik,
+  Samarth, krishna, you guys on the group,
+  correct? Sanjay has messaged us. Hey,
+  Piyush, are we with the release, correct?
+  So let me know, like what,
+  like after 15 minutes,
+  what should I respond, guys? Okay.
+  You see the message on WhatsApp group,
+  it's there itself.
+  You always are on the group as well.
+  Kartik krishna Samarth correct.
+  So.
+  It's fine.
+  Let's do the work and in 15 minutes or 20
+  minutes,
+  just let me know what exactly I can
+  respond to. It's okay.
+  If he should be good with like all the
+  things on stage by 5 P.m.
+  and let's move it to like broad by 530 or
+  6,
+  I think then that is something which we
+  can mention him.
+  Okay, yeah, continue, yeah,
+  just want to bring it to your notice now.
+  Samarth, can you go,
+  can you like help me with the zero ones
+  exchange?
+  What is that exactly Kartik?
+  It is the the three digit name is giving
+  us troubles, so if three,
+  if there's a three word name,
+  let's say ABC,
+  then the name comes like Mister BC.
+  Instead of Mister C,
+  or it should be Mister ABC at some places
+  where it only says Mister C,
+  so that needs to be fixed.
+  So first name, middle name, last name,
+  that's the reference we basically need,
+  right?
+  What?
+  So, first name, middle name,
+  and last name - that is, like,
+  we just have to split those correctly,
+  right,
+  so that wherever last name is required,
+  the...
+  Yep, I did try fitting those. Yes, yes,
+  yes. That is the thing. It seems easy,
+  but it's not.
+  Okay, right.
+  I love dry lunch.
+  The businesses.
+  Samarth, you are equipped correct.
+  You are you are doing the change which
+  Kartik was stuck on.
+  Yes, yes.
+  Okay, okay, cool.
+  Guys, I have sent a response, okay?
+  I think you would have seen that as well.
+  So, yeah.
+  Just want to keep you posted.
+  kalesh,
+  are you done with the one change which
+  was left man?
+  Okay.
+  Mm.
+  We're anticipating.
+  OK.
+  Raj PR 96 based on the first name,
+  last name, middle name,
+  after that I can deploy it once.
+  Hope, Fenil.
+  Rajini's films.
+  Let me know once it is on, right,
+  so that I can.
+  Hmm, the best.
+  Oh.
+  Smart broader move, 96.
+  OK, let let me watch it.
+  Let me deploy it anyway.
+  Mm.
+  Raj, it is deployed. Kartik and Team,
+  can you test now?
+  He special names and everything is coming
+  correct now.
+  You've deployed the name fix,
+  name change fix,
+  Samarth - that's what you're saying.
+  Yep, yep.
+  And the doctor name thing is that fixed
+  Kartik you mentioned that in your latest
+  thing it is fixed, right?
+  Okay, I have reconnected.
+  Can you please release?
+  So Kartik, I think Samarth,
+  Samarth asked you something about the
+  No, I...
+  doctor name thing.
+  Can you just respond to that one as well,
+  Yeah.
+  man? Sorry.
+  Okay,
+  so I think the changes are not like
+  corrected.
+  You see Tejas has mentioned that it's
+  only changing 1.4, no change in 1.3, 4.2.
+  But when I test using my local
+  environment,
+  it's changing through it throughout the
+  thing.
+  So that fix is still to be implemented,
+  right? 1.4 and sorry, 1.3 and 4.2.2,
+  right?
+  Then the router name still has to be
+  Yep.
+  updated, right? OK.
+  1.3 and 4.2.2,
+  I'll try to fix those as well.
+  But for 016, which is the three name,
+  three letter name,
+  I am not able to fix that.
+  So you might want to have to.
+  Yeah, so I have replied that already.
+  Can you test if that is working now?
+  Okay, okay, so Tejas and Dipali,
+  let's test 016, please.
+  Are there anything else which you are not
+  able to, you know, fix it?
+  Can you please flag that, man?
+  Okay.
+  Helen must be investigated.
+  And kalesh,
+  were you able to fix that one with which
+  you were stuck with?
+  Still trying, when I go to fix Cortana,
+  the egg blocker.
+  It's fine. It's fine. It's okay.
+  It's been nobody. It's fine.
+  Block, Cortana, then I'll be implemented.
+  Uh-huh.
+  He can,
+  let's try for another five minutes here,
+  otherwise let's take some, it's OK,
+  but we have to really sit down and
+  understand, you know, how did you know,
+  like, where exactly are we missing?
+  Yeah.
+  Yes, so give me 10 minutes,
+  last 10 minutes, I will do that.
+  Mhm.
+  Ticket.
+  Gagan.
+  Earlier,
+  wherever last name was supposed to be
+  there,
+  where the middle name was also coming,
+  right, with the last name, right? Like,
+  for example, whatever the name was, right?
+  Yeah, so OK,
+  then let me tell you properly. So, yes,
+  That is not coming now, right?
+  Only the last name is there.
+  yes, let me tell you properly. So,
+  what was happening is earlier,
+  middle name and last name was like Ahmed
+  Bhatt, Mr. Ahmed Bhatt, Mr. Ahmed Bhatt.
+  I fixed that, and now everywhere, Mr.
+  ****, but, but, but,
+  but is coming where where the last name
+  should be there, but...
+  The issue is where the first full name
+  should be there, right? Like full name,
+  Mr. Sufia Ahmed Bhardwaj. There as well,
+  only the last name is coming.
+  That was the issue.
+  Middle name was not coming earlier as
+  well. So I over connected it, essentially.
+  Okay, got it.
+  So wherever full name is supposed to be
+  there. Okay,
+  can you share me the list of the,
+  There's only Mr. Ahmed.
+  can you share me the list of places where
+  full name is supposed to be there and
+  I'll fix it.
+  Oh, if that, I mean...
+  No, like, well, that I'm asking,
+  I'm asking because, like,
+  I don't have the list.
+  Yeah.
+  Yeah.
+  whoever has access to the template,
+  they can, they can give.
+  Okay, yeah, I have access to a template.
+  Yeah, I didn't think of that. It's smart.
+  You.
+  Let me give it to you.
+  Yeah, but...
+  Because, yeah, like that, that would be.
+  Is it okay if I do it in 5 minutes?
+  I'm in the middle of some very important
+  push to stage.
+  Okay, thank you.
+  Okay, okay, okay.
+  Sir.
+  No Dipali.
+  Okay.
+  Ohh, krishna,
+  you are OK with your changes, K?
+  You need Samarth,
+  well Tejas is trying for that one last
+  time his stuff.
+  Yes.
+  Yes,
+  as in like you need help or you are done.
+  Yes, I need some lessons.
+  No, I need help.
+  You need help, Kartik?
+  I think some are there.
+  S.
+  Ahmed,
+  there is one issue in our section 2 that.
+  When we click on our section to any
+  corner, that time the pop up will open.
+  And there we notice that for some cases,
+  there are multiple providers,
+  multiple providers.
+  So that's why that provider info is not
+  highlighted in the source document.
+  So, this fix.
+  Yeah, like that,
+  that will be like that only.
+  It's not because, like...
+  Like, multiple,
+  multiple providers can be present at any,
+  any, any part of the document, right? And,
+  like, as I mentioned earlier, as well,
+  the page numbers,
+  the document name that we get,
+  give the priority to the date, right? So,
+  for example, there is a 100 page document,
+  then in that 100 page.
+  Like,
+  there can be 5 different pages where
+  these five different providers will be
+  present, but the date, right,
+  date can be present at only one
+  particular place, right? So,
+  it will it will just...
+  What do you say? So,
+  so that particular page, right? So,
+  all the providers are all like, yeah,
+  of course,
+  like the day they might not be
+  highlighted,
+  like the only things that you have to do
+  is key.
+  Even though, like,
+  we we don't have to prioritise date each
+  and every column, we have to gather,
+  right?
+  And that is a very tangling process,
+  I would say, immediately.
+  Yeah.
+  If, if date is not getting highlighted,
+  then that is critical.
+  No, there's a...
+  What is issue list to me, uh,
+  who mentioned here, like he, uh,
+  multiple providers, who's gonna say, uh...
+  But only, like,
+  we we have discussed it multiple times,
+  right, krishna,
+  like priority page providers present it
+  will highlight, but other providers,
+  page numbers, like show full PDF.
+  Vispute.
+  If you stable, like,
+  date is the main priority right, document,
+  Okay.
+  but rest of the things.
+  Okay.
+  Okay.
+  So, sir, Abhi ke divya.
+  Please.
+  It's like changing it will take around
+  twenty-five 30 minutes minimum,
+  and that too I cannot guarantee.
+  Okay.
+  I think somebody,
+  but I would change exactly impact.
+  Huh, yes.
+  For example, section 2.1.2, right, 2.1.1,
+  sorry, provider name right,
+  multiple provider names present, right?
+  But providers not necessarily would be
+  Ah.
+  Gagan.
+  present on the same page, right?
+  Okay,
+  and we don't have those page numbers,
+  Correct.
+  right? Date page number, like page number,
+  date immediately highlight highlight,
+  Got it.
+  but rest of the providers highlight
+  document manually,
+  like there is a way to fix it,
+  but it is very time consuming.
+  Got it, got it.
+  Let's skip it, let's skip it.
+  Let's put it, let's put it P1 here.
+  The answer is that.
+  Okay.
+  It's OK. I will.
+  The sky is falling or report.
+  Perfect. It's OK to krishna. It's OK.
+  We will change next week.
+  Knowledge graph implemented.
+  Workflow trigger. UI changes to.
+  He can.
+  Topeka.
+  Acha.
+  But yeah,
+  sorry to cut you up to the report.
+  Pardon me.
+  So that's why.
+  Gagan.
+  OK, no worries. I think report 323242.
+  How, 67 pages?
+  Take care, take care, keep us posted here.
+  So, krishna,
+  I think accept that multiple doctor,
+  I think he correct.
+  Multiple providers for this.
+  Cool, cool, cool. OK, cool. So,
+  I think you are good now, correct,
+  Yes, yes.
+  But...
+  krishna? All, all OK, all done.
+  Yes, yes, yes.
+  Apply changes,
+  please test and then keep me posted.
+  Yeah.
+  I guess changes now.
+  I would expect next 1520 minutes report
+  by 4:30 I would expect a message from you.
+  Okay.
+  And then let me get here, so here,
+  take krishna that you have started kalesh.
+  Yeah.
+  Okay.
+  You were trying for the last time,
+  correct?
+  N.
+  Graphic talk in England.
+  Sorry.
+  Mail.
+  It's okay, again, you can ask Samarth,
+  correct? And meanwhile, Kartik,
+  you know something has to be done on the
+  UI this thing, you know?
+  Your, uh, whatever your, exactly, uh.
+  055.
+  I think Samarth was saying, no,
+  you were saying,
+  The one thing.
+  I am working on something very crucial.
+  Give me 5 minutes.
+  Just be ready with that thing.
+  Yes, yes, yes, I'm pushing to, uh,
+  pushing to stage.
+  POC.
+  Perfect. OK, test where you get back.
+  Meanwhile, Samarth is unblocking kalesh.
+  Please, yeah, go ahead.
+  Okay. Also, I found the issue for 055.
+  The thing is,
+  like for replacing the doctor name
+  throughout the report, that was a 055.
+  Uh-huh.
+  So the issue is that for all the reports,
+  the template is kind of very, very, very,
+  very different behind the scenes at least.
+  So I have to.
+  Okay.
+  Okay.
+  Add that fix for each doctor.
+  I think this is something which we
+  discussed.
+  Correct, Samarth.
+  I think you have to discuss with you,
+  Ohh.
+  Samarth, so they will mend their ways.
+  Correct, Samarth? Yeah,
+  Yes.
+  they discussed with you, Doctor,
+  Doctor Neil,
+  spacing or exact Kartik change exactly.
+  Can you like let me know?
+  So when we go to case info,
+  we write the name,
+  Doctor Gagan.
+  Uh-huh.
+  we change the doctor name.
+  And we want the edit section report and
+  the Word document to reflect that
+  doctor's name from then onwards.
+  Essentially change the doctor name when
+  we click,
+  when we go through the case info.
+  In my home.
+  There was Sanjay here, Dr. Vapasim change,
+  report sorry.
+  Mmh.
+  drop down in case info page.
+  Why don't I just show it? Yeah, yeah,
+  Uh-huh.
+  that's better. Let me see my screen.
+  Oh.
+  And Kartik, if that thing takes time here,
+  we can like unblock kalesh first and come
+  back. Let me know if it,
+  if it doesn't take time,
+  then I think it's fine. Let's continue.
+  I think I have raised a PR for that after
+  fixing that. So I think I can.
+  Did.
+  You can.
+  OK, so.
+  The point is,
+  and then let's figure out what exactly
+  you are saying.
+  Yeah.
+  Yes, Piyush, it's almost done.
+  Just give me the last five minutes.
+  I will push that.
+  This is one, one, one thing, one,
+  one thing, sorry, yeah, like it's for Raj.
+  He can, no, sure, sure, sure.
+  Go, go ahead, some sorry.
+  Raj, I have raised a new PR.
+  I guess it is PR 98, right? Yeah, PR 98.
+  I hate.
+  Yeah.
+  But Kartik, we raised Karana Samarth PR.
+  Well,
+  I guess Raj review other conflicts only,
+  so based on that, like we can then.
+  Okay, okay, cool, cool. Okay, Kartik,
+  and kalesh, you can take next 5 minutes,
+  sir. It's okay, but I, Kartik.
+  Okay, so let me open for 4713.
+  Uh-huh.
+  And you would see in the case info,
+  we have an option to change the doctor
+  Uh-huh.
+  name, right?
+  So let me just change it to doctor test
+  101. And now when we save,
+  we expect the edit section throughout to
+  Uh-huh.
+  now say test 101, right?
+  Uh-huh.
+  Best.
+  One 01, right? That's Doctor 101, 101,
+  101, one,
+  but in some places it was not changing,
+  particularly in score point.
+  Yeah, if you see on.
+  It was 4.2.2.
+  4.2.2.
+  Where is the doctor name? Yeah.
+  Gonzalez, Gonzalez, 2017.
+  Yeah, yeah.
+  Uh.
+  No, no, no. That is, I think, the...
+  That was not Gonzalez. Let me reload that.
+  Who was the case ID we were looking at?
+  It was.
+  But I think this particular thing as well,
+  but again, it's OK. This is not,
+  this is not P0, correct?
+  Team.
+  But Navpreet told that this is easy.
+  These are only people.
+  Me, but again, yeah,
+  one of the report report generate doctor
+  Okay, go ahead.
+  Ahmed.
+  named to change to,
+  so I assign you Doctor Nikhil Ghodadra
+  Yes, yeah.
+  Doctor Neil, just let,
+  let's make sure Doctor Nikhil.
+  Yes.
+  Anyways, let's go see what exactly it is.
+  OK, now.
+  Hot.
+  So let's say,
+  who was the official doctor of this guy?
+  It is Doctor...
+  Samuel Coventis, this is the doctor,
+  right?
+  No, the test, so it seems everywhere,
+  I think. Now, let's cheque 1.3, 1.
+  3 wasn't reflecting, like, look, Doctor,
+  it says Doctor Neil Ghodadra MD, right?
+  But it should, it should say Doctor 101.
+  The reason is that this is incorporated
+  Mhm.
+  in the template itself,
+  so we have to make...
+  Changes to the template itself, and for...
+  I think it's okay. It's okay. It's okay.
+  I think don't worry about it. It's fine.
+  Go. That's a bigger change. Or I say yes,
+  basically Doctor to change. It's okay.
+  Yeah.
+  I got a template. Doctor named.
+  When we select something different from
+  the drop-down,
+  Mm hmm.
+  we'll pick the different template itself,
+  correct, Kartik, then?
+  Yes.
+  Um...
+  Let's change it to something which is
+  which is like a like a different template
+  as well and that that is something which
+  we should check.
+  Does it change the like the template as
+  well?
+  Yeah,
+  it it will change the template as well,
+  Nikhil.
+  so, as I look, if I go to update.
+  So then,
+  so then it should change the name as well,
+  then it will change the name as well, no,
+  other template is the number is correct.
+  Doctor D,
+  and then it still says Neil Ghodadra MD
+  Ohh.
+  here, because this is a template.
+  I have to fix it for all the doctors.
+  Okay.
+  Like, look,
+  wherever it is not templatized,
+  the doctor name is not templatized,
+  like Doctor D is coming there properly,
+  Two.
+  but because it is like incorporated in
+  the template itself.
+  That's why it's not changing.
+  I have to change it in the template level.
+  Mm-hmm.
+  I have to make the template level change
+  here. So I think it's fresh left for P1.
+  Peter, Peter.
+  Would you agree?
+  I think it's fine. No, it's fine.
+  Or maybe we have to rerun the report and
+  I know.
+  Cappone.
+  then it will work fine, correct?
+  True, yeah, could be, yeah.
+  So I'm going to colour them blue then. OK.
+  Okay, take care.
+  Yeah, yeah, pick me.
+  And Marco put a comment in there saying
+  that changing the doctor name is highly
+  unlikely.
+  That's why we are putting it to P1 as it
+  requires us to change the templates,
+  which is a bigger fix.
+  Yeah, took it, yeah.
+  Hello, hello, Kartik.
+  Section 4 bug, right?
+  You're saying the section 4?
+  Yes, yes, you double double R.
+  Yeah, yeah, Samarth pointed that out. I,
+  I'm currently looking at which PR caused
+  this, which PR modified section 4.
+  Okay.
+  Excellent.
+  Okay, so Kartik,
+  that was the blocker of scale,
+  something like, of course,
+  this new thing came up now, or what else?
+  No, there is no blocker apart from that.
+  I think we are good with all my changes.
+  Except only one is left then.
+  We are.
+  Yeah, only one.
+  No, then two are left, only two are left.
+  Hello, take it OK.
+  Fix 4:30 is the time we have. OK,
+  so Charles Raj with the fix,
+  get up on the admindataeng, let's plan.
+  Okay, yeah.
+  OK, kalesh,
+  time of no more extensions you are done,
+  Done.
+  or you still need like...
+  One minute.
+  Yeah, my test.
+  I take a test, oh yeah, good.
+  Well,
+  take a test before we say before we start
+  to celebrate here.
+  krishna report and who are we?
+  Cabridos.
+  Should I have it?
+  Chicken, OK,
+  but I got children at the OCR only get
+  Bhardwaj. To be a complete new way,
+  correct?
+  Ohh.
+  Ticker, ticker.
+  Okay.
+  So, obviously, you put dev parent,
+  krishna.
+  Ohh, you made a...
+  My account.
+  Ohh, my dev.
+  How are you?
+  Has.
+  Nick.
+  Take care.
+  Kanesh, would you want?
+  Would you like to share the screen here,
+  because I think like shooting in the dark
+  world of thing in ARV?
+  Play "Lag Ragiya Chal Raise Diana
+  Screenshare Kar Tuya Topka".
+  Exactly testing.
+  Blocker actually code with Joel when the
+  latest blocker just testing minor but
+  Good.
+  Mhm.
+  Mm.
+  Mhm.
+  blocker.
+  Sweet.
+  The way in a nutshell,
+  the life easier to code again, all OK.
+  You have been able to work through it.
+  Ohh, yeah, it's me, so okay, so okay,
+  when is it will let us call Catherine?
+  So, the testing,
+  let's share the screen and see.
+  Are you a who Gagan?
+  Good.
+  Mmhmm.
+  M dot D dot yeah apply another not give.
+  Take that.
+  That's why it's not testing.
+  Take a Kartik.
+  Do you have M dot divya?
+  I need to report to the government.
+  Just give me 5 minutes,
+  I will show you a bit.
+  Team, OK.
+  Okay, krishna is also running the report.
+  You are also running the report. Kartik,
+  you are stuck anywhere.
+  Can someone work on that?
+  Only one left, the 10, no, Samarth,
+  I think it's more of a SNS thing.
+  I implemented SNS,
+  so I think I could be the best fit for
+  But.
+  this.
+  OK, and what about the other one?
+  Can someone pick that up?
+  Yes, yes, yes, please. Let's go, Sam.
+  Samarth, yeah, sorry,
+  I'm putting you on spot here,
+  but just I'm aiming for this 5 P.m.
+  thing here again, so that you are aware,
+  What is the issue again?
+  so Tejas.
+  But are you sorry?
+  Honey,
+  I was just asking what is the issue,
+  sorry.
+  Aha, the one I think is, I think, is.
+  Four.2 repetition, Samarth,
+  the one that you pointed out, right?
+  The 4.2 is being, after 4.6,
+  it's being repeated, that one will be.
+  Okay, okay.
+  OK.
+  Tusamatuspe Aapkam Karliya Kartik.
+  Okay.
+  Who was me, Sanjay?
+  Babasi Yados.
+  Word document.
+  Okay, okay, Samarth, word,
+  so Kartik and everything on dev,
+  Okay, okay, okay.
+  and then everything on stage,
+  and with one click of a button on six,
+  7 PM on after we run a couple of reports
+  on stage.
+  Take care.
+  Guys, I want thumbs up.
+  Can you give me a quick thumbs up?
+  Samarth, it's fine.
+  I know you will not be able to order,
+  so we'll figure out something else for
+  you. But everyone, Raj, Kartik, Dipali,
+  Kali.
+  Kartik,
+  I know that you are you are in a joking
+  man, it's fine. I know for you, Raj,
+  you are in a in a town where this thing
+  works, correct?
+  Uh, Zomato Swiggy. OK, cool. Uh,
+  so you are in Kartik,
+  you are also in correct? Thumbs up, man,
+  please.
+  Kartik,
+  you are on mute if you are talking, man.
+  He's somewhere else, OK. No worries,
+  krishna, krishna, Tejas, kalesh, Dipali.
+  I want thumbs up here.
+  Thumbs actually,
+  thumbs down - that's the easier thing.
+  We are getting here.
+  krishna, Tejas, kalesh, Dipali.
+  Yes, Piyush.
+  Play look both the uni.
+  It thumbs down.
+  Same, sir. Mere aapeni.
+  Chicken, okay,
+  Dipali gave Nikhil there krishna.
+  Thank you.
+  Nate.
+  Nate.
+  Acha kalesh.
+  Yeah.
+  When I try any, I don't think I think.
+  When is the matter of speaking to be
+  training in life?
+  Play Pune, get yaar.
+  Okay, cool.
+  You know, otherwise I would have told you,
+  but I think this is what you know,
+  I like I used to wait earlier in the in
+  the evening.
+  Piga, it's fine, so...
+  OK, Dipali, kalesh, and krishna.
+  I got it out, take care.
+  Amatji Kapki Helpdesk.
+  Hello, Sanjay.
+  Yes, yes, yes, yes.
+  Or, it will become a contrast.
+  I.
+  Sorry, can you repeat?
+  Ohh.
+  Yeah, Task.
+  I am not able to see the screen.
+  Ohh, I didn't see you.
+  Six number one 75 years or annually one
+  time per year.
+  Maybe not.
+  8.
+  Ohh, who you have?
+  Yeah, yeah, those section 9 table 4,
+  right? So,
+  Yes, sir.
+  frequency here that that should be like
+  mentioned, right?
+  Yeah.
+  Both frequency and frequency.
+  Okay, one time per year.
+  Um, krishna, right?
+  Okay, my love, uh, Navpreet.
+  Once every five years,
+  or one time per year,
+  is come meaning to almost same.
+  Once every five years, only one time 5,
+  uh, like, yeah, okay,
+  I will drop my computer over, sorry.
+  One every one year, once every one year,
+  or one time per year,
+  but there is make no difference.
+  Nate to change.
+  I mean,
+  yet to back yet to UIP change for my name
+  is Krishna Bola Ki backend me like a
+  change of frequency,
+  so I guess we all know already.
+  I got you.
+  Yes, we already.
+  Okay.
+  Uh, kalesh testing.
+  Ohh, okay, problem is test word export.
+  Mhm.
+  Export, that's why.
+  Okay, perfect. Thank you,
+  thank you so much. Yeah, okay, good. Um,
+  Yeah.
+  krishna, you are also good, correct? You,
+  you already told that key you are already
+  merging something and doing it in dev.
+  Yeah, like, like cast status, have you?
+  Case ID to run away or data be.
+  Case ID.
+  Apne.
+  Aapne cheque Kiya Ki Sada store like a
+  good parcel Tony good tables.
+  AWS will cheque data check. Clinic now.
+  Sure.
+  So, the applica for the book.
+  case ID unknown case ID unknown.
+  I think he easy fix.
+  Hey.
+  Oh.
+  TK, Carlos, fix Carlos, okay, pull Carlos,
+  next by 10 minutes of fix Carlos.
+  Kartik, where are you? Actually,
+  you said you will be right back in 10
+  minutes. Okay, Samarth, Kartik,
+  you are doing that right?
+  Is it like tricky? Is it not tricky?
+  What is that here?
+  Ohh, I, I, I'm taking this.
+  I don't have a comment on that yet.
+  Okay, take it.
+  Ticket.
+  It.
+  Dipali, Tejas, Raj, testing,
+  I think kalesh,
+  Yeah, so.
+  this has been merged and krishna.
+  But, again, then,
+  so that you know people can revise their
+  code,
+  and I think Kartik and Samarth Kartik,
+  cool.
+  DA.
+  So, Tejas and Kartik, you are here,
+  correct?
+  Type Kartik.
+  Helpdesk.
+  I can see you both are typing correct.
+  It's better to just talk through.
+  For Kartik, my 1.3 or 4.2.
+  So Kartik,
+  just drop off from the call and join in
+  again, try that.
+  Sometimes it fixes things when, yeah.
+  Raj Bhardwaj.
+  Hola vs Bola.
+  It uh, 0.
+  04 if I cheque the religion of mail kind
+  of was to be.
+  Who made a post access in the mailbox?
+  Ponzala.
+  04045.
+  Mhm.
+  Yeah, I know.
+  Of still the mapping menu.
+  Not implemented as such.
+  So, Navpreet.
+  Okay.
+  Zero for sale in Stephen Mali.
+  Hello, zero volume.
+  Hello!
+  Call Tejas.
+  I was.
+  045.
+  045.
+  Raj, I have raised a new PR,
+  PR number 100.
+  Can you review that and merge please?
+  This is a fix for that duplication thing
+  that was happening for section 2.
+  Hello!
+  Yes, Summary.
+  That you, you are you reviewing it right?
+  You are not under.
+  100, no? Yes, yes.
+  Yes, okay, but...
